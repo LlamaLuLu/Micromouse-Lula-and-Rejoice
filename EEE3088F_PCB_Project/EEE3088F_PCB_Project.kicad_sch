@@ -1,0 +1,21 @@
+(kicad_sch
+	(version 20250114)
+	(generator "eeschema")
+	(generator_version "9.0")
+	(uuid "f23689db-9b6c-49fb-9c64-c652802710b2")
+	(paper "A4")
+	(title_block
+		(title "Micromouse Power Subsystem")
+		(date "2025-03-24")
+		(rev "v0")
+		(comment 3 "LNGLUL002 & MTMREJ003")
+		(comment 4 "Lulama Lingela & Rejoice Matema")
+	)
+	(lib_symbols)
+	(sheet_instances
+		(path "/"
+			(page "1")
+		)
+	)
+	(embedded_fonts no)
+)
