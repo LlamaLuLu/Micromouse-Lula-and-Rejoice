@@ -3351,7 +3351,7 @@
 	)
 	(text "Motors"
 		(exclude_from_sim no)
-		(at 26.67 115.824 0)
+		(at 22.606 70.358 0)
 		(effects
 			(font
 				(size 2.54 2.54)
@@ -3381,7 +3381,7 @@
 	)
 	(text "External Load Switch"
 		(exclude_from_sim no)
-		(at 176.784 83.312 0)
+		(at 217.678 83.058 0)
 		(effects
 			(font
 				(size 2.54 2.54)
@@ -3811,7 +3811,7 @@
 	)
 	(symbol
 		(lib_id "AO3401A:AO3401A")
-		(at 185.42 102.87 0)
+		(at 219.71 100.33 0)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -3820,7 +3820,7 @@
 		(fields_autoplaced yes)
 		(uuid "26566795-d519-46f1-b965-c52241e87f80")
 		(property "Reference" "Q1"
-			(at 187.96 101.4964 0)
+			(at 222.25 98.9564 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -3829,7 +3829,7 @@
 			)
 		)
 		(property "Value" "AO3401A"
-			(at 187.96 104.0364 0)
+			(at 222.25 101.4964 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -3838,7 +3838,7 @@
 			)
 		)
 		(property "Footprint" "AO3401A:SOT23"
-			(at 185.42 102.87 0)
+			(at 219.71 100.33 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -3848,7 +3848,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 185.42 102.87 0)
+			(at 219.71 100.33 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -3857,7 +3857,7 @@
 			)
 		)
 		(property "Description" ""
-			(at 185.42 102.87 0)
+			(at 219.71 100.33 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -3866,7 +3866,7 @@
 			)
 		)
 		(property "MF" "Alpha & Omega Semiconductor"
-			(at 185.42 102.87 0)
+			(at 219.71 100.33 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -3876,7 +3876,7 @@
 			)
 		)
 		(property "Description_1" "P-Channel 30 V 4A (Ta) 1.4W (Ta) Surface Mount SOT-23-3"
-			(at 185.42 102.87 0)
+			(at 219.71 100.33 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -3886,7 +3886,7 @@
 			)
 		)
 		(property "Package" "SOT-23 Alpha &amp; Omega Semiconductor"
-			(at 185.42 102.87 0)
+			(at 219.71 100.33 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -3896,7 +3896,7 @@
 			)
 		)
 		(property "Price" "None"
-			(at 185.42 102.87 0)
+			(at 219.71 100.33 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -3906,7 +3906,7 @@
 			)
 		)
 		(property "SnapEDA_Link" "https://www.snapeda.com/parts/AO3401A/Alpha/view-part/?ref=snap"
-			(at 185.42 102.87 0)
+			(at 219.71 100.33 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -3916,7 +3916,7 @@
 			)
 		)
 		(property "MP" "AO3401A"
-			(at 185.42 102.87 0)
+			(at 219.71 100.33 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -3926,7 +3926,7 @@
 			)
 		)
 		(property "Availability" "In Stock"
-			(at 185.42 102.87 0)
+			(at 219.71 100.33 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -3936,7 +3936,7 @@
 			)
 		)
 		(property "Check_prices" "https://www.snapeda.com/parts/AO3401A/Alpha/view-part/?ref=eda"
-			(at 185.42 102.87 0)
+			(at 219.71 100.33 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -4135,7 +4135,7 @@
 	)
 	(symbol
 		(lib_id "MMBT2222A:MMBT2222A")
-		(at 218.44 113.03 0)
+		(at 247.65 111.76 0)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -4144,7 +4144,7 @@
 		(fields_autoplaced yes)
 		(uuid "3210ecd6-2f4c-482d-ad60-bab669fe6915")
 		(property "Reference" "Q4"
-			(at 222.25 111.7599 0)
+			(at 251.46 110.4899 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -4153,7 +4153,7 @@
 			)
 		)
 		(property "Value" "MMBT2222A"
-			(at 222.25 114.2999 0)
+			(at 251.46 113.0299 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -4162,7 +4162,7 @@
 			)
 		)
 		(property "Footprint" "MMBT2222A:SOT95P240X120-3N"
-			(at 218.44 113.03 0)
+			(at 247.65 111.76 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -4172,7 +4172,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 218.44 113.03 0)
+			(at 247.65 111.76 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -4181,7 +4181,7 @@
 			)
 		)
 		(property "Description" ""
-			(at 218.44 113.03 0)
+			(at 247.65 111.76 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -4190,7 +4190,7 @@
 			)
 		)
 		(property "MF" "Diotec Semiconductor"
-			(at 218.44 113.03 0)
+			(at 247.65 111.76 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -4200,7 +4200,7 @@
 			)
 		)
 		(property "SNAPEDA_PACKAGE_ID" "124619"
-			(at 218.44 113.03 0)
+			(at 247.65 111.76 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -4210,7 +4210,7 @@
 			)
 		)
 		(property "Package" "SOT-23 Diotec"
-			(at 218.44 113.03 0)
+			(at 247.65 111.76 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -4220,7 +4220,7 @@
 			)
 		)
 		(property "Price" "None"
-			(at 218.44 113.03 0)
+			(at 247.65 111.76 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -4230,7 +4230,7 @@
 			)
 		)
 		(property "Check_prices" "https://www.snapeda.com/parts/MMBT2222A/Diotec/view-part/?ref=eda"
-			(at 218.44 113.03 0)
+			(at 247.65 111.76 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -4240,7 +4240,7 @@
 			)
 		)
 		(property "STANDARD" "IPC 7351B"
-			(at 218.44 113.03 0)
+			(at 247.65 111.76 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -4250,7 +4250,7 @@
 			)
 		)
 		(property "PARTREV" "2024-03-11"
-			(at 218.44 113.03 0)
+			(at 247.65 111.76 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -4260,7 +4260,7 @@
 			)
 		)
 		(property "SnapEDA_Link" "https://www.snapeda.com/parts/MMBT2222A/Diotec/view-part/?ref=snap"
-			(at 218.44 113.03 0)
+			(at 247.65 111.76 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -4270,7 +4270,7 @@
 			)
 		)
 		(property "MP" "MMBT2222A"
-			(at 218.44 113.03 0)
+			(at 247.65 111.76 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -4280,7 +4280,7 @@
 			)
 		)
 		(property "Description_1" "BJT, SOT-23, 40V, 600mA, NPN, 0.25W, 150°C"
-			(at 218.44 113.03 0)
+			(at 247.65 111.76 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -4290,7 +4290,7 @@
 			)
 		)
 		(property "MANUFACTURER" "Diotec"
-			(at 218.44 113.03 0)
+			(at 247.65 111.76 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -4300,7 +4300,7 @@
 			)
 		)
 		(property "Availability" "In Stock"
-			(at 218.44 113.03 0)
+			(at 247.65 111.76 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -4310,7 +4310,7 @@
 			)
 		)
 		(property "MAXIMUM_PACKAGE_HEIGHT" "1.20mm"
-			(at 218.44 113.03 0)
+			(at 247.65 111.76 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -4409,7 +4409,7 @@
 	)
 	(symbol
 		(lib_id "AO3401A:AO3401A")
-		(at 231.14 102.87 0)
+		(at 260.35 101.6 0)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -4418,7 +4418,7 @@
 		(fields_autoplaced yes)
 		(uuid "41548444-b92e-4b7a-8b78-c51406e2244d")
 		(property "Reference" "Q2"
-			(at 233.68 101.4964 0)
+			(at 262.89 100.2264 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -4427,7 +4427,7 @@
 			)
 		)
 		(property "Value" "AO3401A"
-			(at 233.68 104.0364 0)
+			(at 262.89 102.7664 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -4436,7 +4436,7 @@
 			)
 		)
 		(property "Footprint" "AO3401A:SOT23"
-			(at 231.14 102.87 0)
+			(at 260.35 101.6 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -4446,7 +4446,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 231.14 102.87 0)
+			(at 260.35 101.6 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -4455,7 +4455,7 @@
 			)
 		)
 		(property "Description" ""
-			(at 231.14 102.87 0)
+			(at 260.35 101.6 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -4464,7 +4464,7 @@
 			)
 		)
 		(property "MF" "Alpha & Omega Semiconductor"
-			(at 231.14 102.87 0)
+			(at 260.35 101.6 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -4474,7 +4474,7 @@
 			)
 		)
 		(property "Description_1" "P-Channel 30 V 4A (Ta) 1.4W (Ta) Surface Mount SOT-23-3"
-			(at 231.14 102.87 0)
+			(at 260.35 101.6 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -4484,7 +4484,7 @@
 			)
 		)
 		(property "Package" "SOT-23 Alpha &amp; Omega Semiconductor"
-			(at 231.14 102.87 0)
+			(at 260.35 101.6 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -4494,7 +4494,7 @@
 			)
 		)
 		(property "Price" "None"
-			(at 231.14 102.87 0)
+			(at 260.35 101.6 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -4504,7 +4504,7 @@
 			)
 		)
 		(property "SnapEDA_Link" "https://www.snapeda.com/parts/AO3401A/Alpha/view-part/?ref=snap"
-			(at 231.14 102.87 0)
+			(at 260.35 101.6 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -4514,7 +4514,7 @@
 			)
 		)
 		(property "MP" "AO3401A"
-			(at 231.14 102.87 0)
+			(at 260.35 101.6 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -4524,7 +4524,7 @@
 			)
 		)
 		(property "Availability" "In Stock"
-			(at 231.14 102.87 0)
+			(at 260.35 101.6 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -4534,7 +4534,7 @@
 			)
 		)
 		(property "Check_prices" "https://www.snapeda.com/parts/AO3401A/Alpha/view-part/?ref=eda"
-			(at 231.14 102.87 0)
+			(at 260.35 101.6 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -4702,7 +4702,7 @@
 	)
 	(symbol
 		(lib_id "MMBT2222A:MMBT2222A")
-		(at 167.64 115.57 0)
+		(at 201.93 113.03 0)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -4711,7 +4711,7 @@
 		(fields_autoplaced yes)
 		(uuid "46c98b5a-9068-45e3-a214-d47efb1fdec1")
 		(property "Reference" "Q3"
-			(at 171.45 114.2999 0)
+			(at 205.74 111.7599 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -4720,7 +4720,7 @@
 			)
 		)
 		(property "Value" "MMBT2222A"
-			(at 171.45 116.8399 0)
+			(at 205.74 114.2999 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -4729,7 +4729,7 @@
 			)
 		)
 		(property "Footprint" "MMBT2222A:SOT95P240X120-3N"
-			(at 167.64 115.57 0)
+			(at 201.93 113.03 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -4739,7 +4739,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 167.64 115.57 0)
+			(at 201.93 113.03 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -4748,7 +4748,7 @@
 			)
 		)
 		(property "Description" ""
-			(at 167.64 115.57 0)
+			(at 201.93 113.03 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -4757,7 +4757,7 @@
 			)
 		)
 		(property "MF" "Diotec Semiconductor"
-			(at 167.64 115.57 0)
+			(at 201.93 113.03 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -4767,7 +4767,7 @@
 			)
 		)
 		(property "SNAPEDA_PACKAGE_ID" "124619"
-			(at 167.64 115.57 0)
+			(at 201.93 113.03 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -4777,7 +4777,7 @@
 			)
 		)
 		(property "Package" "SOT-23 Diotec"
-			(at 167.64 115.57 0)
+			(at 201.93 113.03 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -4787,7 +4787,7 @@
 			)
 		)
 		(property "Price" "None"
-			(at 167.64 115.57 0)
+			(at 201.93 113.03 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -4797,7 +4797,7 @@
 			)
 		)
 		(property "Check_prices" "https://www.snapeda.com/parts/MMBT2222A/Diotec/view-part/?ref=eda"
-			(at 167.64 115.57 0)
+			(at 201.93 113.03 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -4807,7 +4807,7 @@
 			)
 		)
 		(property "STANDARD" "IPC 7351B"
-			(at 167.64 115.57 0)
+			(at 201.93 113.03 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -4817,7 +4817,7 @@
 			)
 		)
 		(property "PARTREV" "2024-03-11"
-			(at 167.64 115.57 0)
+			(at 201.93 113.03 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -4827,7 +4827,7 @@
 			)
 		)
 		(property "SnapEDA_Link" "https://www.snapeda.com/parts/MMBT2222A/Diotec/view-part/?ref=snap"
-			(at 167.64 115.57 0)
+			(at 201.93 113.03 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -4837,7 +4837,7 @@
 			)
 		)
 		(property "MP" "MMBT2222A"
-			(at 167.64 115.57 0)
+			(at 201.93 113.03 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -4847,7 +4847,7 @@
 			)
 		)
 		(property "Description_1" "BJT, SOT-23, 40V, 600mA, NPN, 0.25W, 150°C"
-			(at 167.64 115.57 0)
+			(at 201.93 113.03 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -4857,7 +4857,7 @@
 			)
 		)
 		(property "MANUFACTURER" "Diotec"
-			(at 167.64 115.57 0)
+			(at 201.93 113.03 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -4867,7 +4867,7 @@
 			)
 		)
 		(property "Availability" "In Stock"
-			(at 167.64 115.57 0)
+			(at 201.93 113.03 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -4877,7 +4877,7 @@
 			)
 		)
 		(property "MAXIMUM_PACKAGE_HEIGHT" "1.20mm"
-			(at 167.64 115.57 0)
+			(at 201.93 113.03 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -4975,7 +4975,7 @@
 	)
 	(symbol
 		(lib_id "DRV8833PWPR:DRV8833PWPR")
-		(at 100.33 157.48 0)
+		(at 43.18 168.91 0)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -4984,7 +4984,7 @@
 		(fields_autoplaced yes)
 		(uuid "78140ef2-cb15-418c-a780-0eccf8e888ef")
 		(property "Reference" "U5"
-			(at 100.33 124.46 0)
+			(at 43.18 135.89 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -4992,7 +4992,7 @@
 			)
 		)
 		(property "Value" "DRV8833PWPR"
-			(at 100.33 127 0)
+			(at 43.18 138.43 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -5000,7 +5000,7 @@
 			)
 		)
 		(property "Footprint" "DRV8833PWPR:IC_DRV8833PWPR"
-			(at 100.33 157.48 0)
+			(at 43.18 168.91 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -5010,7 +5010,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 100.33 157.48 0)
+			(at 43.18 168.91 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -5019,7 +5019,7 @@
 			)
 		)
 		(property "Description" ""
-			(at 100.33 157.48 0)
+			(at 43.18 168.91 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -5028,7 +5028,7 @@
 			)
 		)
 		(property "MF" "Texas Instruments"
-			(at 100.33 157.48 0)
+			(at 43.18 168.91 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -5038,7 +5038,7 @@
 			)
 		)
 		(property "MOUSER-PURCHASE-URL" "https://snapeda.com/shop?store=Mouser&id=377881"
-			(at 100.33 157.48 0)
+			(at 43.18 168.91 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -5048,7 +5048,7 @@
 			)
 		)
 		(property "DESCRIPTION" "10.8-V, 2-A dual H-bridge motor driver with current regulation 16-HTSSOP -40 to 85"
-			(at 100.33 157.48 0)
+			(at 43.18 168.91 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -5058,7 +5058,7 @@
 			)
 		)
 		(property "PACKAGE" "HTSSOP-16 Texas Instruments"
-			(at 100.33 157.48 0)
+			(at 43.18 168.91 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -5068,7 +5068,7 @@
 			)
 		)
 		(property "Price" "None"
-			(at 100.33 157.48 0)
+			(at 43.18 168.91 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -5078,7 +5078,7 @@
 			)
 		)
 		(property "PRICE" "None"
-			(at 100.33 157.48 0)
+			(at 43.18 168.91 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -5088,7 +5088,7 @@
 			)
 		)
 		(property "Package" "HTSSOP-16 Texas Instruments"
-			(at 100.33 157.48 0)
+			(at 43.18 168.91 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -5098,7 +5098,7 @@
 			)
 		)
 		(property "Check_prices" "https://www.snapeda.com/parts/DRV8833PWPR/Texas+Instruments/view-part/?ref=eda"
-			(at 100.33 157.48 0)
+			(at 43.18 168.91 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -5108,7 +5108,7 @@
 			)
 		)
 		(property "STANDARD" "Manufacturer Recommendations"
-			(at 100.33 157.48 0)
+			(at 43.18 168.91 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -5118,7 +5118,7 @@
 			)
 		)
 		(property "PARTREV" "E"
-			(at 100.33 157.48 0)
+			(at 43.18 168.91 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -5128,7 +5128,7 @@
 			)
 		)
 		(property "SnapEDA_Link" "https://www.snapeda.com/parts/DRV8833PWPR/Texas+Instruments/view-part/?ref=snap"
-			(at 100.33 157.48 0)
+			(at 43.18 168.91 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -5138,7 +5138,7 @@
 			)
 		)
 		(property "MP" "DRV8833PWPR"
-			(at 100.33 157.48 0)
+			(at 43.18 168.91 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -5148,7 +5148,7 @@
 			)
 		)
 		(property "TEXAS_INSTRUMENTS-PURCHASE-URL" "https://snapeda.com/shop?store=Texas+Instruments&id=377881"
-			(at 100.33 157.48 0)
+			(at 43.18 168.91 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -5158,7 +5158,7 @@
 			)
 		)
 		(property "MAXIMUM_PACKAGE_HEIGHT" "1.2mm"
-			(at 100.33 157.48 0)
+			(at 43.18 168.91 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -5168,7 +5168,7 @@
 			)
 		)
 		(property "Description_1" "10.8-V, 2-A dual H-bridge motor driver with current regulation"
-			(at 100.33 157.48 0)
+			(at 43.18 168.91 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -5178,7 +5178,7 @@
 			)
 		)
 		(property "Availability" "In Stock"
-			(at 100.33 157.48 0)
+			(at 43.18 168.91 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -5188,7 +5188,7 @@
 			)
 		)
 		(property "AVAILABILITY" "Warning"
-			(at 100.33 157.48 0)
+			(at 43.18 168.91 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -5198,7 +5198,7 @@
 			)
 		)
 		(property "DIGIKEY-PURCHASE-URL" "https://snapeda.com/shop?store=DigiKey&id=377881"
-			(at 100.33 157.48 0)
+			(at 43.18 168.91 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -5208,7 +5208,7 @@
 			)
 		)
 		(property "MANUFACTURER" "Texas Instruments"
-			(at 100.33 157.48 0)
+			(at 43.18 168.91 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -5349,7 +5349,7 @@
 	)
 	(symbol
 		(lib_id "DRV8833PWPR:DRV8833PWPR")
-		(at 49.53 156.21 0)
+		(at 43.18 107.95 0)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -5358,7 +5358,7 @@
 		(fields_autoplaced yes)
 		(uuid "94cdc4ae-e5b9-41ef-97ab-e115dabf63a1")
 		(property "Reference" "U4"
-			(at 49.53 123.19 0)
+			(at 43.18 74.93 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -5366,7 +5366,7 @@
 			)
 		)
 		(property "Value" "DRV8833PWPR"
-			(at 49.53 125.73 0)
+			(at 43.18 77.47 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -5374,7 +5374,7 @@
 			)
 		)
 		(property "Footprint" "DRV8833PWPR:IC_DRV8833PWPR"
-			(at 49.53 156.21 0)
+			(at 43.18 107.95 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -5384,7 +5384,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 49.53 156.21 0)
+			(at 43.18 107.95 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -5393,7 +5393,7 @@
 			)
 		)
 		(property "Description" ""
-			(at 49.53 156.21 0)
+			(at 43.18 107.95 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -5402,7 +5402,7 @@
 			)
 		)
 		(property "MF" "Texas Instruments"
-			(at 49.53 156.21 0)
+			(at 43.18 107.95 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -5412,7 +5412,7 @@
 			)
 		)
 		(property "MOUSER-PURCHASE-URL" "https://snapeda.com/shop?store=Mouser&id=377881"
-			(at 49.53 156.21 0)
+			(at 43.18 107.95 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -5422,7 +5422,7 @@
 			)
 		)
 		(property "DESCRIPTION" "10.8-V, 2-A dual H-bridge motor driver with current regulation 16-HTSSOP -40 to 85"
-			(at 49.53 156.21 0)
+			(at 43.18 107.95 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -5432,7 +5432,7 @@
 			)
 		)
 		(property "PACKAGE" "HTSSOP-16 Texas Instruments"
-			(at 49.53 156.21 0)
+			(at 43.18 107.95 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -5442,7 +5442,7 @@
 			)
 		)
 		(property "Price" "None"
-			(at 49.53 156.21 0)
+			(at 43.18 107.95 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -5452,7 +5452,7 @@
 			)
 		)
 		(property "PRICE" "None"
-			(at 49.53 156.21 0)
+			(at 43.18 107.95 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -5462,7 +5462,7 @@
 			)
 		)
 		(property "Package" "HTSSOP-16 Texas Instruments"
-			(at 49.53 156.21 0)
+			(at 43.18 107.95 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -5472,7 +5472,7 @@
 			)
 		)
 		(property "Check_prices" "https://www.snapeda.com/parts/DRV8833PWPR/Texas+Instruments/view-part/?ref=eda"
-			(at 49.53 156.21 0)
+			(at 43.18 107.95 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -5482,7 +5482,7 @@
 			)
 		)
 		(property "STANDARD" "Manufacturer Recommendations"
-			(at 49.53 156.21 0)
+			(at 43.18 107.95 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -5492,7 +5492,7 @@
 			)
 		)
 		(property "PARTREV" "E"
-			(at 49.53 156.21 0)
+			(at 43.18 107.95 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -5502,7 +5502,7 @@
 			)
 		)
 		(property "SnapEDA_Link" "https://www.snapeda.com/parts/DRV8833PWPR/Texas+Instruments/view-part/?ref=snap"
-			(at 49.53 156.21 0)
+			(at 43.18 107.95 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -5512,7 +5512,7 @@
 			)
 		)
 		(property "MP" "DRV8833PWPR"
-			(at 49.53 156.21 0)
+			(at 43.18 107.95 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -5522,7 +5522,7 @@
 			)
 		)
 		(property "TEXAS_INSTRUMENTS-PURCHASE-URL" "https://snapeda.com/shop?store=Texas+Instruments&id=377881"
-			(at 49.53 156.21 0)
+			(at 43.18 107.95 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -5532,7 +5532,7 @@
 			)
 		)
 		(property "MAXIMUM_PACKAGE_HEIGHT" "1.2mm"
-			(at 49.53 156.21 0)
+			(at 43.18 107.95 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -5542,7 +5542,7 @@
 			)
 		)
 		(property "Description_1" "10.8-V, 2-A dual H-bridge motor driver with current regulation"
-			(at 49.53 156.21 0)
+			(at 43.18 107.95 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -5552,7 +5552,7 @@
 			)
 		)
 		(property "Availability" "In Stock"
-			(at 49.53 156.21 0)
+			(at 43.18 107.95 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -5562,7 +5562,7 @@
 			)
 		)
 		(property "AVAILABILITY" "Warning"
-			(at 49.53 156.21 0)
+			(at 43.18 107.95 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -5572,7 +5572,7 @@
 			)
 		)
 		(property "DIGIKEY-PURCHASE-URL" "https://snapeda.com/shop?store=DigiKey&id=377881"
-			(at 49.53 156.21 0)
+			(at 43.18 107.95 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -5582,7 +5582,7 @@
 			)
 		)
 		(property "MANUFACTURER" "Texas Instruments"
-			(at 49.53 156.21 0)
+			(at 43.18 107.95 0)
 			(effects
 				(font
 					(size 1.27 1.27)
