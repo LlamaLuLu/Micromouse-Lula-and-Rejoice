@@ -1,0 +1,9 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP TPS62067DSGR
+D 3MHz, 2A Step-Down Converter in 2x2 SON Package
+K
+F http://www.ti.com/lit/gpn/TPS62067
+$ENDCMP
+#
+#End Doc Library

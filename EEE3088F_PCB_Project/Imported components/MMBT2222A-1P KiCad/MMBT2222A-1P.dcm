@@ -1,0 +1,9 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP MMBT2222A-1P
+D 40V 300mW 600mA NPN SOT-23 Bipolar (BJT) ROHS
+K
+F https://jlcpcb.com/api/file/downloadByFileSystemAccessId/8586172569255231488
+$ENDCMP
+#
+#End Doc Library

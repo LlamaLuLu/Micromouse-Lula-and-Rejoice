@@ -12,191 +12,137 @@
 		(comment 4 "Lulama Lingela & Rejoice Matema")
 	)
 	(lib_symbols
-		(symbol "AO3401A:AO3401A"
+		(symbol "AO3401A_1"
 			(pin_names
-				(offset 1.016)
+				(hide yes)
 			)
 			(exclude_from_sim no)
 			(in_bom yes)
 			(on_board yes)
 			(property "Reference" "Q"
-				(at 2.54 0 0)
+				(at 11.43 3.81 0)
 				(effects
 					(font
 						(size 1.27 1.27)
 					)
-					(justify left bottom)
+					(justify left top)
 				)
 			)
 			(property "Value" "AO3401A"
-				(at 2.54 -2.54 0)
+				(at 11.43 1.27 0)
 				(effects
 					(font
 						(size 1.27 1.27)
 					)
-					(justify left bottom)
+					(justify left top)
 				)
 			)
-			(property "Footprint" "AO3401A:SOT23"
+			(property "Footprint" "SOT95P280X125-3N"
+				(at 11.43 -98.73 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(justify left top)
+					(hide yes)
+				)
+			)
+			(property "Datasheet" "http://www.aosmd.com/pdfs/datasheet/AO3401A.pdf"
+				(at 11.43 -198.73 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(justify left top)
+					(hide yes)
+				)
+			)
+			(property "Description" "30V P-Channel MOSFET"
 				(at 0 0 0)
 				(effects
 					(font
 						(size 1.27 1.27)
 					)
-					(justify bottom)
 					(hide yes)
 				)
 			)
-			(property "Datasheet" ""
-				(at 0 0 0)
+			(property "Height" "1.25"
+				(at 11.43 -398.73 0)
 				(effects
 					(font
 						(size 1.27 1.27)
 					)
+					(justify left top)
 					(hide yes)
 				)
 			)
-			(property "Description" ""
-				(at 0 0 0)
+			(property "Manufacturer_Name" "Alpha & Omega Semiconductors"
+				(at 11.43 -498.73 0)
 				(effects
 					(font
 						(size 1.27 1.27)
 					)
+					(justify left top)
 					(hide yes)
 				)
 			)
-			(property "MF" "Alpha & Omega Semiconductor"
-				(at 0 0 0)
+			(property "Manufacturer_Part_Number" "AO3401A"
+				(at 11.43 -598.73 0)
 				(effects
 					(font
 						(size 1.27 1.27)
 					)
-					(justify bottom)
+					(justify left top)
 					(hide yes)
 				)
 			)
-			(property "Description_1" "P-Channel 30 V 4A (Ta) 1.4W (Ta) Surface Mount SOT-23-3"
-				(at 0 0 0)
+			(property "Mouser Part Number" ""
+				(at 11.43 -698.73 0)
 				(effects
 					(font
 						(size 1.27 1.27)
 					)
-					(justify bottom)
+					(justify left top)
 					(hide yes)
 				)
 			)
-			(property "Package" "SOT-23 Alpha &amp; Omega Semiconductor"
-				(at 0 0 0)
+			(property "Mouser Price/Stock" ""
+				(at 11.43 -798.73 0)
 				(effects
 					(font
 						(size 1.27 1.27)
 					)
-					(justify bottom)
+					(justify left top)
 					(hide yes)
 				)
 			)
-			(property "Price" "None"
-				(at 0 0 0)
+			(property "Arrow Part Number" "AO3401A"
+				(at 11.43 -898.73 0)
 				(effects
 					(font
 						(size 1.27 1.27)
 					)
-					(justify bottom)
+					(justify left top)
 					(hide yes)
 				)
 			)
-			(property "SnapEDA_Link" "https://www.snapeda.com/parts/AO3401A/Alpha/view-part/?ref=snap"
-				(at 0 0 0)
+			(property "Arrow Price/Stock" "https://www.arrow.com/en/products/ao3401a/alpha-and-omega-semiconductor?utm_currency=USD&region=nac"
+				(at 11.43 -998.73 0)
 				(effects
 					(font
 						(size 1.27 1.27)
 					)
-					(justify bottom)
+					(justify left top)
 					(hide yes)
 				)
 			)
-			(property "MP" "AO3401A"
-				(at 0 0 0)
-				(effects
-					(font
-						(size 1.27 1.27)
-					)
-					(justify bottom)
-					(hide yes)
-				)
-			)
-			(property "Availability" "In Stock"
-				(at 0 0 0)
-				(effects
-					(font
-						(size 1.27 1.27)
-					)
-					(justify bottom)
-					(hide yes)
-				)
-			)
-			(property "Check_prices" "https://www.snapeda.com/parts/AO3401A/Alpha/view-part/?ref=eda"
-				(at 0 0 0)
-				(effects
-					(font
-						(size 1.27 1.27)
-					)
-					(justify bottom)
-					(hide yes)
-				)
-			)
-			(symbol "AO3401A_0_0"
+			(symbol "AO3401A_1_1_1"
 				(polyline
 					(pts
-						(xy -2.54 -2.54) (xy -2.54 2.54)
+						(xy 2.54 0) (xy 5.08 0)
 					)
 					(stroke
-						(width 0.1524)
-						(type default)
-					)
-					(fill
-						(type none)
-					)
-				)
-				(rectangle
-					(start -2.032 1.397)
-					(end -1.524 2.921)
-					(stroke
-						(width 0.1)
-						(type default)
-					)
-					(fill
-						(type outline)
-					)
-				)
-				(rectangle
-					(start -2.032 -0.762)
-					(end -1.524 0.762)
-					(stroke
-						(width 0.1)
-						(type default)
-					)
-					(fill
-						(type outline)
-					)
-				)
-				(rectangle
-					(start -2.032 -2.921)
-					(end -1.524 -1.397)
-					(stroke
-						(width 0.1)
-						(type default)
-					)
-					(fill
-						(type outline)
-					)
-				)
-				(polyline
-					(pts
-						(xy -1.905 -2.2225) (xy 0 -2.2225)
-					)
-					(stroke
-						(width 0.1524)
+						(width 0.254)
 						(type default)
 					)
 					(fill
@@ -205,10 +151,10 @@
 				)
 				(polyline
 					(pts
-						(xy -1.5875 2.2225) (xy 0 2.2225)
+						(xy 5.08 5.08) (xy 5.08 0)
 					)
 					(stroke
-						(width 0.1524)
+						(width 0.254)
 						(type default)
 					)
 					(fill
@@ -217,10 +163,10 @@
 				)
 				(polyline
 					(pts
-						(xy -1.0795 0) (xy -1.905 0)
+						(xy 5.842 5.588) (xy 5.842 4.572)
 					)
 					(stroke
-						(width 0.1524)
+						(width 0.254)
 						(type default)
 					)
 					(fill
@@ -229,22 +175,34 @@
 				)
 				(polyline
 					(pts
-						(xy -0.0635 0) (xy -1.0795 -0.635) (xy -1.0795 0.635) (xy -0.0635 0)
+						(xy 5.842 2.032) (xy 5.842 3.048)
 					)
 					(stroke
-						(width 0.1016)
+						(width 0.254)
 						(type default)
 					)
 					(fill
-						(type outline)
+						(type none)
 					)
 				)
 				(polyline
 					(pts
-						(xy 0 2.54) (xy 0 2.2225)
+						(xy 5.842 0) (xy 7.62 0)
 					)
 					(stroke
-						(width 0.1524)
+						(width 0.254)
+						(type default)
+					)
+					(fill
+						(type none)
+					)
+				)
+				(polyline
+					(pts
+						(xy 5.842 -0.508) (xy 5.842 0.508)
+					)
+					(stroke
+						(width 0.254)
 						(type default)
 					)
 					(fill
@@ -252,10 +210,10 @@
 					)
 				)
 				(circle
-					(center 0 2.2225)
-					(radius 0.127)
+					(center 6.35 2.54)
+					(radius 3.81)
 					(stroke
-						(width 0.4064)
+						(width 0.254)
 						(type default)
 					)
 					(fill
@@ -264,10 +222,10 @@
 				)
 				(polyline
 					(pts
-						(xy 0 2.2225) (xy 1.27 2.2225)
+						(xy 7.62 5.08) (xy 5.842 5.08)
 					)
 					(stroke
-						(width 0.1524)
+						(width 0.254)
 						(type default)
 					)
 					(fill
@@ -276,10 +234,10 @@
 				)
 				(polyline
 					(pts
-						(xy 0 0) (xy 0 -2.2225)
+						(xy 7.62 5.08) (xy 7.62 7.62)
 					)
 					(stroke
-						(width 0.1524)
+						(width 0.254)
 						(type default)
 					)
 					(fill
@@ -288,151 +246,90 @@
 				)
 				(polyline
 					(pts
-						(xy 0 -2.2225) (xy 0 -2.54)
+						(xy 7.62 2.54) (xy 5.842 2.54)
 					)
 					(stroke
-						(width 0.1524)
+						(width 0.254)
 						(type default)
 					)
 					(fill
 						(type none)
 					)
 				)
-				(circle
-					(center 0 -2.2225)
-					(radius 0.127)
+				(polyline
+					(pts
+						(xy 7.62 2.54) (xy 7.62 -2.54)
+					)
 					(stroke
-						(width 0.4064)
+						(width 0.254)
 						(type default)
 					)
 					(fill
 						(type none)
 					)
 				)
-				(rectangle
-					(start 0.762 -0.5715)
-					(end 1.778 -0.3175)
+				(polyline
+					(pts
+						(xy 7.62 2.54) (xy 6.604 3.048) (xy 6.604 2.032) (xy 7.62 2.54)
+					)
 					(stroke
-						(width 0.1)
+						(width 0.254)
 						(type default)
 					)
 					(fill
 						(type outline)
-					)
-				)
-				(polyline
-					(pts
-						(xy 1.27 2.2225) (xy 1.27 -2.2225)
-					)
-					(stroke
-						(width 0.1524)
-						(type default)
-					)
-					(fill
-						(type none)
-					)
-				)
-				(polyline
-					(pts
-						(xy 1.27 -0.3175) (xy 1.778 0.4445) (xy 0.762 0.4445) (xy 1.27 -0.3175)
-					)
-					(stroke
-						(width 0.1524)
-						(type default)
-					)
-					(fill
-						(type outline)
-					)
-				)
-				(polyline
-					(pts
-						(xy 1.27 -2.2225) (xy 0 -2.2225)
-					)
-					(stroke
-						(width 0.1524)
-						(type default)
-					)
-					(fill
-						(type none)
-					)
-				)
-				(text "G"
-					(at -3.81 -1.905 0)
-					(effects
-						(font
-							(size 1.016 1.016)
-						)
-						(justify left bottom)
-					)
-				)
-				(text "D"
-					(at 0.635 2.8575 0)
-					(effects
-						(font
-							(size 1.016 1.016)
-						)
-						(justify left bottom)
-					)
-				)
-				(text "S"
-					(at 0.635 -3.81 0)
-					(effects
-						(font
-							(size 1.016 1.016)
-						)
-						(justify left bottom)
 					)
 				)
 				(pin passive line
-					(at -5.08 -2.54 0)
+					(at 0 0 0)
 					(length 2.54)
-					(name "~"
+					(name "G"
 						(effects
 							(font
-								(size 1.016 1.016)
+								(size 1.27 1.27)
 							)
 						)
 					)
 					(number "1"
 						(effects
 							(font
-								(size 1.016 1.016)
+								(size 1.27 1.27)
 							)
 						)
 					)
 				)
 				(pin passive line
-					(at 0 5.08 270)
+					(at 7.62 10.16 270)
 					(length 2.54)
-					(name "~"
+					(name "D"
 						(effects
 							(font
-								(size 1.016 1.016)
+								(size 1.27 1.27)
 							)
 						)
 					)
 					(number "3"
 						(effects
 							(font
-								(size 1.016 1.016)
+								(size 1.27 1.27)
 							)
 						)
 					)
 				)
 				(pin passive line
-					(at 0 -5.08 90)
+					(at 7.62 -5.08 90)
 					(length 2.54)
-					(name "~"
+					(name "S"
 						(effects
 							(font
-								(size 1.016 1.016)
+								(size 1.27 1.27)
 							)
 						)
 					)
 					(number "2"
 						(effects
 							(font
-								(size 1.016 1.016)
+								(size 1.27 1.27)
 							)
 						)
 					)
@@ -1453,562 +1350,422 @@
 			(embedded_fonts no)
 		)
 		(symbol "DRV8833PWPR:DRV8833PWPR"
-			(pin_names
-				(offset 1.016)
-			)
 			(exclude_from_sim no)
 			(in_bom yes)
 			(on_board yes)
-			(property "Reference" "U"
-				(at -15.24 28.94 0)
+			(property "Reference" "IC"
+				(at 26.67 7.62 0)
 				(effects
 					(font
 						(size 1.27 1.27)
 					)
-					(justify left bottom)
+					(justify left top)
 				)
 			)
 			(property "Value" "DRV8833PWPR"
-				(at -15.24 -29.4 0)
+				(at 26.67 5.08 0)
 				(effects
 					(font
 						(size 1.27 1.27)
 					)
-					(justify left bottom)
+					(justify left top)
 				)
 			)
-			(property "Footprint" "DRV8833PWPR:IC_DRV8833PWPR"
+			(property "Footprint" "SOP65P640X120-16N"
+				(at 26.67 -94.92 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(justify left top)
+					(hide yes)
+				)
+			)
+			(property "Datasheet" "http://www.ti.com/lit/gpn/drv8833"
+				(at 26.67 -194.92 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(justify left top)
+					(hide yes)
+				)
+			)
+			(property "Description" "2A Low Voltage Dual Brushed DC or Single Bipolar Stepper Motor Driver (PWM Ctrl)"
 				(at 0 0 0)
 				(effects
 					(font
 						(size 1.27 1.27)
 					)
-					(justify bottom)
 					(hide yes)
 				)
 			)
-			(property "Datasheet" ""
-				(at 0 0 0)
+			(property "Height" "1.2"
+				(at 26.67 -394.92 0)
 				(effects
 					(font
 						(size 1.27 1.27)
 					)
+					(justify left top)
 					(hide yes)
 				)
 			)
-			(property "Description" ""
-				(at 0 0 0)
+			(property "Manufacturer_Name" "Texas Instruments"
+				(at 26.67 -494.92 0)
 				(effects
 					(font
 						(size 1.27 1.27)
 					)
+					(justify left top)
 					(hide yes)
 				)
 			)
-			(property "MF" "Texas Instruments"
-				(at 0 0 0)
+			(property "Manufacturer_Part_Number" "DRV8833PWPR"
+				(at 26.67 -594.92 0)
 				(effects
 					(font
 						(size 1.27 1.27)
 					)
-					(justify bottom)
+					(justify left top)
 					(hide yes)
 				)
 			)
-			(property "MOUSER-PURCHASE-URL" "https://snapeda.com/shop?store=Mouser&id=377881"
-				(at 0 0 0)
+			(property "Mouser Part Number" "595-DRV8833PWPR"
+				(at 26.67 -694.92 0)
 				(effects
 					(font
 						(size 1.27 1.27)
 					)
-					(justify bottom)
+					(justify left top)
 					(hide yes)
 				)
 			)
-			(property "DESCRIPTION" "10.8-V, 2-A dual H-bridge motor driver with current regulation 16-HTSSOP -40 to 85"
-				(at 0 0 0)
+			(property "Mouser Price/Stock" "https://www.mouser.co.uk/ProductDetail/Texas-Instruments/DRV8833PWPR?qs=luhu8ESwuKxT62RV9jrJTg%3D%3D"
+				(at 26.67 -794.92 0)
 				(effects
 					(font
 						(size 1.27 1.27)
 					)
-					(justify bottom)
+					(justify left top)
 					(hide yes)
 				)
 			)
-			(property "PACKAGE" "HTSSOP-16 Texas Instruments"
-				(at 0 0 0)
+			(property "Arrow Part Number" "DRV8833PWPR"
+				(at 26.67 -894.92 0)
 				(effects
 					(font
 						(size 1.27 1.27)
 					)
-					(justify bottom)
+					(justify left top)
 					(hide yes)
 				)
 			)
-			(property "Price" "None"
-				(at 0 0 0)
+			(property "Arrow Price/Stock" "https://www.arrow.com/en/products/drv8833pwpr/texas-instruments?utm_currency=USD&region=europe"
+				(at 26.67 -994.92 0)
 				(effects
 					(font
 						(size 1.27 1.27)
 					)
-					(justify bottom)
+					(justify left top)
 					(hide yes)
 				)
 			)
-			(property "PRICE" "None"
-				(at 0 0 0)
-				(effects
-					(font
-						(size 1.27 1.27)
-					)
-					(justify bottom)
-					(hide yes)
-				)
-			)
-			(property "Package" "HTSSOP-16 Texas Instruments"
-				(at 0 0 0)
-				(effects
-					(font
-						(size 1.27 1.27)
-					)
-					(justify bottom)
-					(hide yes)
-				)
-			)
-			(property "Check_prices" "https://www.snapeda.com/parts/DRV8833PWPR/Texas+Instruments/view-part/?ref=eda"
-				(at 0 0 0)
-				(effects
-					(font
-						(size 1.27 1.27)
-					)
-					(justify bottom)
-					(hide yes)
-				)
-			)
-			(property "STANDARD" "Manufacturer Recommendations"
-				(at 0 0 0)
-				(effects
-					(font
-						(size 1.27 1.27)
-					)
-					(justify bottom)
-					(hide yes)
-				)
-			)
-			(property "PARTREV" "E"
-				(at 0 0 0)
-				(effects
-					(font
-						(size 1.27 1.27)
-					)
-					(justify bottom)
-					(hide yes)
-				)
-			)
-			(property "SnapEDA_Link" "https://www.snapeda.com/parts/DRV8833PWPR/Texas+Instruments/view-part/?ref=snap"
-				(at 0 0 0)
-				(effects
-					(font
-						(size 1.27 1.27)
-					)
-					(justify bottom)
-					(hide yes)
-				)
-			)
-			(property "MP" "DRV8833PWPR"
-				(at 0 0 0)
-				(effects
-					(font
-						(size 1.27 1.27)
-					)
-					(justify bottom)
-					(hide yes)
-				)
-			)
-			(property "TEXAS_INSTRUMENTS-PURCHASE-URL" "https://snapeda.com/shop?store=Texas+Instruments&id=377881"
-				(at 0 0 0)
-				(effects
-					(font
-						(size 1.27 1.27)
-					)
-					(justify bottom)
-					(hide yes)
-				)
-			)
-			(property "MAXIMUM_PACKAGE_HEIGHT" "1.2mm"
-				(at 0 0 0)
-				(effects
-					(font
-						(size 1.27 1.27)
-					)
-					(justify bottom)
-					(hide yes)
-				)
-			)
-			(property "Description_1" "10.8-V, 2-A dual H-bridge motor driver with current regulation"
-				(at 0 0 0)
-				(effects
-					(font
-						(size 1.27 1.27)
-					)
-					(justify bottom)
-					(hide yes)
-				)
-			)
-			(property "Availability" "In Stock"
-				(at 0 0 0)
-				(effects
-					(font
-						(size 1.27 1.27)
-					)
-					(justify bottom)
-					(hide yes)
-				)
-			)
-			(property "AVAILABILITY" "Warning"
-				(at 0 0 0)
-				(effects
-					(font
-						(size 1.27 1.27)
-					)
-					(justify bottom)
-					(hide yes)
-				)
-			)
-			(property "DIGIKEY-PURCHASE-URL" "https://snapeda.com/shop?store=DigiKey&id=377881"
-				(at 0 0 0)
-				(effects
-					(font
-						(size 1.27 1.27)
-					)
-					(justify bottom)
-					(hide yes)
-				)
-			)
-			(property "MANUFACTURER" "Texas Instruments"
-				(at 0 0 0)
-				(effects
-					(font
-						(size 1.27 1.27)
-					)
-					(justify bottom)
-					(hide yes)
-				)
-			)
-			(symbol "DRV8833PWPR_0_0"
+			(symbol "DRV8833PWPR_1_1"
 				(rectangle
-					(start -15.24 -25.4)
-					(end 15.24 27.94)
+					(start 5.08 2.54)
+					(end 25.4 -20.32)
 					(stroke
-						(width 0.41)
+						(width 0.254)
 						(type default)
 					)
 					(fill
 						(type background)
 					)
 				)
-				(pin power_in line
-					(at -20.32 25.4 0)
-					(length 5.08)
-					(name "VINT"
-						(effects
-							(font
-								(size 1.016 1.016)
-							)
-						)
-					)
-					(number "14"
-						(effects
-							(font
-								(size 1.016 1.016)
-							)
-						)
-					)
-				)
-				(pin power_in line
-					(at -20.32 22.86 0)
-					(length 5.08)
-					(name "VM"
-						(effects
-							(font
-								(size 1.016 1.016)
-							)
-						)
-					)
-					(number "12"
-						(effects
-							(font
-								(size 1.016 1.016)
-							)
-						)
-					)
-				)
-				(pin bidirectional line
-					(at -20.32 15.24 0)
-					(length 5.08)
-					(name "VCP"
-						(effects
-							(font
-								(size 1.016 1.016)
-							)
-						)
-					)
-					(number "11"
-						(effects
-							(font
-								(size 1.016 1.016)
-							)
-						)
-					)
-				)
-				(pin input line
-					(at -20.32 10.16 0)
+				(pin passive line
+					(at 0 0 0)
 					(length 5.08)
 					(name "NSLEEP"
 						(effects
 							(font
-								(size 1.016 1.016)
+								(size 1.27 1.27)
 							)
 						)
 					)
 					(number "1"
 						(effects
 							(font
-								(size 1.016 1.016)
+								(size 1.27 1.27)
 							)
 						)
 					)
 				)
-				(pin input line
-					(at -20.32 5.08 0)
-					(length 5.08)
-					(name "AIN1"
-						(effects
-							(font
-								(size 1.016 1.016)
-							)
-						)
-					)
-					(number "16"
-						(effects
-							(font
-								(size 1.016 1.016)
-							)
-						)
-					)
-				)
-				(pin input line
-					(at -20.32 2.54 0)
-					(length 5.08)
-					(name "AIN2"
-						(effects
-							(font
-								(size 1.016 1.016)
-							)
-						)
-					)
-					(number "15"
-						(effects
-							(font
-								(size 1.016 1.016)
-							)
-						)
-					)
-				)
-				(pin input line
-					(at -20.32 -2.54 0)
-					(length 5.08)
-					(name "BIN1"
-						(effects
-							(font
-								(size 1.016 1.016)
-							)
-						)
-					)
-					(number "9"
-						(effects
-							(font
-								(size 1.016 1.016)
-							)
-						)
-					)
-				)
-				(pin input line
-					(at -20.32 -5.08 0)
-					(length 5.08)
-					(name "BIN2"
-						(effects
-							(font
-								(size 1.016 1.016)
-							)
-						)
-					)
-					(number "10"
-						(effects
-							(font
-								(size 1.016 1.016)
-							)
-						)
-					)
-				)
-				(pin output line
-					(at 20.32 10.16 180)
-					(length 5.08)
-					(name "~{NFAULT}"
-						(effects
-							(font
-								(size 1.016 1.016)
-							)
-						)
-					)
-					(number "8"
-						(effects
-							(font
-								(size 1.016 1.016)
-							)
-						)
-					)
-				)
-				(pin output line
-					(at 20.32 5.08 180)
+				(pin passive line
+					(at 0 -2.54 0)
 					(length 5.08)
 					(name "AOUT1"
 						(effects
 							(font
-								(size 1.016 1.016)
+								(size 1.27 1.27)
 							)
 						)
 					)
 					(number "2"
 						(effects
 							(font
-								(size 1.016 1.016)
+								(size 1.27 1.27)
 							)
 						)
 					)
 				)
-				(pin output line
-					(at 20.32 2.54 180)
-					(length 5.08)
-					(name "AOUT2"
-						(effects
-							(font
-								(size 1.016 1.016)
-							)
-						)
-					)
-					(number "4"
-						(effects
-							(font
-								(size 1.016 1.016)
-							)
-						)
-					)
-				)
-				(pin output line
-					(at 20.32 -2.54 180)
-					(length 5.08)
-					(name "BOUT1"
-						(effects
-							(font
-								(size 1.016 1.016)
-							)
-						)
-					)
-					(number "7"
-						(effects
-							(font
-								(size 1.016 1.016)
-							)
-						)
-					)
-				)
-				(pin output line
-					(at 20.32 -5.08 180)
-					(length 5.08)
-					(name "BOUT2"
-						(effects
-							(font
-								(size 1.016 1.016)
-							)
-						)
-					)
-					(number "5"
-						(effects
-							(font
-								(size 1.016 1.016)
-							)
-						)
-					)
-				)
-				(pin bidirectional line
-					(at 20.32 -10.16 180)
+				(pin passive line
+					(at 0 -5.08 0)
 					(length 5.08)
 					(name "AISEN"
 						(effects
 							(font
-								(size 1.016 1.016)
+								(size 1.27 1.27)
 							)
 						)
 					)
 					(number "3"
 						(effects
 							(font
-								(size 1.016 1.016)
+								(size 1.27 1.27)
 							)
 						)
 					)
 				)
-				(pin bidirectional line
-					(at 20.32 -12.7 180)
+				(pin passive line
+					(at 0 -7.62 0)
+					(length 5.08)
+					(name "AOUT2"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+					(number "4"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+				)
+				(pin passive line
+					(at 0 -10.16 0)
+					(length 5.08)
+					(name "BOUT2"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+					(number "5"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+				)
+				(pin passive line
+					(at 0 -12.7 0)
 					(length 5.08)
 					(name "BISEN"
 						(effects
 							(font
-								(size 1.016 1.016)
+								(size 1.27 1.27)
 							)
 						)
 					)
 					(number "6"
 						(effects
 							(font
-								(size 1.016 1.016)
+								(size 1.27 1.27)
 							)
 						)
 					)
 				)
 				(pin passive line
-					(at 20.32 -20.32 180)
+					(at 0 -15.24 0)
 					(length 5.08)
-					(name "EXP"
+					(name "BOUT1"
 						(effects
 							(font
-								(size 1.016 1.016)
+								(size 1.27 1.27)
 							)
 						)
 					)
-					(number "17"
+					(number "7"
 						(effects
 							(font
-								(size 1.016 1.016)
+								(size 1.27 1.27)
 							)
 						)
 					)
 				)
-				(pin power_in line
-					(at 20.32 -22.86 180)
+				(pin passive line
+					(at 0 -17.78 0)
+					(length 5.08)
+					(name "NFAULT"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+					(number "8"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+				)
+				(pin passive line
+					(at 30.48 0 180)
+					(length 5.08)
+					(name "AIN1"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+					(number "16"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+				)
+				(pin passive line
+					(at 30.48 -2.54 180)
+					(length 5.08)
+					(name "AIN2"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+					(number "15"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+				)
+				(pin passive line
+					(at 30.48 -5.08 180)
+					(length 5.08)
+					(name "VINT"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+					(number "14"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+				)
+				(pin passive line
+					(at 30.48 -7.62 180)
 					(length 5.08)
 					(name "GND"
 						(effects
 							(font
-								(size 1.016 1.016)
+								(size 1.27 1.27)
 							)
 						)
 					)
 					(number "13"
 						(effects
 							(font
-								(size 1.016 1.016)
+								(size 1.27 1.27)
+							)
+						)
+					)
+				)
+				(pin passive line
+					(at 30.48 -10.16 180)
+					(length 5.08)
+					(name "VM"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+					(number "12"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+				)
+				(pin passive line
+					(at 30.48 -12.7 180)
+					(length 5.08)
+					(name "VCP"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+					(number "11"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+				)
+				(pin passive line
+					(at 30.48 -15.24 180)
+					(length 5.08)
+					(name "BIN2"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+					(number "10"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+				)
+				(pin passive line
+					(at 30.48 -17.78 180)
+					(length 5.08)
+					(name "BIN1"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+					(number "9"
+						(effects
+							(font
+								(size 1.27 1.27)
 							)
 						)
 					)
@@ -2459,290 +2216,278 @@
 			(embedded_fonts no)
 		)
 		(symbol "INA219AIDCNR:INA219AIDCNR"
-			(pin_names
-				(offset 1.016)
-			)
 			(exclude_from_sim no)
 			(in_bom yes)
 			(on_board yes)
-			(property "Reference" "U"
-				(at -12.7 16.24 0)
+			(property "Reference" "IC"
+				(at 21.59 7.62 0)
 				(effects
 					(font
 						(size 1.27 1.27)
 					)
-					(justify left bottom)
+					(justify left top)
 				)
 			)
 			(property "Value" "INA219AIDCNR"
-				(at -12.7 -19.24 0)
+				(at 21.59 5.08 0)
 				(effects
 					(font
 						(size 1.27 1.27)
 					)
-					(justify left bottom)
+					(justify left top)
 				)
 			)
-			(property "Footprint" "INA219AIDCNR:SOT65P280X145-8N"
+			(property "Footprint" "SOP65P280X145-8N"
+				(at 21.59 -94.92 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(justify left top)
+					(hide yes)
+				)
+			)
+			(property "Datasheet" "https://componentsearchengine.com/Datasheets/2/INA219AIDCNR.pdf"
+				(at 21.59 -194.92 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(justify left top)
+					(hide yes)
+				)
+			)
+			(property "Description" "TEXAS INSTRUMENTS - INA219AIDCNR - CURRENT/POWER MONITOR, SOT-23-8, FULL REEL"
 				(at 0 0 0)
 				(effects
 					(font
 						(size 1.27 1.27)
 					)
-					(justify bottom)
 					(hide yes)
 				)
 			)
-			(property "Datasheet" ""
-				(at 0 0 0)
+			(property "Height" "1.45"
+				(at 21.59 -394.92 0)
 				(effects
 					(font
 						(size 1.27 1.27)
 					)
+					(justify left top)
 					(hide yes)
 				)
 			)
-			(property "Description" ""
-				(at 0 0 0)
+			(property "Manufacturer_Name" "Texas Instruments"
+				(at 21.59 -494.92 0)
 				(effects
 					(font
 						(size 1.27 1.27)
 					)
+					(justify left top)
 					(hide yes)
 				)
 			)
-			(property "MF" "Texas Instruments"
-				(at 0 0 0)
+			(property "Manufacturer_Part_Number" "INA219AIDCNR"
+				(at 21.59 -594.92 0)
 				(effects
 					(font
 						(size 1.27 1.27)
 					)
-					(justify bottom)
+					(justify left top)
 					(hide yes)
 				)
 			)
-			(property "Description_1" "26-V 12-bit I2C output digital power monitor"
-				(at 0 0 0)
+			(property "Mouser Part Number" "595-INA219AIDCNR"
+				(at 21.59 -694.92 0)
 				(effects
 					(font
 						(size 1.27 1.27)
 					)
-					(justify bottom)
+					(justify left top)
 					(hide yes)
 				)
 			)
-			(property "Package" "SOT-23-8 Texas Instruments"
-				(at 0 0 0)
+			(property "Mouser Price/Stock" "https://www.mouser.co.uk/ProductDetail/Texas-Instruments/INA219AIDCNR?qs=NNt36bEIu0tiHc879dL2eg%3D%3D"
+				(at 21.59 -794.92 0)
 				(effects
 					(font
 						(size 1.27 1.27)
 					)
-					(justify bottom)
+					(justify left top)
 					(hide yes)
 				)
 			)
-			(property "Price" "None"
-				(at 0 0 0)
+			(property "Arrow Part Number" "INA219AIDCNR"
+				(at 21.59 -894.92 0)
 				(effects
 					(font
 						(size 1.27 1.27)
 					)
-					(justify bottom)
+					(justify left top)
 					(hide yes)
 				)
 			)
-			(property "SnapEDA_Link" "https://www.snapeda.com/parts/INA219AIDCNR/Texas+Instruments/view-part/?ref=snap"
-				(at 0 0 0)
+			(property "Arrow Price/Stock" "https://www.arrow.com/en/products/ina219aidcnr/texas-instruments?utm_currency=USD&region=nac"
+				(at 21.59 -994.92 0)
 				(effects
 					(font
 						(size 1.27 1.27)
 					)
-					(justify bottom)
+					(justify left top)
 					(hide yes)
 				)
 			)
-			(property "MP" "INA219AIDCNR"
-				(at 0 0 0)
-				(effects
-					(font
-						(size 1.27 1.27)
-					)
-					(justify bottom)
-					(hide yes)
-				)
-			)
-			(property "Availability" "In Stock"
-				(at 0 0 0)
-				(effects
-					(font
-						(size 1.27 1.27)
-					)
-					(justify bottom)
-					(hide yes)
-				)
-			)
-			(property "Check_prices" "https://www.snapeda.com/parts/INA219AIDCNR/Texas+Instruments/view-part/?ref=eda"
-				(at 0 0 0)
-				(effects
-					(font
-						(size 1.27 1.27)
-					)
-					(justify bottom)
-					(hide yes)
-				)
-			)
-			(symbol "INA219AIDCNR_0_0"
+			(symbol "INA219AIDCNR_1_1"
 				(rectangle
-					(start -12.7 -15.24)
-					(end 12.7 15.24)
+					(start 5.08 2.54)
+					(end 20.32 -10.16)
 					(stroke
-						(width 0.41)
+						(width 0.254)
 						(type default)
 					)
 					(fill
 						(type background)
 					)
 				)
-				(pin input line
-					(at -17.78 7.62 0)
-					(length 5.08)
-					(name "A0"
-						(effects
-							(font
-								(size 1.016 1.016)
-							)
-						)
-					)
-					(number "7"
-						(effects
-							(font
-								(size 1.016 1.016)
-							)
-						)
-					)
-				)
-				(pin input line
-					(at -17.78 5.08 0)
-					(length 5.08)
-					(name "A1"
-						(effects
-							(font
-								(size 1.016 1.016)
-							)
-						)
-					)
-					(number "8"
-						(effects
-							(font
-								(size 1.016 1.016)
-							)
-						)
-					)
-				)
-				(pin input line
-					(at -17.78 2.54 0)
+				(pin passive line
+					(at 0 0 0)
 					(length 5.08)
 					(name "IN+"
 						(effects
 							(font
-								(size 1.016 1.016)
+								(size 1.27 1.27)
 							)
 						)
 					)
 					(number "1"
 						(effects
 							(font
-								(size 1.016 1.016)
+								(size 1.27 1.27)
 							)
 						)
 					)
 				)
-				(pin input line
-					(at -17.78 0 0)
+				(pin passive line
+					(at 0 -2.54 0)
 					(length 5.08)
 					(name "IN-"
 						(effects
 							(font
-								(size 1.016 1.016)
+								(size 1.27 1.27)
 							)
 						)
 					)
 					(number "2"
 						(effects
 							(font
-								(size 1.016 1.016)
+								(size 1.27 1.27)
 							)
 						)
 					)
 				)
-				(pin input line
-					(at -17.78 -2.54 0)
-					(length 5.08)
-					(name "SCL"
-						(effects
-							(font
-								(size 1.016 1.016)
-							)
-						)
-					)
-					(number "5"
-						(effects
-							(font
-								(size 1.016 1.016)
-							)
-						)
-					)
-				)
-				(pin bidirectional line
-					(at -17.78 -7.62 0)
-					(length 5.08)
-					(name "SDA"
-						(effects
-							(font
-								(size 1.016 1.016)
-							)
-						)
-					)
-					(number "6"
-						(effects
-							(font
-								(size 1.016 1.016)
-							)
-						)
-					)
-				)
-				(pin power_in line
-					(at 17.78 12.7 180)
-					(length 5.08)
-					(name "VS"
-						(effects
-							(font
-								(size 1.016 1.016)
-							)
-						)
-					)
-					(number "4"
-						(effects
-							(font
-								(size 1.016 1.016)
-							)
-						)
-					)
-				)
-				(pin power_in line
-					(at 17.78 -12.7 180)
+				(pin passive line
+					(at 0 -5.08 0)
 					(length 5.08)
 					(name "GND"
 						(effects
 							(font
-								(size 1.016 1.016)
+								(size 1.27 1.27)
 							)
 						)
 					)
 					(number "3"
 						(effects
 							(font
-								(size 1.016 1.016)
+								(size 1.27 1.27)
+							)
+						)
+					)
+				)
+				(pin passive line
+					(at 0 -7.62 0)
+					(length 5.08)
+					(name "VS"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+					(number "4"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+				)
+				(pin passive line
+					(at 25.4 0 180)
+					(length 5.08)
+					(name "A1"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+					(number "8"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+				)
+				(pin passive line
+					(at 25.4 -2.54 180)
+					(length 5.08)
+					(name "A0"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+					(number "7"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+				)
+				(pin passive line
+					(at 25.4 -5.08 180)
+					(length 5.08)
+					(name "SDA"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+					(number "6"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+				)
+				(pin passive line
+					(at 25.4 -7.62 180)
+					(length 5.08)
+					(name "SCL"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+					(number "5"
+						(effects
+							(font
+								(size 1.27 1.27)
 							)
 						)
 					)
@@ -3039,308 +2784,296 @@
 			(embedded_fonts no)
 		)
 		(symbol "TPS62067DSGR:TPS62067DSGR"
-			(pin_names
-				(offset 1.016)
-			)
 			(exclude_from_sim no)
 			(in_bom yes)
 			(on_board yes)
-			(property "Reference" "U"
-				(at -12.7 16.24 0)
+			(property "Reference" "IC"
+				(at 26.67 7.62 0)
 				(effects
 					(font
 						(size 1.27 1.27)
 					)
-					(justify left bottom)
+					(justify left top)
 				)
 			)
 			(property "Value" "TPS62067DSGR"
-				(at -12.7 -19.24 0)
+				(at 26.67 5.08 0)
 				(effects
 					(font
 						(size 1.27 1.27)
 					)
-					(justify left bottom)
+					(justify left top)
 				)
 			)
-			(property "Footprint" "TPS62067DSGR:SON50P200X200X80-9N"
+			(property "Footprint" "SON50P200X200X80-9N"
+				(at 26.67 -94.92 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(justify left top)
+					(hide yes)
+				)
+			)
+			(property "Datasheet" "http://www.ti.com/lit/gpn/TPS62067"
+				(at 26.67 -194.92 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(justify left top)
+					(hide yes)
+				)
+			)
+			(property "Description" "3MHz, 2A Step-Down Converter in 2x2 SON Package"
 				(at 0 0 0)
 				(effects
 					(font
 						(size 1.27 1.27)
 					)
-					(justify bottom)
 					(hide yes)
 				)
 			)
-			(property "Datasheet" ""
-				(at 0 0 0)
+			(property "Height" "0.8"
+				(at 26.67 -394.92 0)
 				(effects
 					(font
 						(size 1.27 1.27)
 					)
+					(justify left top)
 					(hide yes)
 				)
 			)
-			(property "Description" ""
-				(at 0 0 0)
+			(property "Manufacturer_Name" "Texas Instruments"
+				(at 26.67 -494.92 0)
 				(effects
 					(font
 						(size 1.27 1.27)
 					)
+					(justify left top)
 					(hide yes)
 				)
 			)
-			(property "MF" "Texas Instruments"
-				(at 0 0 0)
+			(property "Manufacturer_Part_Number" "TPS62067DSGR"
+				(at 26.67 -594.92 0)
 				(effects
 					(font
 						(size 1.27 1.27)
 					)
-					(justify bottom)
+					(justify left top)
 					(hide yes)
 				)
 			)
-			(property "Description_1" "3MHz, 2A Step-Down Converter in 2x2 SON Package"
-				(at 0 0 0)
+			(property "Mouser Part Number" "595-TPS62067DSGR"
+				(at 26.67 -694.92 0)
 				(effects
 					(font
 						(size 1.27 1.27)
 					)
-					(justify bottom)
+					(justify left top)
 					(hide yes)
 				)
 			)
-			(property "Package" "WSON-8 Texas Instruments"
-				(at 0 0 0)
+			(property "Mouser Price/Stock" "https://www.mouser.co.uk/ProductDetail/Texas-Instruments/TPS62067DSGR?qs=EuM%2FBx4ov4T1eAPCjkYm3A%3D%3D"
+				(at 26.67 -794.92 0)
 				(effects
 					(font
 						(size 1.27 1.27)
 					)
-					(justify bottom)
+					(justify left top)
 					(hide yes)
 				)
 			)
-			(property "Price" "None"
-				(at 0 0 0)
+			(property "Arrow Part Number" "TPS62067DSGR"
+				(at 26.67 -894.92 0)
 				(effects
 					(font
 						(size 1.27 1.27)
 					)
-					(justify bottom)
+					(justify left top)
 					(hide yes)
 				)
 			)
-			(property "SnapEDA_Link" "https://www.snapeda.com/parts/TPS62067DSGR/Texas+Instruments/view-part/?ref=snap"
-				(at 0 0 0)
+			(property "Arrow Price/Stock" "https://www.arrow.com/en/products/tps62067dsgr/texas-instruments?region=nac"
+				(at 26.67 -994.92 0)
 				(effects
 					(font
 						(size 1.27 1.27)
 					)
-					(justify bottom)
+					(justify left top)
 					(hide yes)
 				)
 			)
-			(property "MP" "TPS62067DSGR"
-				(at 0 0 0)
-				(effects
-					(font
-						(size 1.27 1.27)
-					)
-					(justify bottom)
-					(hide yes)
-				)
-			)
-			(property "Availability" "In Stock"
-				(at 0 0 0)
-				(effects
-					(font
-						(size 1.27 1.27)
-					)
-					(justify bottom)
-					(hide yes)
-				)
-			)
-			(property "Check_prices" "https://www.snapeda.com/parts/TPS62067DSGR/Texas+Instruments/view-part/?ref=eda"
-				(at 0 0 0)
-				(effects
-					(font
-						(size 1.27 1.27)
-					)
-					(justify bottom)
-					(hide yes)
-				)
-			)
-			(symbol "TPS62067DSGR_0_0"
+			(symbol "TPS62067DSGR_1_1"
 				(rectangle
-					(start -12.7 -15.24)
-					(end 12.7 15.24)
+					(start 5.08 2.54)
+					(end 25.4 -15.24)
 					(stroke
-						(width 0.41)
+						(width 0.254)
 						(type default)
 					)
 					(fill
 						(type background)
 					)
 				)
-				(pin input line
-					(at -17.78 12.7 0)
-					(length 5.08)
-					(name "AVIN"
-						(effects
-							(font
-								(size 1.016 1.016)
-							)
-						)
-					)
-					(number "7"
-						(effects
-							(font
-								(size 1.016 1.016)
-							)
-						)
-					)
-				)
-				(pin input line
-					(at -17.78 10.16 0)
-					(length 5.08)
-					(name "EN"
-						(effects
-							(font
-								(size 1.016 1.016)
-							)
-						)
-					)
-					(number "5"
-						(effects
-							(font
-								(size 1.016 1.016)
-							)
-						)
-					)
-				)
-				(pin input line
-					(at -17.78 7.62 0)
-					(length 5.08)
-					(name "FB"
-						(effects
-							(font
-								(size 1.016 1.016)
-							)
-						)
-					)
-					(number "4"
-						(effects
-							(font
-								(size 1.016 1.016)
-							)
-						)
-					)
-				)
-				(pin input line
-					(at -17.78 5.08 0)
-					(length 5.08)
-					(name "MODE"
-						(effects
-							(font
-								(size 1.016 1.016)
-							)
-						)
-					)
-					(number "6"
-						(effects
-							(font
-								(size 1.016 1.016)
-							)
-						)
-					)
-				)
-				(pin input line
-					(at -17.78 2.54 0)
-					(length 5.08)
-					(name "PVIN"
-						(effects
-							(font
-								(size 1.016 1.016)
-							)
-						)
-					)
-					(number "8"
-						(effects
-							(font
-								(size 1.016 1.016)
-							)
-						)
-					)
-				)
-				(pin bidirectional line
-					(at -17.78 -2.54 0)
-					(length 5.08)
-					(name "EP"
-						(effects
-							(font
-								(size 1.016 1.016)
-							)
-						)
-					)
-					(number "9"
-						(effects
-							(font
-								(size 1.016 1.016)
-							)
-						)
-					)
-				)
-				(pin output line
-					(at 17.78 12.7 180)
-					(length 5.08)
-					(name "SW"
-						(effects
-							(font
-								(size 1.016 1.016)
-							)
-						)
-					)
-					(number "2"
-						(effects
-							(font
-								(size 1.016 1.016)
-							)
-						)
-					)
-				)
-				(pin power_in line
-					(at 17.78 -7.62 180)
+				(pin passive line
+					(at 0 0 0)
 					(length 5.08)
 					(name "PGND"
 						(effects
 							(font
-								(size 1.016 1.016)
+								(size 1.27 1.27)
 							)
 						)
 					)
 					(number "1"
 						(effects
 							(font
-								(size 1.016 1.016)
+								(size 1.27 1.27)
 							)
 						)
 					)
 				)
-				(pin power_in line
-					(at 17.78 -10.16 180)
+				(pin passive line
+					(at 0 -2.54 0)
+					(length 5.08)
+					(name "SW"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+					(number "2"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+				)
+				(pin passive line
+					(at 0 -5.08 0)
 					(length 5.08)
 					(name "AGND"
 						(effects
 							(font
-								(size 1.016 1.016)
+								(size 1.27 1.27)
 							)
 						)
 					)
 					(number "3"
 						(effects
 							(font
-								(size 1.016 1.016)
+								(size 1.27 1.27)
+							)
+						)
+					)
+				)
+				(pin passive line
+					(at 0 -7.62 0)
+					(length 5.08)
+					(name "FB"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+					(number "4"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+				)
+				(pin passive line
+					(at 15.24 -20.32 90)
+					(length 5.08)
+					(name "EP"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+					(number "9"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+				)
+				(pin passive line
+					(at 30.48 0 180)
+					(length 5.08)
+					(name "PVIN"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+					(number "8"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+				)
+				(pin passive line
+					(at 30.48 -2.54 180)
+					(length 5.08)
+					(name "AVIN"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+					(number "7"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+				)
+				(pin passive line
+					(at 30.48 -5.08 180)
+					(length 5.08)
+					(name "MODE"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+					(number "6"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+				)
+				(pin passive line
+					(at 30.48 -7.62 180)
+					(length 5.08)
+					(name "EN"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+					(number "5"
+						(effects
+							(font
+								(size 1.27 1.27)
 							)
 						)
 					)
@@ -3351,7 +3084,7 @@
 	)
 	(text "Motors"
 		(exclude_from_sim no)
-		(at 22.606 70.358 0)
+		(at 27.686 137.668 0)
 		(effects
 			(font
 				(size 2.54 2.54)
@@ -3810,17 +3543,361 @@
 		(uuid "fbe50b0b-4434-4b37-b4b7-b254cdcb3638")
 	)
 	(symbol
-		(lib_id "AO3401A:AO3401A")
-		(at 219.71 100.33 0)
+		(lib_id "DRV8833PWPR:DRV8833PWPR")
+		(at 80.01 157.48 0)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
 		(on_board yes)
 		(dnp no)
 		(fields_autoplaced yes)
-		(uuid "26566795-d519-46f1-b965-c52241e87f80")
-		(property "Reference" "Q1"
-			(at 222.25 98.9564 0)
+		(uuid "0332b787-1500-486c-86a7-95f2c989bb6a")
+		(property "Reference" "IC2"
+			(at 95.25 149.86 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Value" "DRV8833PWPR"
+			(at 95.25 152.4 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Footprint" "SOP65P640X120-16N"
+			(at 106.68 252.4 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" "http://www.ti.com/lit/gpn/drv8833"
+			(at 106.68 352.4 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+				(hide yes)
+			)
+		)
+		(property "Description" "2A Low Voltage Dual Brushed DC or Single Bipolar Stepper Motor Driver (PWM Ctrl)"
+			(at 80.01 157.48 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Height" "1.2"
+			(at 106.68 552.4 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+				(hide yes)
+			)
+		)
+		(property "Manufacturer_Name" "Texas Instruments"
+			(at 106.68 652.4 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+				(hide yes)
+			)
+		)
+		(property "Manufacturer_Part_Number" "DRV8833PWPR"
+			(at 106.68 752.4 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+				(hide yes)
+			)
+		)
+		(property "Mouser Part Number" "595-DRV8833PWPR"
+			(at 106.68 852.4 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+				(hide yes)
+			)
+		)
+		(property "Mouser Price/Stock" "https://www.mouser.co.uk/ProductDetail/Texas-Instruments/DRV8833PWPR?qs=luhu8ESwuKxT62RV9jrJTg%3D%3D"
+			(at 106.68 952.4 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+				(hide yes)
+			)
+		)
+		(property "Arrow Part Number" "DRV8833PWPR"
+			(at 106.68 1052.4 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+				(hide yes)
+			)
+		)
+		(property "Arrow Price/Stock" "https://www.arrow.com/en/products/drv8833pwpr/texas-instruments?utm_currency=USD&region=europe"
+			(at 106.68 1152.4 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+				(hide yes)
+			)
+		)
+		(pin "6"
+			(uuid "b008668a-861b-418a-a430-d5af0c35b0fd")
+		)
+		(pin "7"
+			(uuid "17a5f847-3021-42f2-91cf-215a9fdedbd2")
+		)
+		(pin "8"
+			(uuid "24a5ad17-293d-417e-a4cc-48663b746959")
+		)
+		(pin "16"
+			(uuid "a1421f7f-0153-4fe0-9e60-c730e64480d2")
+		)
+		(pin "15"
+			(uuid "d5ce8e9b-18a5-41d1-9753-81eac1bb5980")
+		)
+		(pin "14"
+			(uuid "6716da2b-0b70-44d1-aa63-8c5826636add")
+		)
+		(pin "13"
+			(uuid "ade197ce-d767-4184-8b19-45f3288a6e03")
+		)
+		(pin "12"
+			(uuid "016cf0ee-02fd-4333-a0fd-5452fd51fafb")
+		)
+		(pin "11"
+			(uuid "d86b2165-fc12-4c1e-a80a-1895b72441c5")
+		)
+		(pin "10"
+			(uuid "5c8e06fd-e41c-49f5-905d-adbc2ffaedfd")
+		)
+		(pin "9"
+			(uuid "5cebb54c-1e8d-4bf6-b610-560ec84a17a9")
+		)
+		(pin "2"
+			(uuid "a82cb445-cb91-4a28-a139-98c48e2958ca")
+		)
+		(pin "1"
+			(uuid "359880ee-1bb3-463a-9935-c34b7cbeb697")
+		)
+		(pin "4"
+			(uuid "dea97bad-9542-40f8-9d63-e00efbd00585")
+		)
+		(pin "5"
+			(uuid "7d51e894-3c02-48de-9cc3-d12206ecd85d")
+		)
+		(pin "3"
+			(uuid "7adbee3b-9415-498a-a405-85a019b22bf7")
+		)
+		(instances
+			(project ""
+				(path "/f23689db-9b6c-49fb-9c64-c652802710b2"
+					(reference "IC2")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "TPS62067DSGR:TPS62067DSGR")
+		(at 179.07 40.64 0)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(uuid "19cd8905-64f3-4cb7-adcb-1cef5ec89c1d")
+		(property "Reference" "IC3"
+			(at 194.31 33.02 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Value" "TPS62067DSGR"
+			(at 194.31 35.56 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Footprint" "SON50P200X200X80-9N"
+			(at 205.74 135.56 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" "http://www.ti.com/lit/gpn/TPS62067"
+			(at 205.74 235.56 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+				(hide yes)
+			)
+		)
+		(property "Description" "3MHz, 2A Step-Down Converter in 2x2 SON Package"
+			(at 179.07 40.64 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Height" "0.8"
+			(at 205.74 435.56 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+				(hide yes)
+			)
+		)
+		(property "Manufacturer_Name" "Texas Instruments"
+			(at 205.74 535.56 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+				(hide yes)
+			)
+		)
+		(property "Manufacturer_Part_Number" "TPS62067DSGR"
+			(at 205.74 635.56 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+				(hide yes)
+			)
+		)
+		(property "Mouser Part Number" "595-TPS62067DSGR"
+			(at 205.74 735.56 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+				(hide yes)
+			)
+		)
+		(property "Mouser Price/Stock" "https://www.mouser.co.uk/ProductDetail/Texas-Instruments/TPS62067DSGR?qs=EuM%2FBx4ov4T1eAPCjkYm3A%3D%3D"
+			(at 205.74 835.56 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+				(hide yes)
+			)
+		)
+		(property "Arrow Part Number" "TPS62067DSGR"
+			(at 205.74 935.56 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+				(hide yes)
+			)
+		)
+		(property "Arrow Price/Stock" "https://www.arrow.com/en/products/tps62067dsgr/texas-instruments?region=nac"
+			(at 205.74 1035.56 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+				(hide yes)
+			)
+		)
+		(pin "2"
+			(uuid "d3695427-3a31-4511-8b1f-3a608f223b76")
+		)
+		(pin "3"
+			(uuid "b18cf579-d50d-4f30-9cde-d47cb4467622")
+		)
+		(pin "6"
+			(uuid "66faf3ef-4000-4e34-94e5-2a7c94d3f464")
+		)
+		(pin "7"
+			(uuid "81b5762f-14d4-47d8-b801-2230b9ffad6f")
+		)
+		(pin "5"
+			(uuid "31f99d5c-e1fb-49dd-a421-7bb84c0032a3")
+		)
+		(pin "8"
+			(uuid "458554fa-4807-43ab-8599-4289824f5e1a")
+		)
+		(pin "4"
+			(uuid "997cdd7a-58e0-4858-85e6-a7ea54a41337")
+		)
+		(pin "9"
+			(uuid "09e35aaf-1014-471a-95ee-adc3d5e7e0ff")
+		)
+		(pin "1"
+			(uuid "8bd304b4-bf67-4f1f-bb7f-5aba59b784fd")
+		)
+		(instances
+			(project ""
+				(path "/f23689db-9b6c-49fb-9c64-c652802710b2"
+					(reference "IC3")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_name "AO3401A_1")
+		(lib_id "AO3401A:AO3401A")
+		(at 217.17 101.6 0)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(uuid "27ef0a10-1f80-42c3-b0a1-b2c7ed0d92ef")
+		(property "Reference" "Q5"
+			(at 228.6 97.7899 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -3829,7 +3906,7 @@
 			)
 		)
 		(property "Value" "AO3401A"
-			(at 222.25 101.4964 0)
+			(at 228.6 100.3299 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -3837,18 +3914,28 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "AO3401A:SOT23"
-			(at 219.71 100.33 0)
+		(property "Footprint" "SOT95P280X125-3N"
+			(at 228.6 200.33 0)
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
-				(justify bottom)
+				(justify left top)
 				(hide yes)
 			)
 		)
-		(property "Datasheet" ""
-			(at 219.71 100.33 0)
+		(property "Datasheet" "http://www.aosmd.com/pdfs/datasheet/AO3401A.pdf"
+			(at 228.6 300.33 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+				(hide yes)
+			)
+		)
+		(property "Description" "30V P-Channel MOSFET"
+			(at 217.17 101.6 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -3856,278 +3943,89 @@
 				(hide yes)
 			)
 		)
-		(property "Description" ""
-			(at 219.71 100.33 0)
+		(property "Height" "1.25"
+			(at 228.6 500.33 0)
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
+				(justify left top)
 				(hide yes)
 			)
 		)
-		(property "MF" "Alpha & Omega Semiconductor"
-			(at 219.71 100.33 0)
+		(property "Manufacturer_Name" "Alpha & Omega Semiconductors"
+			(at 228.6 600.33 0)
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
-				(justify bottom)
+				(justify left top)
 				(hide yes)
 			)
 		)
-		(property "Description_1" "P-Channel 30 V 4A (Ta) 1.4W (Ta) Surface Mount SOT-23-3"
-			(at 219.71 100.33 0)
+		(property "Manufacturer_Part_Number" "AO3401A"
+			(at 228.6 700.33 0)
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
-				(justify bottom)
+				(justify left top)
 				(hide yes)
 			)
 		)
-		(property "Package" "SOT-23 Alpha &amp; Omega Semiconductor"
-			(at 219.71 100.33 0)
+		(property "Mouser Part Number" ""
+			(at 228.6 800.33 0)
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
-				(justify bottom)
+				(justify left top)
 				(hide yes)
 			)
 		)
-		(property "Price" "None"
-			(at 219.71 100.33 0)
+		(property "Mouser Price/Stock" ""
+			(at 228.6 900.33 0)
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
-				(justify bottom)
+				(justify left top)
 				(hide yes)
 			)
 		)
-		(property "SnapEDA_Link" "https://www.snapeda.com/parts/AO3401A/Alpha/view-part/?ref=snap"
-			(at 219.71 100.33 0)
+		(property "Arrow Part Number" "AO3401A"
+			(at 228.6 1000.33 0)
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
-				(justify bottom)
+				(justify left top)
 				(hide yes)
 			)
 		)
-		(property "MP" "AO3401A"
-			(at 219.71 100.33 0)
+		(property "Arrow Price/Stock" "https://www.arrow.com/en/products/ao3401a/alpha-and-omega-semiconductor?utm_currency=USD&region=nac"
+			(at 228.6 1100.33 0)
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
-				(justify bottom)
-				(hide yes)
-			)
-		)
-		(property "Availability" "In Stock"
-			(at 219.71 100.33 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify bottom)
-				(hide yes)
-			)
-		)
-		(property "Check_prices" "https://www.snapeda.com/parts/AO3401A/Alpha/view-part/?ref=eda"
-			(at 219.71 100.33 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify bottom)
+				(justify left top)
 				(hide yes)
 			)
 		)
 		(pin "1"
-			(uuid "c8e55201-bbdf-402e-91d5-c017da4500e2")
+			(uuid "3f2c086c-7b7e-4e91-b2f6-d4a605369f02")
 		)
 		(pin "3"
-			(uuid "8b8eb48b-65ae-41a4-8d45-9e88c21f06fc")
+			(uuid "1318a1c6-45ab-4009-92eb-963eaf6dbd88")
 		)
 		(pin "2"
-			(uuid "63453029-a9c7-481a-a563-c6b77a6e1dc3")
+			(uuid "07c30c55-1dd5-4a89-9bf0-52d4535a1f5e")
 		)
 		(instances
 			(project ""
 				(path "/f23689db-9b6c-49fb-9c64-c652802710b2"
-					(reference "Q1")
-					(unit 1)
-				)
-			)
-		)
-	)
-	(symbol
-		(lib_id "TPS62067DSGR:TPS62067DSGR")
-		(at 255.27 53.34 0)
-		(unit 1)
-		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
-		(dnp no)
-		(fields_autoplaced yes)
-		(uuid "31971986-cf6f-497a-9029-a1f0fbcb9b72")
-		(property "Reference" "U2"
-			(at 255.27 33.02 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Value" "TPS62067DSGR"
-			(at 255.27 35.56 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Footprint" "TPS62067DSGR:SON50P200X200X80-9N"
-			(at 255.27 53.34 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify bottom)
-				(hide yes)
-			)
-		)
-		(property "Datasheet" ""
-			(at 255.27 53.34 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Description" ""
-			(at 255.27 53.34 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "MF" "Texas Instruments"
-			(at 255.27 53.34 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify bottom)
-				(hide yes)
-			)
-		)
-		(property "Description_1" "3MHz, 2A Step-Down Converter in 2x2 SON Package"
-			(at 255.27 53.34 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify bottom)
-				(hide yes)
-			)
-		)
-		(property "Package" "WSON-8 Texas Instruments"
-			(at 255.27 53.34 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify bottom)
-				(hide yes)
-			)
-		)
-		(property "Price" "None"
-			(at 255.27 53.34 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify bottom)
-				(hide yes)
-			)
-		)
-		(property "SnapEDA_Link" "https://www.snapeda.com/parts/TPS62067DSGR/Texas+Instruments/view-part/?ref=snap"
-			(at 255.27 53.34 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify bottom)
-				(hide yes)
-			)
-		)
-		(property "MP" "TPS62067DSGR"
-			(at 255.27 53.34 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify bottom)
-				(hide yes)
-			)
-		)
-		(property "Availability" "In Stock"
-			(at 255.27 53.34 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify bottom)
-				(hide yes)
-			)
-		)
-		(property "Check_prices" "https://www.snapeda.com/parts/TPS62067DSGR/Texas+Instruments/view-part/?ref=eda"
-			(at 255.27 53.34 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify bottom)
-				(hide yes)
-			)
-		)
-		(pin "9"
-			(uuid "a7408d8f-380a-4b62-8a8b-b6e3156d0eba")
-		)
-		(pin "3"
-			(uuid "aa594d1d-ef32-4eb2-8bd3-a59ea625311c")
-		)
-		(pin "1"
-			(uuid "f723bbda-93f8-4634-acab-154a04769367")
-		)
-		(pin "5"
-			(uuid "b25fc88e-2b73-4916-9a04-9e0dd97f0b65")
-		)
-		(pin "7"
-			(uuid "b944a94b-81a6-4104-81f5-3871da3f8dba")
-		)
-		(pin "4"
-			(uuid "8cf7eab7-b054-4f6b-8ecb-943824211596")
-		)
-		(pin "6"
-			(uuid "db707de0-8689-43cd-bdda-26a8c47521c8")
-		)
-		(pin "2"
-			(uuid "6d5671ef-15da-45d4-9ae7-97d545f96036")
-		)
-		(pin "8"
-			(uuid "d7f27a50-28bc-46de-ab2c-4953f6afed5a")
-		)
-		(instances
-			(project ""
-				(path "/f23689db-9b6c-49fb-9c64-c652802710b2"
-					(reference "U2")
+					(reference "Q5")
 					(unit 1)
 				)
 			)
@@ -4408,160 +4306,6 @@
 		)
 	)
 	(symbol
-		(lib_id "AO3401A:AO3401A")
-		(at 260.35 101.6 0)
-		(unit 1)
-		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
-		(dnp no)
-		(fields_autoplaced yes)
-		(uuid "41548444-b92e-4b7a-8b78-c51406e2244d")
-		(property "Reference" "Q2"
-			(at 262.89 100.2264 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left)
-			)
-		)
-		(property "Value" "AO3401A"
-			(at 262.89 102.7664 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left)
-			)
-		)
-		(property "Footprint" "AO3401A:SOT23"
-			(at 260.35 101.6 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify bottom)
-				(hide yes)
-			)
-		)
-		(property "Datasheet" ""
-			(at 260.35 101.6 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Description" ""
-			(at 260.35 101.6 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "MF" "Alpha & Omega Semiconductor"
-			(at 260.35 101.6 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify bottom)
-				(hide yes)
-			)
-		)
-		(property "Description_1" "P-Channel 30 V 4A (Ta) 1.4W (Ta) Surface Mount SOT-23-3"
-			(at 260.35 101.6 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify bottom)
-				(hide yes)
-			)
-		)
-		(property "Package" "SOT-23 Alpha &amp; Omega Semiconductor"
-			(at 260.35 101.6 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify bottom)
-				(hide yes)
-			)
-		)
-		(property "Price" "None"
-			(at 260.35 101.6 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify bottom)
-				(hide yes)
-			)
-		)
-		(property "SnapEDA_Link" "https://www.snapeda.com/parts/AO3401A/Alpha/view-part/?ref=snap"
-			(at 260.35 101.6 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify bottom)
-				(hide yes)
-			)
-		)
-		(property "MP" "AO3401A"
-			(at 260.35 101.6 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify bottom)
-				(hide yes)
-			)
-		)
-		(property "Availability" "In Stock"
-			(at 260.35 101.6 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify bottom)
-				(hide yes)
-			)
-		)
-		(property "Check_prices" "https://www.snapeda.com/parts/AO3401A/Alpha/view-part/?ref=eda"
-			(at 260.35 101.6 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify bottom)
-				(hide yes)
-			)
-		)
-		(pin "1"
-			(uuid "fb10be21-f7a4-4418-b2b0-de46f493053c")
-		)
-		(pin "3"
-			(uuid "70fb8fcc-2622-4932-87a8-49e1b9305da9")
-		)
-		(pin "2"
-			(uuid "d9e57137-9e4c-4f8f-bded-7871f9e3aef8")
-		)
-		(instances
-			(project ""
-				(path "/f23689db-9b6c-49fb-9c64-c652802710b2"
-					(reference "Q2")
-					(unit 1)
-				)
-			)
-		)
-	)
-	(symbol
 		(lib_id "Device:C_Small")
 		(at 227.33 33.02 0)
 		(unit 1)
@@ -4702,7 +4446,7 @@
 	)
 	(symbol
 		(lib_id "MMBT2222A:MMBT2222A")
-		(at 201.93 113.03 0)
+		(at 208.28 114.3 0)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -4711,7 +4455,7 @@
 		(fields_autoplaced yes)
 		(uuid "46c98b5a-9068-45e3-a214-d47efb1fdec1")
 		(property "Reference" "Q3"
-			(at 205.74 111.7599 0)
+			(at 212.09 113.0299 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -4720,7 +4464,7 @@
 			)
 		)
 		(property "Value" "MMBT2222A"
-			(at 205.74 114.2999 0)
+			(at 212.09 115.5699 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -4729,7 +4473,7 @@
 			)
 		)
 		(property "Footprint" "MMBT2222A:SOT95P240X120-3N"
-			(at 201.93 113.03 0)
+			(at 208.28 114.3 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -4739,7 +4483,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 201.93 113.03 0)
+			(at 208.28 114.3 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -4748,7 +4492,7 @@
 			)
 		)
 		(property "Description" ""
-			(at 201.93 113.03 0)
+			(at 208.28 114.3 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -4757,7 +4501,7 @@
 			)
 		)
 		(property "MF" "Diotec Semiconductor"
-			(at 201.93 113.03 0)
+			(at 208.28 114.3 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -4767,7 +4511,7 @@
 			)
 		)
 		(property "SNAPEDA_PACKAGE_ID" "124619"
-			(at 201.93 113.03 0)
+			(at 208.28 114.3 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -4777,7 +4521,7 @@
 			)
 		)
 		(property "Package" "SOT-23 Diotec"
-			(at 201.93 113.03 0)
+			(at 208.28 114.3 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -4787,7 +4531,7 @@
 			)
 		)
 		(property "Price" "None"
-			(at 201.93 113.03 0)
+			(at 208.28 114.3 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -4797,7 +4541,7 @@
 			)
 		)
 		(property "Check_prices" "https://www.snapeda.com/parts/MMBT2222A/Diotec/view-part/?ref=eda"
-			(at 201.93 113.03 0)
+			(at 208.28 114.3 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -4807,7 +4551,7 @@
 			)
 		)
 		(property "STANDARD" "IPC 7351B"
-			(at 201.93 113.03 0)
+			(at 208.28 114.3 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -4817,7 +4561,7 @@
 			)
 		)
 		(property "PARTREV" "2024-03-11"
-			(at 201.93 113.03 0)
+			(at 208.28 114.3 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -4827,7 +4571,7 @@
 			)
 		)
 		(property "SnapEDA_Link" "https://www.snapeda.com/parts/MMBT2222A/Diotec/view-part/?ref=snap"
-			(at 201.93 113.03 0)
+			(at 208.28 114.3 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -4837,7 +4581,7 @@
 			)
 		)
 		(property "MP" "MMBT2222A"
-			(at 201.93 113.03 0)
+			(at 208.28 114.3 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -4847,7 +4591,7 @@
 			)
 		)
 		(property "Description_1" "BJT, SOT-23, 40V, 600mA, NPN, 0.25W, 150°C"
-			(at 201.93 113.03 0)
+			(at 208.28 114.3 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -4857,7 +4601,7 @@
 			)
 		)
 		(property "MANUFACTURER" "Diotec"
-			(at 201.93 113.03 0)
+			(at 208.28 114.3 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -4867,7 +4611,7 @@
 			)
 		)
 		(property "Availability" "In Stock"
-			(at 201.93 113.03 0)
+			(at 208.28 114.3 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -4877,7 +4621,7 @@
 			)
 		)
 		(property "MAXIMUM_PACKAGE_HEIGHT" "1.20mm"
-			(at 201.93 113.03 0)
+			(at 208.28 114.3 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -4975,16 +4719,16 @@
 	)
 	(symbol
 		(lib_id "DRV8833PWPR:DRV8833PWPR")
-		(at 43.18 168.91 0)
+		(at 34.29 157.48 0)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
 		(on_board yes)
 		(dnp no)
 		(fields_autoplaced yes)
-		(uuid "78140ef2-cb15-418c-a780-0eccf8e888ef")
-		(property "Reference" "U5"
-			(at 43.18 135.89 0)
+		(uuid "4e37fd5e-dc7f-4388-9cc6-e7718beaaca4")
+		(property "Reference" "IC1"
+			(at 49.53 149.86 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -4992,25 +4736,35 @@
 			)
 		)
 		(property "Value" "DRV8833PWPR"
-			(at 43.18 138.43 0)
+			(at 49.53 152.4 0)
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
 			)
 		)
-		(property "Footprint" "DRV8833PWPR:IC_DRV8833PWPR"
-			(at 43.18 168.91 0)
+		(property "Footprint" "SOP65P640X120-16N"
+			(at 60.96 252.4 0)
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
-				(justify bottom)
+				(justify left top)
 				(hide yes)
 			)
 		)
-		(property "Datasheet" ""
-			(at 43.18 168.91 0)
+		(property "Datasheet" "http://www.ti.com/lit/gpn/drv8833"
+			(at 60.96 352.4 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+				(hide yes)
+			)
+		)
+		(property "Description" "2A Low Voltage Dual Brushed DC or Single Bipolar Stepper Motor Driver (PWM Ctrl)"
+			(at 34.29 157.48 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -5018,260 +4772,128 @@
 				(hide yes)
 			)
 		)
-		(property "Description" ""
-			(at 43.18 168.91 0)
+		(property "Height" "1.2"
+			(at 60.96 552.4 0)
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
+				(justify left top)
 				(hide yes)
 			)
 		)
-		(property "MF" "Texas Instruments"
-			(at 43.18 168.91 0)
+		(property "Manufacturer_Name" "Texas Instruments"
+			(at 60.96 652.4 0)
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
-				(justify bottom)
+				(justify left top)
 				(hide yes)
 			)
 		)
-		(property "MOUSER-PURCHASE-URL" "https://snapeda.com/shop?store=Mouser&id=377881"
-			(at 43.18 168.91 0)
+		(property "Manufacturer_Part_Number" "DRV8833PWPR"
+			(at 60.96 752.4 0)
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
-				(justify bottom)
+				(justify left top)
 				(hide yes)
 			)
 		)
-		(property "DESCRIPTION" "10.8-V, 2-A dual H-bridge motor driver with current regulation 16-HTSSOP -40 to 85"
-			(at 43.18 168.91 0)
+		(property "Mouser Part Number" "595-DRV8833PWPR"
+			(at 60.96 852.4 0)
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
-				(justify bottom)
+				(justify left top)
 				(hide yes)
 			)
 		)
-		(property "PACKAGE" "HTSSOP-16 Texas Instruments"
-			(at 43.18 168.91 0)
+		(property "Mouser Price/Stock" "https://www.mouser.co.uk/ProductDetail/Texas-Instruments/DRV8833PWPR?qs=luhu8ESwuKxT62RV9jrJTg%3D%3D"
+			(at 60.96 952.4 0)
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
-				(justify bottom)
+				(justify left top)
 				(hide yes)
 			)
 		)
-		(property "Price" "None"
-			(at 43.18 168.91 0)
+		(property "Arrow Part Number" "DRV8833PWPR"
+			(at 60.96 1052.4 0)
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
-				(justify bottom)
+				(justify left top)
 				(hide yes)
 			)
 		)
-		(property "PRICE" "None"
-			(at 43.18 168.91 0)
+		(property "Arrow Price/Stock" "https://www.arrow.com/en/products/drv8833pwpr/texas-instruments?utm_currency=USD&region=europe"
+			(at 60.96 1152.4 0)
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
-				(justify bottom)
+				(justify left top)
 				(hide yes)
 			)
-		)
-		(property "Package" "HTSSOP-16 Texas Instruments"
-			(at 43.18 168.91 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify bottom)
-				(hide yes)
-			)
-		)
-		(property "Check_prices" "https://www.snapeda.com/parts/DRV8833PWPR/Texas+Instruments/view-part/?ref=eda"
-			(at 43.18 168.91 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify bottom)
-				(hide yes)
-			)
-		)
-		(property "STANDARD" "Manufacturer Recommendations"
-			(at 43.18 168.91 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify bottom)
-				(hide yes)
-			)
-		)
-		(property "PARTREV" "E"
-			(at 43.18 168.91 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify bottom)
-				(hide yes)
-			)
-		)
-		(property "SnapEDA_Link" "https://www.snapeda.com/parts/DRV8833PWPR/Texas+Instruments/view-part/?ref=snap"
-			(at 43.18 168.91 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify bottom)
-				(hide yes)
-			)
-		)
-		(property "MP" "DRV8833PWPR"
-			(at 43.18 168.91 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify bottom)
-				(hide yes)
-			)
-		)
-		(property "TEXAS_INSTRUMENTS-PURCHASE-URL" "https://snapeda.com/shop?store=Texas+Instruments&id=377881"
-			(at 43.18 168.91 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify bottom)
-				(hide yes)
-			)
-		)
-		(property "MAXIMUM_PACKAGE_HEIGHT" "1.2mm"
-			(at 43.18 168.91 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify bottom)
-				(hide yes)
-			)
-		)
-		(property "Description_1" "10.8-V, 2-A dual H-bridge motor driver with current regulation"
-			(at 43.18 168.91 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify bottom)
-				(hide yes)
-			)
-		)
-		(property "Availability" "In Stock"
-			(at 43.18 168.91 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify bottom)
-				(hide yes)
-			)
-		)
-		(property "AVAILABILITY" "Warning"
-			(at 43.18 168.91 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify bottom)
-				(hide yes)
-			)
-		)
-		(property "DIGIKEY-PURCHASE-URL" "https://snapeda.com/shop?store=DigiKey&id=377881"
-			(at 43.18 168.91 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify bottom)
-				(hide yes)
-			)
-		)
-		(property "MANUFACTURER" "Texas Instruments"
-			(at 43.18 168.91 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify bottom)
-				(hide yes)
-			)
-		)
-		(pin "14"
-			(uuid "010c2647-4508-433d-a5e1-014a48c0f81f")
-		)
-		(pin "3"
-			(uuid "aff3cabc-fcad-4b7d-9759-9bf333a58e5b")
 		)
 		(pin "6"
-			(uuid "6fccbc4c-f896-452d-852d-9b232c7f9a57")
-		)
-		(pin "17"
-			(uuid "62d9f149-7ab1-478c-8069-fc43e06d2d88")
-		)
-		(pin "13"
-			(uuid "20cf776b-d701-4ddc-a187-7fe3761c293b")
-		)
-		(pin "11"
-			(uuid "cacccab3-ad77-49cf-8abb-d6b6c62bc8e2")
-		)
-		(pin "1"
-			(uuid "185b7d03-6192-4f3b-9d4e-b7bffadc9379")
-		)
-		(pin "16"
-			(uuid "fddd16b9-8e59-4c69-bb62-e660307d7699")
-		)
-		(pin "15"
-			(uuid "99a4b51f-0a5f-4e41-b71f-1a75ffc66fc2")
-		)
-		(pin "9"
-			(uuid "e318265c-5f6c-4c0a-b866-3295b1c69118")
-		)
-		(pin "10"
-			(uuid "9ccb106a-ef81-472a-af1e-94cbd3d6dd3e")
-		)
-		(pin "8"
-			(uuid "05e21b20-e77f-406c-b601-7ad22f31edcf")
-		)
-		(pin "2"
-			(uuid "1a19f340-5504-4c7e-ac19-d8f8a7c4beb9")
-		)
-		(pin "4"
-			(uuid "74870ddc-2047-442f-ac62-0cac72dcf494")
+			(uuid "b008668a-861b-418a-a430-d5af0c35b0fd")
 		)
 		(pin "7"
-			(uuid "1d53de7e-403a-4c81-9d07-8252ca9cc80d")
+			(uuid "17a5f847-3021-42f2-91cf-215a9fdedbd2")
 		)
-		(pin "5"
-			(uuid "26d7c053-38d7-4e6d-8707-4c0be040067f")
+		(pin "8"
+			(uuid "24a5ad17-293d-417e-a4cc-48663b746959")
+		)
+		(pin "16"
+			(uuid "a1421f7f-0153-4fe0-9e60-c730e64480d2")
+		)
+		(pin "15"
+			(uuid "d5ce8e9b-18a5-41d1-9753-81eac1bb5980")
+		)
+		(pin "14"
+			(uuid "6716da2b-0b70-44d1-aa63-8c5826636add")
+		)
+		(pin "13"
+			(uuid "ade197ce-d767-4184-8b19-45f3288a6e03")
 		)
 		(pin "12"
-			(uuid "ac32f05e-ea43-4363-8981-e74fa5495740")
+			(uuid "016cf0ee-02fd-4333-a0fd-5452fd51fafb")
+		)
+		(pin "11"
+			(uuid "d86b2165-fc12-4c1e-a80a-1895b72441c5")
+		)
+		(pin "10"
+			(uuid "5c8e06fd-e41c-49f5-905d-adbc2ffaedfd")
+		)
+		(pin "9"
+			(uuid "5cebb54c-1e8d-4bf6-b610-560ec84a17a9")
+		)
+		(pin "2"
+			(uuid "a82cb445-cb91-4a28-a139-98c48e2958ca")
+		)
+		(pin "1"
+			(uuid "359880ee-1bb3-463a-9935-c34b7cbeb697")
+		)
+		(pin "4"
+			(uuid "dea97bad-9542-40f8-9d63-e00efbd00585")
+		)
+		(pin "5"
+			(uuid "7d51e894-3c02-48de-9cc3-d12206ecd85d")
+		)
+		(pin "3"
+			(uuid "7adbee3b-9415-498a-a405-85a019b22bf7")
 		)
 		(instances
 			(project ""
 				(path "/f23689db-9b6c-49fb-9c64-c652802710b2"
-					(reference "U5")
+					(reference "IC1")
 					(unit 1)
 				)
 			)
@@ -5348,310 +4970,6 @@
 		)
 	)
 	(symbol
-		(lib_id "DRV8833PWPR:DRV8833PWPR")
-		(at 43.18 107.95 0)
-		(unit 1)
-		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
-		(dnp no)
-		(fields_autoplaced yes)
-		(uuid "94cdc4ae-e5b9-41ef-97ab-e115dabf63a1")
-		(property "Reference" "U4"
-			(at 43.18 74.93 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Value" "DRV8833PWPR"
-			(at 43.18 77.47 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Footprint" "DRV8833PWPR:IC_DRV8833PWPR"
-			(at 43.18 107.95 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify bottom)
-				(hide yes)
-			)
-		)
-		(property "Datasheet" ""
-			(at 43.18 107.95 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Description" ""
-			(at 43.18 107.95 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "MF" "Texas Instruments"
-			(at 43.18 107.95 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify bottom)
-				(hide yes)
-			)
-		)
-		(property "MOUSER-PURCHASE-URL" "https://snapeda.com/shop?store=Mouser&id=377881"
-			(at 43.18 107.95 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify bottom)
-				(hide yes)
-			)
-		)
-		(property "DESCRIPTION" "10.8-V, 2-A dual H-bridge motor driver with current regulation 16-HTSSOP -40 to 85"
-			(at 43.18 107.95 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify bottom)
-				(hide yes)
-			)
-		)
-		(property "PACKAGE" "HTSSOP-16 Texas Instruments"
-			(at 43.18 107.95 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify bottom)
-				(hide yes)
-			)
-		)
-		(property "Price" "None"
-			(at 43.18 107.95 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify bottom)
-				(hide yes)
-			)
-		)
-		(property "PRICE" "None"
-			(at 43.18 107.95 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify bottom)
-				(hide yes)
-			)
-		)
-		(property "Package" "HTSSOP-16 Texas Instruments"
-			(at 43.18 107.95 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify bottom)
-				(hide yes)
-			)
-		)
-		(property "Check_prices" "https://www.snapeda.com/parts/DRV8833PWPR/Texas+Instruments/view-part/?ref=eda"
-			(at 43.18 107.95 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify bottom)
-				(hide yes)
-			)
-		)
-		(property "STANDARD" "Manufacturer Recommendations"
-			(at 43.18 107.95 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify bottom)
-				(hide yes)
-			)
-		)
-		(property "PARTREV" "E"
-			(at 43.18 107.95 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify bottom)
-				(hide yes)
-			)
-		)
-		(property "SnapEDA_Link" "https://www.snapeda.com/parts/DRV8833PWPR/Texas+Instruments/view-part/?ref=snap"
-			(at 43.18 107.95 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify bottom)
-				(hide yes)
-			)
-		)
-		(property "MP" "DRV8833PWPR"
-			(at 43.18 107.95 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify bottom)
-				(hide yes)
-			)
-		)
-		(property "TEXAS_INSTRUMENTS-PURCHASE-URL" "https://snapeda.com/shop?store=Texas+Instruments&id=377881"
-			(at 43.18 107.95 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify bottom)
-				(hide yes)
-			)
-		)
-		(property "MAXIMUM_PACKAGE_HEIGHT" "1.2mm"
-			(at 43.18 107.95 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify bottom)
-				(hide yes)
-			)
-		)
-		(property "Description_1" "10.8-V, 2-A dual H-bridge motor driver with current regulation"
-			(at 43.18 107.95 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify bottom)
-				(hide yes)
-			)
-		)
-		(property "Availability" "In Stock"
-			(at 43.18 107.95 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify bottom)
-				(hide yes)
-			)
-		)
-		(property "AVAILABILITY" "Warning"
-			(at 43.18 107.95 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify bottom)
-				(hide yes)
-			)
-		)
-		(property "DIGIKEY-PURCHASE-URL" "https://snapeda.com/shop?store=DigiKey&id=377881"
-			(at 43.18 107.95 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify bottom)
-				(hide yes)
-			)
-		)
-		(property "MANUFACTURER" "Texas Instruments"
-			(at 43.18 107.95 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify bottom)
-				(hide yes)
-			)
-		)
-		(pin "14"
-			(uuid "010c2647-4508-433d-a5e1-014a48c0f81f")
-		)
-		(pin "3"
-			(uuid "aff3cabc-fcad-4b7d-9759-9bf333a58e5b")
-		)
-		(pin "6"
-			(uuid "6fccbc4c-f896-452d-852d-9b232c7f9a57")
-		)
-		(pin "17"
-			(uuid "62d9f149-7ab1-478c-8069-fc43e06d2d88")
-		)
-		(pin "13"
-			(uuid "20cf776b-d701-4ddc-a187-7fe3761c293b")
-		)
-		(pin "11"
-			(uuid "cacccab3-ad77-49cf-8abb-d6b6c62bc8e2")
-		)
-		(pin "1"
-			(uuid "185b7d03-6192-4f3b-9d4e-b7bffadc9379")
-		)
-		(pin "16"
-			(uuid "fddd16b9-8e59-4c69-bb62-e660307d7699")
-		)
-		(pin "15"
-			(uuid "99a4b51f-0a5f-4e41-b71f-1a75ffc66fc2")
-		)
-		(pin "9"
-			(uuid "e318265c-5f6c-4c0a-b866-3295b1c69118")
-		)
-		(pin "10"
-			(uuid "9ccb106a-ef81-472a-af1e-94cbd3d6dd3e")
-		)
-		(pin "8"
-			(uuid "05e21b20-e77f-406c-b601-7ad22f31edcf")
-		)
-		(pin "2"
-			(uuid "1a19f340-5504-4c7e-ac19-d8f8a7c4beb9")
-		)
-		(pin "4"
-			(uuid "74870ddc-2047-442f-ac62-0cac72dcf494")
-		)
-		(pin "7"
-			(uuid "1d53de7e-403a-4c81-9d07-8252ca9cc80d")
-		)
-		(pin "5"
-			(uuid "26d7c053-38d7-4e6d-8707-4c0be040067f")
-		)
-		(pin "12"
-			(uuid "ac32f05e-ea43-4363-8981-e74fa5495740")
-		)
-		(instances
-			(project ""
-				(path "/f23689db-9b6c-49fb-9c64-c652802710b2"
-					(reference "U4")
-					(unit 1)
-				)
-			)
-		)
-	)
-	(symbol
 		(lib_id "Device:R_Small_US")
 		(at 219.71 44.45 0)
 		(unit 1)
@@ -5722,17 +5040,163 @@
 		)
 	)
 	(symbol
-		(lib_id "INA219AIDCNR:INA219AIDCNR")
-		(at 248.92 144.78 0)
+		(lib_name "AO3401A_1")
+		(lib_id "AO3401A:AO3401A")
+		(at 257.81 101.6 0)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
 		(on_board yes)
 		(dnp no)
 		(fields_autoplaced yes)
-		(uuid "b5d70f1e-c309-412d-b73a-6dec2ca72821")
-		(property "Reference" "U3"
-			(at 248.92 124.46 0)
+		(uuid "c2eba5b2-b8da-4da4-a6e5-37dccb51aa8b")
+		(property "Reference" "Q6"
+			(at 269.24 97.7899 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Value" "AO3401A"
+			(at 269.24 100.3299 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Footprint" "SOT95P280X125-3N"
+			(at 269.24 200.33 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" "http://www.aosmd.com/pdfs/datasheet/AO3401A.pdf"
+			(at 269.24 300.33 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+				(hide yes)
+			)
+		)
+		(property "Description" "30V P-Channel MOSFET"
+			(at 257.81 101.6 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Height" "1.25"
+			(at 269.24 500.33 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+				(hide yes)
+			)
+		)
+		(property "Manufacturer_Name" "Alpha & Omega Semiconductors"
+			(at 269.24 600.33 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+				(hide yes)
+			)
+		)
+		(property "Manufacturer_Part_Number" "AO3401A"
+			(at 269.24 700.33 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+				(hide yes)
+			)
+		)
+		(property "Mouser Part Number" ""
+			(at 269.24 800.33 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+				(hide yes)
+			)
+		)
+		(property "Mouser Price/Stock" ""
+			(at 269.24 900.33 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+				(hide yes)
+			)
+		)
+		(property "Arrow Part Number" "AO3401A"
+			(at 269.24 1000.33 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+				(hide yes)
+			)
+		)
+		(property "Arrow Price/Stock" "https://www.arrow.com/en/products/ao3401a/alpha-and-omega-semiconductor?utm_currency=USD&region=nac"
+			(at 269.24 1100.33 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+				(hide yes)
+			)
+		)
+		(pin "1"
+			(uuid "3f2c086c-7b7e-4e91-b2f6-d4a605369f02")
+		)
+		(pin "3"
+			(uuid "1318a1c6-45ab-4009-92eb-963eaf6dbd88")
+		)
+		(pin "2"
+			(uuid "07c30c55-1dd5-4a89-9bf0-52d4535a1f5e")
+		)
+		(instances
+			(project ""
+				(path "/f23689db-9b6c-49fb-9c64-c652802710b2"
+					(reference "Q6")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "INA219AIDCNR:INA219AIDCNR")
+		(at 203.2 147.32 0)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(uuid "ca44be80-070c-4101-9ae2-a8df3728bd62")
+		(property "Reference" "IC5"
+			(at 215.9 139.7 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -5740,25 +5204,35 @@
 			)
 		)
 		(property "Value" "INA219AIDCNR"
-			(at 248.92 127 0)
+			(at 215.9 142.24 0)
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
 			)
 		)
-		(property "Footprint" "INA219AIDCNR:SOT65P280X145-8N"
-			(at 248.92 144.78 0)
+		(property "Footprint" "SOP65P280X145-8N"
+			(at 224.79 242.24 0)
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
-				(justify bottom)
+				(justify left top)
 				(hide yes)
 			)
 		)
-		(property "Datasheet" ""
-			(at 248.92 144.78 0)
+		(property "Datasheet" "https://componentsearchengine.com/Datasheets/2/INA219AIDCNR.pdf"
+			(at 224.79 342.24 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+				(hide yes)
+			)
+		)
+		(property "Description" "TEXAS INSTRUMENTS - INA219AIDCNR - CURRENT/POWER MONITOR, SOT-23-8, FULL REEL"
+			(at 203.2 147.32 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -5766,123 +5240,104 @@
 				(hide yes)
 			)
 		)
-		(property "Description" ""
-			(at 248.92 144.78 0)
+		(property "Height" "1.45"
+			(at 224.79 542.24 0)
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
+				(justify left top)
 				(hide yes)
 			)
 		)
-		(property "MF" "Texas Instruments"
-			(at 248.92 144.78 0)
+		(property "Manufacturer_Name" "Texas Instruments"
+			(at 224.79 642.24 0)
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
-				(justify bottom)
+				(justify left top)
 				(hide yes)
 			)
 		)
-		(property "Description_1" "26-V 12-bit I2C output digital power monitor"
-			(at 248.92 144.78 0)
+		(property "Manufacturer_Part_Number" "INA219AIDCNR"
+			(at 224.79 742.24 0)
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
-				(justify bottom)
+				(justify left top)
 				(hide yes)
 			)
 		)
-		(property "Package" "SOT-23-8 Texas Instruments"
-			(at 248.92 144.78 0)
+		(property "Mouser Part Number" "595-INA219AIDCNR"
+			(at 224.79 842.24 0)
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
-				(justify bottom)
+				(justify left top)
 				(hide yes)
 			)
 		)
-		(property "Price" "None"
-			(at 248.92 144.78 0)
+		(property "Mouser Price/Stock" "https://www.mouser.co.uk/ProductDetail/Texas-Instruments/INA219AIDCNR?qs=NNt36bEIu0tiHc879dL2eg%3D%3D"
+			(at 224.79 942.24 0)
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
-				(justify bottom)
+				(justify left top)
 				(hide yes)
 			)
 		)
-		(property "SnapEDA_Link" "https://www.snapeda.com/parts/INA219AIDCNR/Texas+Instruments/view-part/?ref=snap"
-			(at 248.92 144.78 0)
+		(property "Arrow Part Number" "INA219AIDCNR"
+			(at 224.79 1042.24 0)
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
-				(justify bottom)
+				(justify left top)
 				(hide yes)
 			)
 		)
-		(property "MP" "INA219AIDCNR"
-			(at 248.92 144.78 0)
+		(property "Arrow Price/Stock" "https://www.arrow.com/en/products/ina219aidcnr/texas-instruments?utm_currency=USD&region=nac"
+			(at 224.79 1142.24 0)
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
-				(justify bottom)
+				(justify left top)
 				(hide yes)
 			)
-		)
-		(property "Availability" "In Stock"
-			(at 248.92 144.78 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify bottom)
-				(hide yes)
-			)
-		)
-		(property "Check_prices" "https://www.snapeda.com/parts/INA219AIDCNR/Texas+Instruments/view-part/?ref=eda"
-			(at 248.92 144.78 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify bottom)
-				(hide yes)
-			)
-		)
-		(pin "3"
-			(uuid "76adb49d-c04c-4a67-a72b-aadaa7c2975e")
-		)
-		(pin "8"
-			(uuid "7943f4e6-0839-4846-9f8c-33ec88db78b6")
-		)
-		(pin "1"
-			(uuid "432fa7fa-30a1-4bc0-8a36-4f29871632d0")
 		)
 		(pin "5"
-			(uuid "1bbe0d7a-c2ba-4bc1-b097-06f21c2e0aec")
+			(uuid "e948e380-e6a7-4b96-b1f9-b1f26150fa4b")
 		)
-		(pin "7"
-			(uuid "1b818e94-0111-4f66-a321-6a8b70225457")
-		)
-		(pin "6"
-			(uuid "23a13420-dde6-4d22-8a70-9a558d6e3a81")
-		)
-		(pin "4"
-			(uuid "b9260eb9-c455-4c58-b7ee-3badd457feba")
+		(pin "1"
+			(uuid "a4cd61c7-576f-43ca-ba13-a389970cee88")
 		)
 		(pin "2"
-			(uuid "7a5904d2-10c3-4b15-a4d9-5a3f066be006")
+			(uuid "22c7c97e-33b5-4da2-8149-591c24a26a09")
+		)
+		(pin "3"
+			(uuid "8d9645bb-57b6-4cba-aa58-4743b8143192")
+		)
+		(pin "4"
+			(uuid "50d83b2f-7450-432d-a9c5-74968c6b8cf2")
+		)
+		(pin "8"
+			(uuid "134000b5-af35-4c87-a9d7-ae40e5f5160d")
+		)
+		(pin "7"
+			(uuid "b5e39ade-be39-45d9-8297-61174b1743e7")
+		)
+		(pin "6"
+			(uuid "170d89ac-f8af-418e-8362-5214e3395aa3")
 		)
 		(instances
 			(project ""
 				(path "/f23689db-9b6c-49fb-9c64-c652802710b2"
-					(reference "U3")
+					(reference "IC5")
 					(unit 1)
 				)
 			)
@@ -6188,16 +5643,16 @@
 	)
 	(symbol
 		(lib_id "TPS62067DSGR:TPS62067DSGR")
-		(at 193.04 52.07 0)
+		(at 238.76 40.64 0)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
 		(on_board yes)
 		(dnp no)
 		(fields_autoplaced yes)
-		(uuid "df45951a-833b-42ad-a45d-3f46d1f47526")
-		(property "Reference" "U1"
-			(at 193.04 31.75 0)
+		(uuid "f26a3a2e-d006-4088-9817-8d1644ec8f2a")
+		(property "Reference" "IC4"
+			(at 254 33.02 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -6205,25 +5660,35 @@
 			)
 		)
 		(property "Value" "TPS62067DSGR"
-			(at 193.04 34.29 0)
+			(at 254 35.56 0)
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
 			)
 		)
-		(property "Footprint" "TPS62067DSGR:SON50P200X200X80-9N"
-			(at 193.04 52.07 0)
+		(property "Footprint" "SON50P200X200X80-9N"
+			(at 265.43 135.56 0)
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
-				(justify bottom)
+				(justify left top)
 				(hide yes)
 			)
 		)
-		(property "Datasheet" ""
-			(at 193.04 52.07 0)
+		(property "Datasheet" "http://www.ti.com/lit/gpn/TPS62067"
+			(at 265.43 235.56 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+				(hide yes)
+			)
+		)
+		(property "Description" "3MHz, 2A Step-Down Converter in 2x2 SON Package"
+			(at 238.76 40.64 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -6231,126 +5696,107 @@
 				(hide yes)
 			)
 		)
-		(property "Description" ""
-			(at 193.04 52.07 0)
+		(property "Height" "0.8"
+			(at 265.43 435.56 0)
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
+				(justify left top)
 				(hide yes)
 			)
 		)
-		(property "MF" "Texas Instruments"
-			(at 193.04 52.07 0)
+		(property "Manufacturer_Name" "Texas Instruments"
+			(at 265.43 535.56 0)
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
-				(justify bottom)
+				(justify left top)
 				(hide yes)
 			)
 		)
-		(property "Description_1" "3MHz, 2A Step-Down Converter in 2x2 SON Package"
-			(at 193.04 52.07 0)
+		(property "Manufacturer_Part_Number" "TPS62067DSGR"
+			(at 265.43 635.56 0)
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
-				(justify bottom)
+				(justify left top)
 				(hide yes)
 			)
 		)
-		(property "Package" "WSON-8 Texas Instruments"
-			(at 193.04 52.07 0)
+		(property "Mouser Part Number" "595-TPS62067DSGR"
+			(at 265.43 735.56 0)
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
-				(justify bottom)
+				(justify left top)
 				(hide yes)
 			)
 		)
-		(property "Price" "None"
-			(at 193.04 52.07 0)
+		(property "Mouser Price/Stock" "https://www.mouser.co.uk/ProductDetail/Texas-Instruments/TPS62067DSGR?qs=EuM%2FBx4ov4T1eAPCjkYm3A%3D%3D"
+			(at 265.43 835.56 0)
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
-				(justify bottom)
+				(justify left top)
 				(hide yes)
 			)
 		)
-		(property "SnapEDA_Link" "https://www.snapeda.com/parts/TPS62067DSGR/Texas+Instruments/view-part/?ref=snap"
-			(at 193.04 52.07 0)
+		(property "Arrow Part Number" "TPS62067DSGR"
+			(at 265.43 935.56 0)
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
-				(justify bottom)
+				(justify left top)
 				(hide yes)
 			)
 		)
-		(property "MP" "TPS62067DSGR"
-			(at 193.04 52.07 0)
+		(property "Arrow Price/Stock" "https://www.arrow.com/en/products/tps62067dsgr/texas-instruments?region=nac"
+			(at 265.43 1035.56 0)
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
-				(justify bottom)
+				(justify left top)
 				(hide yes)
 			)
-		)
-		(property "Availability" "In Stock"
-			(at 193.04 52.07 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify bottom)
-				(hide yes)
-			)
-		)
-		(property "Check_prices" "https://www.snapeda.com/parts/TPS62067DSGR/Texas+Instruments/view-part/?ref=eda"
-			(at 193.04 52.07 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify bottom)
-				(hide yes)
-			)
-		)
-		(pin "9"
-			(uuid "a7408d8f-380a-4b62-8a8b-b6e3156d0eba")
-		)
-		(pin "3"
-			(uuid "aa594d1d-ef32-4eb2-8bd3-a59ea625311c")
-		)
-		(pin "1"
-			(uuid "f723bbda-93f8-4634-acab-154a04769367")
-		)
-		(pin "5"
-			(uuid "b25fc88e-2b73-4916-9a04-9e0dd97f0b65")
-		)
-		(pin "7"
-			(uuid "b944a94b-81a6-4104-81f5-3871da3f8dba")
-		)
-		(pin "4"
-			(uuid "8cf7eab7-b054-4f6b-8ecb-943824211596")
-		)
-		(pin "6"
-			(uuid "db707de0-8689-43cd-bdda-26a8c47521c8")
 		)
 		(pin "2"
-			(uuid "6d5671ef-15da-45d4-9ae7-97d545f96036")
+			(uuid "d3695427-3a31-4511-8b1f-3a608f223b76")
+		)
+		(pin "3"
+			(uuid "b18cf579-d50d-4f30-9cde-d47cb4467622")
+		)
+		(pin "6"
+			(uuid "66faf3ef-4000-4e34-94e5-2a7c94d3f464")
+		)
+		(pin "7"
+			(uuid "81b5762f-14d4-47d8-b801-2230b9ffad6f")
+		)
+		(pin "5"
+			(uuid "31f99d5c-e1fb-49dd-a421-7bb84c0032a3")
 		)
 		(pin "8"
-			(uuid "d7f27a50-28bc-46de-ab2c-4953f6afed5a")
+			(uuid "458554fa-4807-43ab-8599-4289824f5e1a")
+		)
+		(pin "4"
+			(uuid "997cdd7a-58e0-4858-85e6-a7ea54a41337")
+		)
+		(pin "9"
+			(uuid "09e35aaf-1014-471a-95ee-adc3d5e7e0ff")
+		)
+		(pin "1"
+			(uuid "8bd304b4-bf67-4f1f-bb7f-5aba59b784fd")
 		)
 		(instances
 			(project ""
 				(path "/f23689db-9b6c-49fb-9c64-c652802710b2"
-					(reference "U1")
+					(reference "IC4")
 					(unit 1)
 				)
 			)
