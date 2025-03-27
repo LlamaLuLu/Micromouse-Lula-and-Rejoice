@@ -8586,7 +8586,7 @@
 	)
 	(text "Voltage Regulation v1"
 		(exclude_from_sim no)
-		(at 177.038 21.59 0)
+		(at 232.918 181.61 0)
 		(effects
 			(font
 				(size 2.54 2.54)
@@ -8678,7 +8678,7 @@
 	)
 	(text "Need to calculate L value"
 		(exclude_from_sim no)
-		(at 224.536 27.178 0)
+		(at 280.416 187.198 0)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -8687,13 +8687,13 @@
 		(uuid "d696b066-bcd7-4e5a-a026-ce360c215fbb")
 	)
 	(junction
-		(at 182.88 60.96)
+		(at 238.76 220.98)
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "25f51eeb-da4c-42f9-b6e5-e8d5055dd05c")
 	)
 	(junction
-		(at 193.04 85.09)
+		(at 248.92 245.11)
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "47b8b674-ae79-43ec-a0c8-e4eb71ac924e")
@@ -8705,19 +8705,19 @@
 		(uuid "47cf2b48-2e1a-4ec3-b7e6-9ea9f0fd15d3")
 	)
 	(junction
-		(at 209.55 60.96)
+		(at 265.43 220.98)
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "5a12cf36-2f17-4256-a0b9-fe61fa36a75c")
 	)
 	(junction
-		(at 182.88 91.44)
+		(at 238.76 251.46)
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "65a16e53-523d-4456-b9f7-bbd79b66a57a")
 	)
 	(junction
-		(at 189.23 29.21)
+		(at 245.11 189.23)
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "6608c23a-8cad-4a10-b0ac-0cf7c5a66b72")
@@ -8729,31 +8729,31 @@
 		(uuid "687ce148-d6fe-4803-af50-bfa7d4b525c7")
 	)
 	(junction
-		(at 226.06 87.63)
+		(at 281.94 247.65)
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "6c126b2d-5e03-47e6-8188-9022da0bac46")
 	)
 	(junction
-		(at 182.88 43.18)
+		(at 238.76 203.2)
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "6e08d27c-9169-4c50-b27f-cc000714680d")
 	)
 	(junction
-		(at 187.96 60.96)
+		(at 243.84 220.98)
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "72656189-ccb3-45b4-b1bc-02c0cc1a4e8b")
 	)
 	(junction
-		(at 193.04 40.64)
+		(at 248.92 200.66)
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "7350bd5f-f51d-4462-8157-560f59c79b1c")
 	)
 	(junction
-		(at 182.88 97.79)
+		(at 238.76 257.81)
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "7b20ba75-2c75-48f3-8fbf-862e9c163283")
@@ -8771,19 +8771,19 @@
 		(uuid "8f6de8ee-3116-4ae0-b05e-4d94d3920301")
 	)
 	(junction
-		(at 182.88 46.99)
+		(at 238.76 207.01)
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "920e8e26-451b-4908-b4d7-0aaa465c2bf6")
 	)
 	(junction
-		(at 182.88 87.63)
+		(at 238.76 247.65)
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "a6787dfd-996d-48da-a41f-e3c2c6d369ee")
 	)
 	(junction
-		(at 209.55 105.41)
+		(at 265.43 265.43)
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "a8966f32-ff8f-4729-ad0e-ee24ef578ab2")
@@ -8801,7 +8801,7 @@
 		(uuid "be7395c2-fa20-4935-8b62-9883c38e5b4e")
 	)
 	(junction
-		(at 189.23 73.66)
+		(at 245.11 233.68)
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "c25911f8-2f70-4648-ab4e-7c89f4bf4cc1")
@@ -8813,7 +8813,7 @@
 		(uuid "c2731bca-8f6e-4cc7-a4fd-accdd6a1ceb5")
 	)
 	(junction
-		(at 226.06 43.18)
+		(at 281.94 203.2)
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "c5cdfdaf-39ad-452d-9bad-580dfbabd81b")
@@ -8866,7 +8866,7 @@
 	)
 	(wire
 		(pts
-			(xy 194.31 90.17) (xy 193.04 90.17)
+			(xy 250.19 250.19) (xy 248.92 250.19)
 		)
 		(stroke
 			(width 0)
@@ -8886,7 +8886,7 @@
 	)
 	(wire
 		(pts
-			(xy 226.06 87.63) (xy 226.06 85.09)
+			(xy 281.94 247.65) (xy 281.94 245.11)
 		)
 		(stroke
 			(width 0)
@@ -8916,7 +8916,7 @@
 	)
 	(wire
 		(pts
-			(xy 162.56 91.44) (xy 162.56 97.79)
+			(xy 218.44 251.46) (xy 218.44 257.81)
 		)
 		(stroke
 			(width 0)
@@ -8936,7 +8936,7 @@
 	)
 	(wire
 		(pts
-			(xy 162.56 118.11) (xy 167.64 118.11)
+			(xy 218.44 278.13) (xy 223.52 278.13)
 		)
 		(stroke
 			(width 0)
@@ -8946,7 +8946,7 @@
 	)
 	(wire
 		(pts
-			(xy 226.06 43.18) (xy 226.06 40.64)
+			(xy 281.94 203.2) (xy 281.94 200.66)
 		)
 		(stroke
 			(width 0)
@@ -8956,7 +8956,7 @@
 	)
 	(wire
 		(pts
-			(xy 224.79 87.63) (xy 226.06 87.63)
+			(xy 280.67 247.65) (xy 281.94 247.65)
 		)
 		(stroke
 			(width 0)
@@ -8976,7 +8976,7 @@
 	)
 	(wire
 		(pts
-			(xy 224.79 90.17) (xy 229.87 90.17)
+			(xy 280.67 250.19) (xy 285.75 250.19)
 		)
 		(stroke
 			(width 0)
@@ -8996,7 +8996,7 @@
 	)
 	(wire
 		(pts
-			(xy 187.96 48.26) (xy 187.96 60.96)
+			(xy 243.84 208.28) (xy 243.84 220.98)
 		)
 		(stroke
 			(width 0)
@@ -9086,7 +9086,7 @@
 	)
 	(wire
 		(pts
-			(xy 193.04 73.66) (xy 193.04 85.09)
+			(xy 248.92 233.68) (xy 248.92 245.11)
 		)
 		(stroke
 			(width 0)
@@ -9106,7 +9106,7 @@
 	)
 	(wire
 		(pts
-			(xy 226.06 48.26) (xy 226.06 43.18)
+			(xy 281.94 208.28) (xy 281.94 203.2)
 		)
 		(stroke
 			(width 0)
@@ -9156,7 +9156,7 @@
 	)
 	(wire
 		(pts
-			(xy 203.2 105.41) (xy 209.55 105.41)
+			(xy 259.08 265.43) (xy 265.43 265.43)
 		)
 		(stroke
 			(width 0)
@@ -9166,7 +9166,7 @@
 	)
 	(wire
 		(pts
-			(xy 209.55 105.41) (xy 229.87 105.41)
+			(xy 265.43 265.43) (xy 285.75 265.43)
 		)
 		(stroke
 			(width 0)
@@ -9196,7 +9196,7 @@
 	)
 	(wire
 		(pts
-			(xy 189.23 73.66) (xy 193.04 73.66)
+			(xy 245.11 233.68) (xy 248.92 233.68)
 		)
 		(stroke
 			(width 0)
@@ -9266,7 +9266,7 @@
 	)
 	(wire
 		(pts
-			(xy 224.79 48.26) (xy 226.06 48.26)
+			(xy 280.67 208.28) (xy 281.94 208.28)
 		)
 		(stroke
 			(width 0)
@@ -9306,7 +9306,7 @@
 	)
 	(wire
 		(pts
-			(xy 193.04 29.21) (xy 193.04 40.64)
+			(xy 248.92 189.23) (xy 248.92 200.66)
 		)
 		(stroke
 			(width 0)
@@ -9316,7 +9316,7 @@
 	)
 	(wire
 		(pts
-			(xy 189.23 43.18) (xy 194.31 43.18)
+			(xy 245.11 203.2) (xy 250.19 203.2)
 		)
 		(stroke
 			(width 0)
@@ -9366,7 +9366,7 @@
 	)
 	(wire
 		(pts
-			(xy 194.31 92.71) (xy 194.31 97.79)
+			(xy 250.19 252.73) (xy 250.19 257.81)
 		)
 		(stroke
 			(width 0)
@@ -9416,7 +9416,7 @@
 	)
 	(wire
 		(pts
-			(xy 162.56 71.12) (xy 167.64 71.12)
+			(xy 218.44 231.14) (xy 223.52 231.14)
 		)
 		(stroke
 			(width 0)
@@ -9456,7 +9456,7 @@
 	)
 	(wire
 		(pts
-			(xy 209.55 60.96) (xy 229.87 60.96)
+			(xy 265.43 220.98) (xy 285.75 220.98)
 		)
 		(stroke
 			(width 0)
@@ -9466,7 +9466,7 @@
 	)
 	(wire
 		(pts
-			(xy 229.87 58.42) (xy 229.87 60.96)
+			(xy 285.75 218.44) (xy 285.75 220.98)
 		)
 		(stroke
 			(width 0)
@@ -9476,7 +9476,7 @@
 	)
 	(wire
 		(pts
-			(xy 182.88 97.79) (xy 182.88 105.41)
+			(xy 238.76 257.81) (xy 238.76 265.43)
 		)
 		(stroke
 			(width 0)
@@ -9496,7 +9496,7 @@
 	)
 	(wire
 		(pts
-			(xy 182.88 96.52) (xy 182.88 97.79)
+			(xy 238.76 256.54) (xy 238.76 257.81)
 		)
 		(stroke
 			(width 0)
@@ -9546,7 +9546,7 @@
 	)
 	(wire
 		(pts
-			(xy 194.31 48.26) (xy 187.96 48.26)
+			(xy 250.19 208.28) (xy 243.84 208.28)
 		)
 		(stroke
 			(width 0)
@@ -9566,7 +9566,7 @@
 	)
 	(wire
 		(pts
-			(xy 182.88 59.69) (xy 182.88 60.96)
+			(xy 238.76 219.71) (xy 238.76 220.98)
 		)
 		(stroke
 			(width 0)
@@ -9586,7 +9586,7 @@
 	)
 	(wire
 		(pts
-			(xy 182.88 97.79) (xy 194.31 97.79)
+			(xy 238.76 257.81) (xy 250.19 257.81)
 		)
 		(stroke
 			(width 0)
@@ -9606,7 +9606,7 @@
 	)
 	(wire
 		(pts
-			(xy 224.79 40.64) (xy 226.06 40.64)
+			(xy 280.67 200.66) (xy 281.94 200.66)
 		)
 		(stroke
 			(width 0)
@@ -9626,7 +9626,7 @@
 	)
 	(wire
 		(pts
-			(xy 182.88 43.18) (xy 182.88 46.99)
+			(xy 238.76 203.2) (xy 238.76 207.01)
 		)
 		(stroke
 			(width 0)
@@ -9636,7 +9636,7 @@
 	)
 	(wire
 		(pts
-			(xy 193.04 85.09) (xy 194.31 85.09)
+			(xy 248.92 245.11) (xy 250.19 245.11)
 		)
 		(stroke
 			(width 0)
@@ -9646,7 +9646,7 @@
 	)
 	(wire
 		(pts
-			(xy 182.88 29.21) (xy 189.23 29.21)
+			(xy 238.76 189.23) (xy 245.11 189.23)
 		)
 		(stroke
 			(width 0)
@@ -9686,7 +9686,7 @@
 	)
 	(wire
 		(pts
-			(xy 229.87 102.87) (xy 229.87 105.41)
+			(xy 285.75 262.89) (xy 285.75 265.43)
 		)
 		(stroke
 			(width 0)
@@ -9696,7 +9696,7 @@
 	)
 	(wire
 		(pts
-			(xy 189.23 29.21) (xy 193.04 29.21)
+			(xy 245.11 189.23) (xy 248.92 189.23)
 		)
 		(stroke
 			(width 0)
@@ -9766,7 +9766,7 @@
 	)
 	(wire
 		(pts
-			(xy 167.64 91.44) (xy 182.88 91.44)
+			(xy 223.52 251.46) (xy 238.76 251.46)
 		)
 		(stroke
 			(width 0)
@@ -9776,7 +9776,7 @@
 	)
 	(wire
 		(pts
-			(xy 193.04 85.09) (xy 193.04 90.17)
+			(xy 248.92 245.11) (xy 248.92 250.19)
 		)
 		(stroke
 			(width 0)
@@ -9856,7 +9856,7 @@
 	)
 	(wire
 		(pts
-			(xy 187.96 60.96) (xy 189.23 60.96)
+			(xy 243.84 220.98) (xy 245.11 220.98)
 		)
 		(stroke
 			(width 0)
@@ -9886,7 +9886,7 @@
 	)
 	(wire
 		(pts
-			(xy 224.79 85.09) (xy 226.06 85.09)
+			(xy 280.67 245.11) (xy 281.94 245.11)
 		)
 		(stroke
 			(width 0)
@@ -9916,7 +9916,7 @@
 	)
 	(wire
 		(pts
-			(xy 182.88 73.66) (xy 189.23 73.66)
+			(xy 238.76 233.68) (xy 245.11 233.68)
 		)
 		(stroke
 			(width 0)
@@ -9926,7 +9926,7 @@
 	)
 	(wire
 		(pts
-			(xy 224.79 45.72) (xy 229.87 45.72)
+			(xy 280.67 205.74) (xy 285.75 205.74)
 		)
 		(stroke
 			(width 0)
@@ -9936,7 +9936,7 @@
 	)
 	(wire
 		(pts
-			(xy 162.56 46.99) (xy 162.56 60.96)
+			(xy 218.44 207.01) (xy 218.44 220.98)
 		)
 		(stroke
 			(width 0)
@@ -9966,7 +9966,7 @@
 	)
 	(wire
 		(pts
-			(xy 193.04 40.64) (xy 194.31 40.64)
+			(xy 248.92 200.66) (xy 250.19 200.66)
 		)
 		(stroke
 			(width 0)
@@ -10006,7 +10006,7 @@
 	)
 	(wire
 		(pts
-			(xy 194.31 45.72) (xy 193.04 45.72)
+			(xy 250.19 205.74) (xy 248.92 205.74)
 		)
 		(stroke
 			(width 0)
@@ -10016,7 +10016,7 @@
 	)
 	(wire
 		(pts
-			(xy 182.88 86.36) (xy 182.88 87.63)
+			(xy 238.76 246.38) (xy 238.76 247.65)
 		)
 		(stroke
 			(width 0)
@@ -10036,7 +10036,7 @@
 	)
 	(wire
 		(pts
-			(xy 182.88 41.91) (xy 182.88 43.18)
+			(xy 238.76 201.93) (xy 238.76 203.2)
 		)
 		(stroke
 			(width 0)
@@ -10046,7 +10046,7 @@
 	)
 	(wire
 		(pts
-			(xy 182.88 87.63) (xy 184.15 87.63)
+			(xy 238.76 247.65) (xy 240.03 247.65)
 		)
 		(stroke
 			(width 0)
@@ -10056,7 +10056,7 @@
 	)
 	(wire
 		(pts
-			(xy 193.04 40.64) (xy 193.04 45.72)
+			(xy 248.92 200.66) (xy 248.92 205.74)
 		)
 		(stroke
 			(width 0)
@@ -10066,7 +10066,7 @@
 	)
 	(wire
 		(pts
-			(xy 224.79 92.71) (xy 226.06 92.71)
+			(xy 280.67 252.73) (xy 281.94 252.73)
 		)
 		(stroke
 			(width 0)
@@ -10096,7 +10096,7 @@
 	)
 	(wire
 		(pts
-			(xy 182.88 43.18) (xy 184.15 43.18)
+			(xy 238.76 203.2) (xy 240.03 203.2)
 		)
 		(stroke
 			(width 0)
@@ -10106,7 +10106,7 @@
 	)
 	(wire
 		(pts
-			(xy 224.79 43.18) (xy 226.06 43.18)
+			(xy 280.67 203.2) (xy 281.94 203.2)
 		)
 		(stroke
 			(width 0)
@@ -10116,7 +10116,7 @@
 	)
 	(wire
 		(pts
-			(xy 189.23 87.63) (xy 194.31 87.63)
+			(xy 245.11 247.65) (xy 250.19 247.65)
 		)
 		(stroke
 			(width 0)
@@ -10126,7 +10126,7 @@
 	)
 	(wire
 		(pts
-			(xy 182.88 60.96) (xy 187.96 60.96)
+			(xy 238.76 220.98) (xy 243.84 220.98)
 		)
 		(stroke
 			(width 0)
@@ -10156,7 +10156,7 @@
 	)
 	(wire
 		(pts
-			(xy 182.88 87.63) (xy 182.88 91.44)
+			(xy 238.76 247.65) (xy 238.76 251.46)
 		)
 		(stroke
 			(width 0)
@@ -10166,7 +10166,7 @@
 	)
 	(wire
 		(pts
-			(xy 167.64 97.79) (xy 182.88 97.79)
+			(xy 223.52 257.81) (xy 238.76 257.81)
 		)
 		(stroke
 			(width 0)
@@ -10186,7 +10186,7 @@
 	)
 	(wire
 		(pts
-			(xy 226.06 92.71) (xy 226.06 87.63)
+			(xy 281.94 252.73) (xy 281.94 247.65)
 		)
 		(stroke
 			(width 0)
@@ -10395,7 +10395,7 @@
 		(uuid "3fc911ab-9a87-4fba-95ed-b803e64b0bc0")
 	)
 	(label "5V OUT"
-		(at 182.88 87.63 180)
+		(at 238.76 247.65 180)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -10555,7 +10555,7 @@
 		(uuid "7af28a24-cffc-4667-a1a4-de5db94e4c7c")
 	)
 	(label "BATTERY"
-		(at 229.87 45.72 0)
+		(at 285.75 205.74 0)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -10585,7 +10585,7 @@
 		(uuid "87fc4213-3397-40c9-b90b-e21513b464cf")
 	)
 	(label "3V3 OUT"
-		(at 182.88 43.18 180)
+		(at 238.76 203.2 180)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -10755,7 +10755,7 @@
 		(uuid "c3f87083-5056-48ab-94d9-d5c55b14429f")
 	)
 	(label "BATTERY"
-		(at 229.87 90.17 0)
+		(at 285.75 250.19 0)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -10876,52 +10876,7 @@
 			(fill
 				(type none)
 			)
-			(uuid 050eac60-2e69-481d-9228-b6ec2f5ef83e)
-		)
-	)
-	(rule_area
-		(polyline
-			(pts
-				(xy 238.76 116.84) (xy 238.76 170.18) (xy 304.8 170.18) (xy 304.8 116.84)
-			)
-			(stroke
-				(width 0)
-				(type dash)
-			)
-			(fill
-				(type none)
-			)
-			(uuid 6113f298-9d9c-4af0-addc-85001f8f8cb6)
-		)
-	)
-	(rule_area
-		(polyline
-			(pts
-				(xy 152.4 120.65) (xy 240.03 120.65) (xy 240.411 16.51) (xy 152.781 16.51)
-			)
-			(stroke
-				(width 0)
-				(type dash)
-			)
-			(fill
-				(type none)
-			)
-			(uuid df3d6f8c-6f2b-4e5b-8aa0-802040e0c579)
-		)
-	)
-	(rule_area
-		(polyline
-			(pts
-				(xy 331.47 59.69) (xy 331.47 128.27) (xy 395.986 128.27) (xy 395.986 59.69)
-			)
-			(stroke
-				(width 0)
-				(type dash)
-			)
-			(fill
-				(type none)
-			)
-			(uuid efe44cff-ab81-46cf-99a7-590caacdf54a)
+			(uuid 37299c91-78c3-42dc-8e45-bca45b9f5c6c)
 		)
 	)
 	(rule_area
@@ -10936,12 +10891,57 @@
 			(fill
 				(type none)
 			)
-			(uuid fd312a88-d106-4e65-8254-430aced2c7d2)
+			(uuid 7138f96b-ce54-4a0d-8572-7474ba03a443)
+		)
+	)
+	(rule_area
+		(polyline
+			(pts
+				(xy 238.76 116.84) (xy 238.76 170.18) (xy 304.8 170.18) (xy 304.8 116.84)
+			)
+			(stroke
+				(width 0)
+				(type dash)
+			)
+			(fill
+				(type none)
+			)
+			(uuid c82e592f-3860-432a-9849-f3ec9bcd2948)
+		)
+	)
+	(rule_area
+		(polyline
+			(pts
+				(xy 331.47 59.69) (xy 331.47 128.27) (xy 395.986 128.27) (xy 395.986 59.69)
+			)
+			(stroke
+				(width 0)
+				(type dash)
+			)
+			(fill
+				(type none)
+			)
+			(uuid d1afff2d-8208-497a-8348-87db70c972e5)
+		)
+	)
+	(rule_area
+		(polyline
+			(pts
+				(xy 208.28 280.67) (xy 295.91 280.67) (xy 296.291 176.53) (xy 208.661 176.53)
+			)
+			(stroke
+				(width 0)
+				(type dash)
+			)
+			(fill
+				(type none)
+			)
+			(uuid dacfcf91-f34c-49bd-a0bf-baf60ca6c43f)
 		)
 	)
 	(symbol
 		(lib_id "CL21A226MAQNNNE:CL21A226MAQNNNE")
-		(at 182.88 86.36 270)
+		(at 238.76 246.38 270)
 		(mirror x)
 		(unit 1)
 		(exclude_from_sim no)
@@ -10950,7 +10950,7 @@
 		(dnp no)
 		(uuid "031275dc-239d-41e0-a615-45de7cdfd668")
 		(property "Reference" "C4"
-			(at 179.07 78.7399 90)
+			(at 234.95 238.7599 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -10959,7 +10959,7 @@
 			)
 		)
 		(property "Value" "22µ"
-			(at 179.07 81.2799 90)
+			(at 234.95 241.2999 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -10968,7 +10968,7 @@
 			)
 		)
 		(property "Footprint" "CAPC2012X140N"
-			(at 86.69 77.47 0)
+			(at 142.57 237.49 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -10978,7 +10978,7 @@
 			)
 		)
 		(property "Datasheet" "https://datasheet.datasheetarchive.com/originals/distributors/Datasheets-DGA10/2406310.pdf"
-			(at -13.31 77.47 0)
+			(at 42.57 237.49 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -10988,7 +10988,7 @@
 			)
 		)
 		(property "Description" "Samsung"
-			(at 182.88 86.36 0)
+			(at 238.76 246.38 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -10997,7 +10997,7 @@
 			)
 		)
 		(property "Height" "1.4"
-			(at -213.31 77.47 0)
+			(at -157.43 237.49 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -11007,7 +11007,7 @@
 			)
 		)
 		(property "Manufacturer_Name" "SAMSUNG"
-			(at -313.31 77.47 0)
+			(at -257.43 237.49 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -11017,7 +11017,7 @@
 			)
 		)
 		(property "Manufacturer_Part_Number" "CL21A226MAQNNNE"
-			(at -413.31 77.47 0)
+			(at -357.43 237.49 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -11027,7 +11027,7 @@
 			)
 		)
 		(property "Mouser Part Number" "187-CL21A226MAQNNNE"
-			(at -513.31 77.47 0)
+			(at -457.43 237.49 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -11037,7 +11037,7 @@
 			)
 		)
 		(property "Mouser Price/Stock" "https://www.mouser.co.uk/ProductDetail/Samsung-Electro-Mechanics/CL21A226MAQNNNE?qs=yOVawPpwOwn5SPpGykCwnw%3D%3D"
-			(at -613.31 77.47 0)
+			(at -557.43 237.49 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -11047,7 +11047,7 @@
 			)
 		)
 		(property "Arrow Part Number" "CL21A226MAQNNNE"
-			(at -713.31 77.47 0)
+			(at -657.43 237.49 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -11057,7 +11057,7 @@
 			)
 		)
 		(property "Arrow Price/Stock" "https://www.arrow.com/en/products/cl21a226maqnnne/samsung-electro-mechanics"
-			(at -813.31 77.47 0)
+			(at -757.43 237.49 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -11529,7 +11529,7 @@
 	)
 	(symbol
 		(lib_id "CL31A106KBHNNNE:CL31A106KBHNNNE")
-		(at 229.87 58.42 90)
+		(at 285.75 218.44 90)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -11538,7 +11538,7 @@
 		(fields_autoplaced yes)
 		(uuid "1280f32f-299c-49a8-99ee-21896639cf25")
 		(property "Reference" "C11"
-			(at 233.68 50.7999 90)
+			(at 289.56 210.8199 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -11547,7 +11547,7 @@
 			)
 		)
 		(property "Value" "10µ"
-			(at 233.68 53.3399 90)
+			(at 289.56 213.3599 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -11556,7 +11556,7 @@
 			)
 		)
 		(property "Footprint" "CAPC3216X180N"
-			(at 326.06 49.53 0)
+			(at 381.94 209.55 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -11566,7 +11566,7 @@
 			)
 		)
 		(property "Datasheet" "https://datasheet.datasheetarchive.com/originals/distributors/Datasheets_SAMA/08745f6325ae1679773301b11fb0567f.pdf"
-			(at 426.06 49.53 0)
+			(at 481.94 209.55 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -11576,7 +11576,7 @@
 			)
 		)
 		(property "Description" "Samsung Multi-layer Ceramic Capacitor, 1206, 10uF, 50V"
-			(at 229.87 58.42 0)
+			(at 285.75 218.44 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -11585,7 +11585,7 @@
 			)
 		)
 		(property "Height" "1.8"
-			(at 626.06 49.53 0)
+			(at 681.94 209.55 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -11595,7 +11595,7 @@
 			)
 		)
 		(property "Manufacturer_Name" "SAMSUNG"
-			(at 726.06 49.53 0)
+			(at 781.94 209.55 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -11605,7 +11605,7 @@
 			)
 		)
 		(property "Manufacturer_Part_Number" "CL31A106KBHNNNE"
-			(at 826.06 49.53 0)
+			(at 881.94 209.55 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -11615,7 +11615,7 @@
 			)
 		)
 		(property "Mouser Part Number" "187-CL31A106KBHNNNE"
-			(at 926.06 49.53 0)
+			(at 981.94 209.55 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -11625,7 +11625,7 @@
 			)
 		)
 		(property "Mouser Price/Stock" "https://www.mouser.co.uk/ProductDetail/Samsung-Electro-Mechanics/CL31A106KBHNNNE?qs=X6jEic%2FHinBsSMnC%2FFnmbg%3D%3D"
-			(at 1026.06 49.53 0)
+			(at 1081.94 209.55 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -11635,7 +11635,7 @@
 			)
 		)
 		(property "Arrow Part Number" "CL31A106KBHNNNE"
-			(at 1126.06 49.53 0)
+			(at 1181.94 209.55 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -11645,7 +11645,7 @@
 			)
 		)
 		(property "Arrow Price/Stock" "https://www.arrow.com/en/products/cl31a106kbhnnne/samsung-electro-mechanics?region=nac"
-			(at 1226.06 49.53 0)
+			(at 1281.94 209.55 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -11862,7 +11862,7 @@
 	)
 	(symbol
 		(lib_id "0603WAF3902T5E:0603WAF3902T5E")
-		(at 162.56 81.28 270)
+		(at 218.44 241.3 270)
 		(mirror x)
 		(unit 1)
 		(exclude_from_sim no)
@@ -11871,7 +11871,7 @@
 		(dnp no)
 		(uuid "1705c282-332e-4d02-af5d-f73521dfb786")
 		(property "Reference" "R2"
-			(at 158.75 80.0099 90)
+			(at 214.63 240.0299 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -11880,7 +11880,7 @@
 			)
 		)
 		(property "Value" "39k"
-			(at 158.75 82.5499 90)
+			(at 214.63 242.5699 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -11889,7 +11889,7 @@
 			)
 		)
 		(property "Footprint" "0603WAF3902T5E:RESC1608X55N"
-			(at 162.56 81.28 0)
+			(at 218.44 241.3 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -11899,7 +11899,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 162.56 81.28 0)
+			(at 218.44 241.3 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -11908,7 +11908,7 @@
 			)
 		)
 		(property "Description" ""
-			(at 162.56 81.28 0)
+			(at 218.44 241.3 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -11917,7 +11917,7 @@
 			)
 		)
 		(property "MF" "Uni-Royal"
-			(at 162.56 81.28 0)
+			(at 218.44 241.3 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -11927,7 +11927,7 @@
 			)
 		)
 		(property "MAXIMUM_PACKAGE_HEIGHT" "0.55mm"
-			(at 162.56 81.28 0)
+			(at 218.44 241.3 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -11937,7 +11937,7 @@
 			)
 		)
 		(property "Package" "0603-2 ROYAL"
-			(at 162.56 81.28 0)
+			(at 218.44 241.3 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -11947,7 +11947,7 @@
 			)
 		)
 		(property "Price" "None"
-			(at 162.56 81.28 0)
+			(at 218.44 241.3 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -11957,7 +11957,7 @@
 			)
 		)
 		(property "Check_prices" "https://www.snapeda.com/parts/0603WAF3902T5E/Uni-Royal/view-part/?ref=eda"
-			(at 162.56 81.28 0)
+			(at 218.44 241.3 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -11967,7 +11967,7 @@
 			)
 		)
 		(property "STANDARD" "IPC-7351B"
-			(at 162.56 81.28 0)
+			(at 218.44 241.3 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -11977,7 +11977,7 @@
 			)
 		)
 		(property "PARTREV" "V3"
-			(at 162.56 81.28 0)
+			(at 218.44 241.3 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -11987,7 +11987,7 @@
 			)
 		)
 		(property "SnapEDA_Link" "https://www.snapeda.com/parts/0603WAF3902T5E/Uni-Royal/view-part/?ref=snap"
-			(at 162.56 81.28 0)
+			(at 218.44 241.3 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -11997,7 +11997,7 @@
 			)
 		)
 		(property "MP" "0603WAF3902T5E"
-			(at 162.56 81.28 0)
+			(at 218.44 241.3 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -12007,7 +12007,7 @@
 			)
 		)
 		(property "Description_1" "39K Ohm 1/10W Thick Film Resistor 0603 Chip - Surface Mount"
-			(at 162.56 81.28 0)
+			(at 218.44 241.3 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -12017,7 +12017,7 @@
 			)
 		)
 		(property "Availability" "Not in stock"
-			(at 162.56 81.28 0)
+			(at 218.44 241.3 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -12027,7 +12027,7 @@
 			)
 		)
 		(property "MANUFACTURER" "Uni-Royal"
-			(at 162.56 81.28 0)
+			(at 218.44 241.3 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -12053,7 +12053,7 @@
 	)
 	(symbol
 		(lib_id "TPS61088RHLR:TPS61088RHLR")
-		(at 67.31 116.84 0)
+		(at 123.19 238.76 0)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -12062,7 +12062,7 @@
 		(fields_autoplaced yes)
 		(uuid "1bd901eb-4a1f-48c4-9bda-88e5e48f2db2")
 		(property "Reference" "IC7"
-			(at 106.68 110.4198 0)
+			(at 162.56 232.3398 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -12070,7 +12070,7 @@
 			)
 		)
 		(property "Value" "TPS61088RHLR"
-			(at 106.68 112.9598 0)
+			(at 162.56 234.8798 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -12078,7 +12078,7 @@
 			)
 		)
 		(property "Footprint" "RHL(R-PVQFN-N20)_1"
-			(at 99.06 201.6 0)
+			(at 154.94 323.52 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -12088,7 +12088,7 @@
 			)
 		)
 		(property "Datasheet" "http://www.ti.com/lit/gpn/tps61088"
-			(at 99.06 301.6 0)
+			(at 154.94 423.52 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -12098,7 +12098,7 @@
 			)
 		)
 		(property "Description" "10-A Fully-Integrated Synchronous Boost Converter"
-			(at 67.31 116.84 0)
+			(at 123.19 238.76 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -12107,7 +12107,7 @@
 			)
 		)
 		(property "Height" ""
-			(at 99.06 501.6 0)
+			(at 154.94 623.52 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -12117,7 +12117,7 @@
 			)
 		)
 		(property "Manufacturer_Name" "Texas Instruments"
-			(at 99.06 601.6 0)
+			(at 154.94 723.52 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -12127,7 +12127,7 @@
 			)
 		)
 		(property "Manufacturer_Part_Number" "TPS61088RHLR"
-			(at 99.06 701.6 0)
+			(at 154.94 823.52 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -12137,7 +12137,7 @@
 			)
 		)
 		(property "Mouser Part Number" "595-TPS61088RHLR"
-			(at 99.06 801.6 0)
+			(at 154.94 923.52 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -12147,7 +12147,7 @@
 			)
 		)
 		(property "Mouser Price/Stock" "https://www.mouser.co.uk/ProductDetail/Texas-Instruments/TPS61088RHLR?qs=MiqG6Kq1qKNjgpnslrNKug%3D%3D"
-			(at 99.06 901.6 0)
+			(at 154.94 1023.52 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -12157,7 +12157,7 @@
 			)
 		)
 		(property "Arrow Part Number" "TPS61088RHLR"
-			(at 99.06 1001.6 0)
+			(at 154.94 1123.52 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -12167,7 +12167,7 @@
 			)
 		)
 		(property "Arrow Price/Stock" "https://www.arrow.com/en/products/tps61088rhlr/texas-instruments?utm_currency=USD&region=nac"
-			(at 99.06 1101.6 0)
+			(at 154.94 1223.52 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -12958,7 +12958,7 @@
 	)
 	(symbol
 		(lib_id "CL10C100JB8NNNC:CL10C100JB8NNNC")
-		(at 182.88 59.69 270)
+		(at 238.76 219.71 270)
 		(mirror x)
 		(unit 1)
 		(exclude_from_sim no)
@@ -12967,7 +12967,7 @@
 		(dnp no)
 		(uuid "2a2bc540-efeb-4792-ba17-b4bcf63b2a50")
 		(property "Reference" "C1"
-			(at 179.07 52.0699 90)
+			(at 234.95 212.0899 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -12976,7 +12976,7 @@
 			)
 		)
 		(property "Value" "10p"
-			(at 179.07 54.6099 90)
+			(at 234.95 214.6299 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -12985,7 +12985,7 @@
 			)
 		)
 		(property "Footprint" "CAPC1608X90N"
-			(at 86.69 50.8 0)
+			(at 142.57 210.82 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -12995,7 +12995,7 @@
 			)
 		)
 		(property "Datasheet" "https://datasheet.datasheetarchive.com/originals/distributors/Datasheets_SAMA/dff79b939d782be5ffd026557e0de3f5.pdf"
-			(at -13.31 50.8 0)
+			(at 42.57 210.82 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -13005,7 +13005,7 @@
 			)
 		)
 		(property "Description" "CAP CER 10PF 50V C0G/NP0 0603"
-			(at 182.88 59.69 0)
+			(at 238.76 219.71 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -13014,7 +13014,7 @@
 			)
 		)
 		(property "Height" "0.9"
-			(at -213.31 50.8 0)
+			(at -157.43 210.82 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -13024,7 +13024,7 @@
 			)
 		)
 		(property "Manufacturer_Name" "SAMSUNG"
-			(at -313.31 50.8 0)
+			(at -257.43 210.82 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -13034,7 +13034,7 @@
 			)
 		)
 		(property "Manufacturer_Part_Number" "CL10C100JB8NNNC"
-			(at -413.31 50.8 0)
+			(at -357.43 210.82 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -13044,7 +13044,7 @@
 			)
 		)
 		(property "Mouser Part Number" "187-CL10C100JB8NNNC"
-			(at -513.31 50.8 0)
+			(at -457.43 210.82 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -13054,7 +13054,7 @@
 			)
 		)
 		(property "Mouser Price/Stock" "https://www.mouser.co.uk/ProductDetail/Samsung-Electro-Mechanics/CL10C100JB8NNNC?qs=349EhDEZ59oiQHnsqhYH%2Fg%3D%3D"
-			(at -613.31 50.8 0)
+			(at -557.43 210.82 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -13064,7 +13064,7 @@
 			)
 		)
 		(property "Arrow Part Number" "CL10C100JB8NNNC"
-			(at -713.31 50.8 0)
+			(at -657.43 210.82 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -13074,7 +13074,7 @@
 			)
 		)
 		(property "Arrow Price/Stock" "https://www.arrow.com/en/products/cl10c100jb8nnnc/samsung-electro-mechanics?region=europe"
-			(at -813.31 50.8 0)
+			(at -757.43 210.82 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -13100,7 +13100,7 @@
 	)
 	(symbol
 		(lib_id "0805W8F4703T5E:0805W8F4703T5E")
-		(at 162.56 107.95 90)
+		(at 218.44 267.97 90)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -13108,7 +13108,7 @@
 		(dnp no)
 		(uuid "305b7db9-c9d0-43de-84bc-24a84fb63b2a")
 		(property "Reference" "R23"
-			(at 157.48 105.156 90)
+			(at 213.36 265.176 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -13116,7 +13116,7 @@
 			)
 		)
 		(property "Value" "470k"
-			(at 157.226 107.95 90)
+			(at 213.106 267.97 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -13124,7 +13124,7 @@
 			)
 		)
 		(property "Footprint" "0805W8F4703T5E:RESC2012X65N"
-			(at 162.56 107.95 0)
+			(at 218.44 267.97 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -13134,7 +13134,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 162.56 107.95 0)
+			(at 218.44 267.97 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -13143,7 +13143,7 @@
 			)
 		)
 		(property "Description" ""
-			(at 162.56 107.95 0)
+			(at 218.44 267.97 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -13152,7 +13152,7 @@
 			)
 		)
 		(property "MF" "Uni-Royal"
-			(at 162.56 107.95 0)
+			(at 218.44 267.97 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -13162,7 +13162,7 @@
 			)
 		)
 		(property "MAXIMUM_PACKAGE_HEIGHT" "0.65mm"
-			(at 162.56 107.95 0)
+			(at 218.44 267.97 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -13172,7 +13172,7 @@
 			)
 		)
 		(property "Package" "None"
-			(at 162.56 107.95 0)
+			(at 218.44 267.97 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -13182,7 +13182,7 @@
 			)
 		)
 		(property "Price" "None"
-			(at 162.56 107.95 0)
+			(at 218.44 267.97 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -13192,7 +13192,7 @@
 			)
 		)
 		(property "Check_prices" "https://www.snapeda.com/parts/0805W8F4703T5E/Uni-Royal/view-part/?ref=eda"
-			(at 162.56 107.95 0)
+			(at 218.44 267.97 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -13202,7 +13202,7 @@
 			)
 		)
 		(property "STANDARD" "IPC-7351B"
-			(at 162.56 107.95 0)
+			(at 218.44 267.97 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -13212,7 +13212,7 @@
 			)
 		)
 		(property "PARTREV" "V3"
-			(at 162.56 107.95 0)
+			(at 218.44 267.97 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -13222,7 +13222,7 @@
 			)
 		)
 		(property "SnapEDA_Link" "https://www.snapeda.com/parts/0805W8F4703T5E/Uni-Royal/view-part/?ref=snap"
-			(at 162.56 107.95 0)
+			(at 218.44 267.97 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -13232,7 +13232,7 @@
 			)
 		)
 		(property "MP" "0805W8F4703T5E"
-			(at 162.56 107.95 0)
+			(at 218.44 267.97 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -13242,7 +13242,7 @@
 			)
 		)
 		(property "Description_1" "470K Ohm 1/8W Thick Film Resistor 0805 Chip - Surface Mount"
-			(at 162.56 107.95 0)
+			(at 218.44 267.97 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -13252,7 +13252,7 @@
 			)
 		)
 		(property "Availability" "Not in stock"
-			(at 162.56 107.95 0)
+			(at 218.44 267.97 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -13262,7 +13262,7 @@
 			)
 		)
 		(property "MANUFACTURER" "Uni-Royal"
-			(at 162.56 107.95 0)
+			(at 218.44 267.97 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -13749,7 +13749,7 @@
 	)
 	(symbol
 		(lib_id "0603WAF1203T5E:0603WAF1203T5E")
-		(at 193.04 105.41 0)
+		(at 248.92 265.43 0)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -13757,7 +13757,7 @@
 		(dnp no)
 		(uuid "3eb303ff-795a-4f41-8e6a-8935628b4270")
 		(property "Reference" "R1"
-			(at 193.04 108.966 0)
+			(at 248.92 268.986 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -13765,7 +13765,7 @@
 			)
 		)
 		(property "Value" "120k"
-			(at 193.04 111.506 0)
+			(at 248.92 271.526 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -13773,7 +13773,7 @@
 			)
 		)
 		(property "Footprint" "0603WAF1203T5E:RESC1608X55N"
-			(at 193.04 105.41 0)
+			(at 248.92 265.43 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -13783,7 +13783,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 193.04 105.41 0)
+			(at 248.92 265.43 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -13792,7 +13792,7 @@
 			)
 		)
 		(property "Description" ""
-			(at 193.04 105.41 0)
+			(at 248.92 265.43 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -13801,7 +13801,7 @@
 			)
 		)
 		(property "MF" "Uni-Royal"
-			(at 193.04 105.41 0)
+			(at 248.92 265.43 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -13811,7 +13811,7 @@
 			)
 		)
 		(property "MAXIMUM_PACKAGE_HEIGHT" "0.55mm"
-			(at 193.04 105.41 0)
+			(at 248.92 265.43 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -13821,7 +13821,7 @@
 			)
 		)
 		(property "Package" "0603-2 ROYAL"
-			(at 193.04 105.41 0)
+			(at 248.92 265.43 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -13831,7 +13831,7 @@
 			)
 		)
 		(property "Price" "None"
-			(at 193.04 105.41 0)
+			(at 248.92 265.43 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -13841,7 +13841,7 @@
 			)
 		)
 		(property "Check_prices" "https://www.snapeda.com/parts/0603WAF1203T5E/Uni-Royal/view-part/?ref=eda"
-			(at 193.04 105.41 0)
+			(at 248.92 265.43 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -13851,7 +13851,7 @@
 			)
 		)
 		(property "STANDARD" "IPC-7351B"
-			(at 193.04 105.41 0)
+			(at 248.92 265.43 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -13861,7 +13861,7 @@
 			)
 		)
 		(property "PARTREV" "V3"
-			(at 193.04 105.41 0)
+			(at 248.92 265.43 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -13871,7 +13871,7 @@
 			)
 		)
 		(property "SnapEDA_Link" "https://www.snapeda.com/parts/0603WAF1203T5E/Uni-Royal/view-part/?ref=snap"
-			(at 193.04 105.41 0)
+			(at 248.92 265.43 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -13881,7 +13881,7 @@
 			)
 		)
 		(property "MP" "0603WAF1203T5E"
-			(at 193.04 105.41 0)
+			(at 248.92 265.43 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -13891,7 +13891,7 @@
 			)
 		)
 		(property "Description_1" "120K Ohm 1/10W Thick Film Resistor 0603 Chip - Surface Mount"
-			(at 193.04 105.41 0)
+			(at 248.92 265.43 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -13901,7 +13901,7 @@
 			)
 		)
 		(property "Availability" "Not in stock"
-			(at 193.04 105.41 0)
+			(at 248.92 265.43 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -13911,7 +13911,7 @@
 			)
 		)
 		(property "MANUFACTURER" "Uni-Royal"
-			(at 193.04 105.41 0)
+			(at 248.92 265.43 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -13938,7 +13938,7 @@
 	(symbol
 		(lib_name "TPS62067DSGR_1")
 		(lib_id "TPS62067DSGR:TPS62067DSGR")
-		(at 194.31 85.09 0)
+		(at 250.19 245.11 0)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -13947,7 +13947,7 @@
 		(fields_autoplaced yes)
 		(uuid "4dbc2e7b-0fc7-4486-be24-e893884330a5")
 		(property "Reference" "IC4"
-			(at 209.55 77.47 0)
+			(at 265.43 237.49 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -13955,7 +13955,7 @@
 			)
 		)
 		(property "Value" "TPS62067DSGR"
-			(at 209.55 80.01 0)
+			(at 265.43 240.03 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -13963,7 +13963,7 @@
 			)
 		)
 		(property "Footprint" "SON50P200X200X80-9N"
-			(at 220.98 180.01 0)
+			(at 276.86 340.03 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -13973,7 +13973,7 @@
 			)
 		)
 		(property "Datasheet" "http://www.ti.com/lit/gpn/TPS62067"
-			(at 220.98 280.01 0)
+			(at 276.86 440.03 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -13983,7 +13983,7 @@
 			)
 		)
 		(property "Description" "3MHz, 2A Step-Down Converter in 2x2 SON Package"
-			(at 194.31 85.09 0)
+			(at 250.19 245.11 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -13992,7 +13992,7 @@
 			)
 		)
 		(property "Height" "0.8"
-			(at 220.98 480.01 0)
+			(at 276.86 640.03 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -14002,7 +14002,7 @@
 			)
 		)
 		(property "Manufacturer_Name" "Texas Instruments"
-			(at 220.98 580.01 0)
+			(at 276.86 740.03 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -14012,7 +14012,7 @@
 			)
 		)
 		(property "Manufacturer_Part_Number" "TPS62067DSGR"
-			(at 220.98 680.01 0)
+			(at 276.86 840.03 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -14022,7 +14022,7 @@
 			)
 		)
 		(property "Mouser Part Number" "595-TPS62067DSGR"
-			(at 220.98 780.01 0)
+			(at 276.86 940.03 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -14032,7 +14032,7 @@
 			)
 		)
 		(property "Mouser Price/Stock" "https://www.mouser.co.uk/ProductDetail/Texas-Instruments/TPS62067DSGR?qs=EuM%2FBx4ov4T1eAPCjkYm3A%3D%3D"
-			(at 220.98 880.01 0)
+			(at 276.86 1040.03 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -14042,7 +14042,7 @@
 			)
 		)
 		(property "Arrow Part Number" "TPS62067DSGR"
-			(at 220.98 980.01 0)
+			(at 276.86 1140.03 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -14052,7 +14052,7 @@
 			)
 		)
 		(property "Arrow Price/Stock" "https://www.arrow.com/en/products/tps62067dsgr/texas-instruments?region=nac"
-			(at 220.98 1080.01 0)
+			(at 276.86 1240.03 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -14423,7 +14423,7 @@
 	)
 	(symbol
 		(lib_id "0805W8F2203T5E:0805W8F2203T5E")
-		(at 172.72 60.96 0)
+		(at 228.6 220.98 0)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -14431,7 +14431,7 @@
 		(dnp no)
 		(uuid "4e6efb63-c72c-4e82-9b1a-e684fca0b1d0")
 		(property "Reference" "R17"
-			(at 172.72 64.516 0)
+			(at 228.6 224.536 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -14439,7 +14439,7 @@
 			)
 		)
 		(property "Value" "220k"
-			(at 172.72 67.056 0)
+			(at 228.6 227.076 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -14447,7 +14447,7 @@
 			)
 		)
 		(property "Footprint" "0805W8F2203T5E:RESC2012X65N"
-			(at 172.72 60.96 0)
+			(at 228.6 220.98 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -14457,7 +14457,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 172.72 60.96 0)
+			(at 228.6 220.98 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -14466,7 +14466,7 @@
 			)
 		)
 		(property "Description" ""
-			(at 172.72 60.96 0)
+			(at 228.6 220.98 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -14475,7 +14475,7 @@
 			)
 		)
 		(property "MF" "Uni-Royal"
-			(at 172.72 60.96 0)
+			(at 228.6 220.98 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -14485,7 +14485,7 @@
 			)
 		)
 		(property "MAXIMUM_PACKAGE_HEIGHT" "0.65mm"
-			(at 172.72 60.96 0)
+			(at 228.6 220.98 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -14495,7 +14495,7 @@
 			)
 		)
 		(property "Package" "0805-2 ROYAL"
-			(at 172.72 60.96 0)
+			(at 228.6 220.98 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -14505,7 +14505,7 @@
 			)
 		)
 		(property "Price" "None"
-			(at 172.72 60.96 0)
+			(at 228.6 220.98 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -14515,7 +14515,7 @@
 			)
 		)
 		(property "Check_prices" "https://www.snapeda.com/parts/0805W8F2203T5E/Uni-Royal/view-part/?ref=eda"
-			(at 172.72 60.96 0)
+			(at 228.6 220.98 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -14525,7 +14525,7 @@
 			)
 		)
 		(property "STANDARD" "IPC-7351B"
-			(at 172.72 60.96 0)
+			(at 228.6 220.98 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -14535,7 +14535,7 @@
 			)
 		)
 		(property "PARTREV" "V3"
-			(at 172.72 60.96 0)
+			(at 228.6 220.98 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -14545,7 +14545,7 @@
 			)
 		)
 		(property "SnapEDA_Link" "https://www.snapeda.com/parts/0805W8F2203T5E/Uni-Royal/view-part/?ref=snap"
-			(at 172.72 60.96 0)
+			(at 228.6 220.98 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -14555,7 +14555,7 @@
 			)
 		)
 		(property "MP" "0805W8F2203T5E"
-			(at 172.72 60.96 0)
+			(at 228.6 220.98 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -14565,7 +14565,7 @@
 			)
 		)
 		(property "Description_1" "220K Ohm 1/8W Thick Film Resistor 0805 Chip - Surface Mount"
-			(at 172.72 60.96 0)
+			(at 228.6 220.98 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -14575,7 +14575,7 @@
 			)
 		)
 		(property "Availability" "Not in stock"
-			(at 172.72 60.96 0)
+			(at 228.6 220.98 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -14585,7 +14585,7 @@
 			)
 		)
 		(property "MANUFACTURER" "Uni-Royal"
-			(at 172.72 60.96 0)
+			(at 228.6 220.98 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -15025,7 +15025,7 @@
 	)
 	(symbol
 		(lib_id "0805W8F1503T5E:0805W8F1503T5E")
-		(at 199.39 60.96 0)
+		(at 255.27 220.98 0)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -15033,7 +15033,7 @@
 		(dnp no)
 		(uuid "6da7a183-3a0e-4900-991b-bc751dca8c2a")
 		(property "Reference" "R21"
-			(at 199.644 64.77 0)
+			(at 255.524 224.79 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -15041,7 +15041,7 @@
 			)
 		)
 		(property "Value" "150k"
-			(at 199.644 67.31 0)
+			(at 255.524 227.33 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -15049,7 +15049,7 @@
 			)
 		)
 		(property "Footprint" "0805W8F1503T5E:RESC2012X65N"
-			(at 199.39 60.96 0)
+			(at 255.27 220.98 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -15059,7 +15059,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 199.39 60.96 0)
+			(at 255.27 220.98 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -15068,7 +15068,7 @@
 			)
 		)
 		(property "Description" ""
-			(at 199.39 60.96 0)
+			(at 255.27 220.98 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -15077,7 +15077,7 @@
 			)
 		)
 		(property "MF" "Uni-Royal"
-			(at 199.39 60.96 0)
+			(at 255.27 220.98 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -15087,7 +15087,7 @@
 			)
 		)
 		(property "MAXIMUM_PACKAGE_HEIGHT" "0.65mm"
-			(at 199.39 60.96 0)
+			(at 255.27 220.98 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -15097,7 +15097,7 @@
 			)
 		)
 		(property "Package" "0805-2 ROYAL"
-			(at 199.39 60.96 0)
+			(at 255.27 220.98 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -15107,7 +15107,7 @@
 			)
 		)
 		(property "Price" "None"
-			(at 199.39 60.96 0)
+			(at 255.27 220.98 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -15117,7 +15117,7 @@
 			)
 		)
 		(property "Check_prices" "https://www.snapeda.com/parts/0805W8F1503T5E/Uni-Royal/view-part/?ref=eda"
-			(at 199.39 60.96 0)
+			(at 255.27 220.98 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -15127,7 +15127,7 @@
 			)
 		)
 		(property "STANDARD" "IPC-7351B"
-			(at 199.39 60.96 0)
+			(at 255.27 220.98 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -15137,7 +15137,7 @@
 			)
 		)
 		(property "PARTREV" "V3"
-			(at 199.39 60.96 0)
+			(at 255.27 220.98 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -15147,7 +15147,7 @@
 			)
 		)
 		(property "SnapEDA_Link" "https://www.snapeda.com/parts/0805W8F1503T5E/Uni-Royal/view-part/?ref=snap"
-			(at 199.39 60.96 0)
+			(at 255.27 220.98 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -15157,7 +15157,7 @@
 			)
 		)
 		(property "MP" "0805W8F1503T5E"
-			(at 199.39 60.96 0)
+			(at 255.27 220.98 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -15167,7 +15167,7 @@
 			)
 		)
 		(property "Description_1" "150K Ohm 1/8W Thick Film Resistor 0805 Chip - Surface Mount"
-			(at 199.39 60.96 0)
+			(at 255.27 220.98 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -15177,7 +15177,7 @@
 			)
 		)
 		(property "Availability" "Not in stock"
-			(at 199.39 60.96 0)
+			(at 255.27 220.98 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -15187,7 +15187,7 @@
 			)
 		)
 		(property "MANUFACTURER" "Uni-Royal"
-			(at 199.39 60.96 0)
+			(at 255.27 220.98 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -15804,7 +15804,7 @@
 	(symbol
 		(lib_name "TPS62067DSGR_1")
 		(lib_id "TPS62067DSGR:TPS62067DSGR")
-		(at 194.31 40.64 0)
+		(at 250.19 200.66 0)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -15813,7 +15813,7 @@
 		(fields_autoplaced yes)
 		(uuid "823f7fdb-15b9-405c-a152-53c6d059afc9")
 		(property "Reference" "IC3"
-			(at 209.55 33.02 0)
+			(at 265.43 193.04 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -15821,7 +15821,7 @@
 			)
 		)
 		(property "Value" "TPS62067DSGR"
-			(at 209.55 35.56 0)
+			(at 265.43 195.58 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -15829,7 +15829,7 @@
 			)
 		)
 		(property "Footprint" "SON50P200X200X80-9N"
-			(at 220.98 135.56 0)
+			(at 276.86 295.58 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -15839,7 +15839,7 @@
 			)
 		)
 		(property "Datasheet" "http://www.ti.com/lit/gpn/TPS62067"
-			(at 220.98 235.56 0)
+			(at 276.86 395.58 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -15849,7 +15849,7 @@
 			)
 		)
 		(property "Description" "3MHz, 2A Step-Down Converter in 2x2 SON Package"
-			(at 194.31 40.64 0)
+			(at 250.19 200.66 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -15858,7 +15858,7 @@
 			)
 		)
 		(property "Height" "0.8"
-			(at 220.98 435.56 0)
+			(at 276.86 595.58 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -15868,7 +15868,7 @@
 			)
 		)
 		(property "Manufacturer_Name" "Texas Instruments"
-			(at 220.98 535.56 0)
+			(at 276.86 695.58 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -15878,7 +15878,7 @@
 			)
 		)
 		(property "Manufacturer_Part_Number" "TPS62067DSGR"
-			(at 220.98 635.56 0)
+			(at 276.86 795.58 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -15888,7 +15888,7 @@
 			)
 		)
 		(property "Mouser Part Number" "595-TPS62067DSGR"
-			(at 220.98 735.56 0)
+			(at 276.86 895.58 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -15898,7 +15898,7 @@
 			)
 		)
 		(property "Mouser Price/Stock" "https://www.mouser.co.uk/ProductDetail/Texas-Instruments/TPS62067DSGR?qs=EuM%2FBx4ov4T1eAPCjkYm3A%3D%3D"
-			(at 220.98 835.56 0)
+			(at 276.86 995.58 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -15908,7 +15908,7 @@
 			)
 		)
 		(property "Arrow Part Number" "TPS62067DSGR"
-			(at 220.98 935.56 0)
+			(at 276.86 1095.58 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -15918,7 +15918,7 @@
 			)
 		)
 		(property "Arrow Price/Stock" "https://www.arrow.com/en/products/tps62067dsgr/texas-instruments?region=nac"
-			(at 220.98 1035.56 0)
+			(at 276.86 1195.58 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -16096,7 +16096,7 @@
 	)
 	(symbol
 		(lib_id "power:GND")
-		(at 209.55 60.96 0)
+		(at 265.43 220.98 0)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -16105,7 +16105,7 @@
 		(fields_autoplaced yes)
 		(uuid "8a99825d-a512-4f84-b739-cdd4e46ffcd1")
 		(property "Reference" "#PWR010"
-			(at 209.55 67.31 0)
+			(at 265.43 227.33 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -16114,7 +16114,7 @@
 			)
 		)
 		(property "Value" "GND"
-			(at 209.55 66.04 0)
+			(at 265.43 226.06 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -16122,7 +16122,7 @@
 			)
 		)
 		(property "Footprint" ""
-			(at 209.55 60.96 0)
+			(at 265.43 220.98 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -16131,7 +16131,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 209.55 60.96 0)
+			(at 265.43 220.98 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -16140,7 +16140,7 @@
 			)
 		)
 		(property "Description" "Power symbol creates a global label with name \"GND\" , ground"
-			(at 209.55 60.96 0)
+			(at 265.43 220.98 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -16162,7 +16162,7 @@
 	)
 	(symbol
 		(lib_id "CL31A106KBHNNNE:CL31A106KBHNNNE")
-		(at 229.87 102.87 90)
+		(at 285.75 262.89 90)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -16171,7 +16171,7 @@
 		(fields_autoplaced yes)
 		(uuid "915ae764-d761-4db8-adf7-7f200dbe791f")
 		(property "Reference" "C12"
-			(at 233.68 95.2499 90)
+			(at 289.56 255.2699 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -16180,7 +16180,7 @@
 			)
 		)
 		(property "Value" "10µ"
-			(at 233.68 97.7899 90)
+			(at 289.56 257.8099 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -16189,7 +16189,7 @@
 			)
 		)
 		(property "Footprint" "CAPC3216X180N"
-			(at 326.06 93.98 0)
+			(at 381.94 254 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -16199,7 +16199,7 @@
 			)
 		)
 		(property "Datasheet" "https://datasheet.datasheetarchive.com/originals/distributors/Datasheets_SAMA/08745f6325ae1679773301b11fb0567f.pdf"
-			(at 426.06 93.98 0)
+			(at 481.94 254 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -16209,7 +16209,7 @@
 			)
 		)
 		(property "Description" "Samsung Multi-layer Ceramic Capacitor, 1206, 10uF, 50V"
-			(at 229.87 102.87 0)
+			(at 285.75 262.89 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -16218,7 +16218,7 @@
 			)
 		)
 		(property "Height" "1.8"
-			(at 626.06 93.98 0)
+			(at 681.94 254 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -16228,7 +16228,7 @@
 			)
 		)
 		(property "Manufacturer_Name" "SAMSUNG"
-			(at 726.06 93.98 0)
+			(at 781.94 254 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -16238,7 +16238,7 @@
 			)
 		)
 		(property "Manufacturer_Part_Number" "CL31A106KBHNNNE"
-			(at 826.06 93.98 0)
+			(at 881.94 254 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -16248,7 +16248,7 @@
 			)
 		)
 		(property "Mouser Part Number" "187-CL31A106KBHNNNE"
-			(at 926.06 93.98 0)
+			(at 981.94 254 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -16258,7 +16258,7 @@
 			)
 		)
 		(property "Mouser Price/Stock" "https://www.mouser.co.uk/ProductDetail/Samsung-Electro-Mechanics/CL31A106KBHNNNE?qs=X6jEic%2FHinBsSMnC%2FFnmbg%3D%3D"
-			(at 1026.06 93.98 0)
+			(at 1081.94 254 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -16268,7 +16268,7 @@
 			)
 		)
 		(property "Arrow Part Number" "CL31A106KBHNNNE"
-			(at 1126.06 93.98 0)
+			(at 1181.94 254 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -16278,7 +16278,7 @@
 			)
 		)
 		(property "Arrow Price/Stock" "https://www.arrow.com/en/products/cl31a106kbhnnne/samsung-electro-mechanics?region=nac"
-			(at 1226.06 93.98 0)
+			(at 1281.94 254 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -16448,7 +16448,7 @@
 	)
 	(symbol
 		(lib_id "0805W8F2203T5E:0805W8F2203T5E")
-		(at 167.64 107.95 90)
+		(at 223.52 267.97 90)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -16456,7 +16456,7 @@
 		(dnp no)
 		(uuid "9d04d049-4bd2-445f-8e8b-4e7f69b18bb3")
 		(property "Reference" "R24"
-			(at 171.958 109.22 90)
+			(at 227.838 269.24 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -16464,7 +16464,7 @@
 			)
 		)
 		(property "Value" "220k"
-			(at 172.466 112.268 90)
+			(at 228.346 272.288 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -16472,7 +16472,7 @@
 			)
 		)
 		(property "Footprint" "0805W8F2203T5E:RESC2012X65N"
-			(at 167.64 107.95 0)
+			(at 223.52 267.97 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -16482,7 +16482,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 167.64 107.95 0)
+			(at 223.52 267.97 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -16491,7 +16491,7 @@
 			)
 		)
 		(property "Description" ""
-			(at 167.64 107.95 0)
+			(at 223.52 267.97 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -16500,7 +16500,7 @@
 			)
 		)
 		(property "MF" "Uni-Royal"
-			(at 167.64 107.95 0)
+			(at 223.52 267.97 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -16510,7 +16510,7 @@
 			)
 		)
 		(property "MAXIMUM_PACKAGE_HEIGHT" "0.65mm"
-			(at 167.64 107.95 0)
+			(at 223.52 267.97 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -16520,7 +16520,7 @@
 			)
 		)
 		(property "Package" "0805-2 ROYAL"
-			(at 167.64 107.95 0)
+			(at 223.52 267.97 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -16530,7 +16530,7 @@
 			)
 		)
 		(property "Price" "None"
-			(at 167.64 107.95 0)
+			(at 223.52 267.97 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -16540,7 +16540,7 @@
 			)
 		)
 		(property "Check_prices" "https://www.snapeda.com/parts/0805W8F2203T5E/Uni-Royal/view-part/?ref=eda"
-			(at 167.64 107.95 0)
+			(at 223.52 267.97 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -16550,7 +16550,7 @@
 			)
 		)
 		(property "STANDARD" "IPC-7351B"
-			(at 167.64 107.95 0)
+			(at 223.52 267.97 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -16560,7 +16560,7 @@
 			)
 		)
 		(property "PARTREV" "V3"
-			(at 167.64 107.95 0)
+			(at 223.52 267.97 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -16570,7 +16570,7 @@
 			)
 		)
 		(property "SnapEDA_Link" "https://www.snapeda.com/parts/0805W8F2203T5E/Uni-Royal/view-part/?ref=snap"
-			(at 167.64 107.95 0)
+			(at 223.52 267.97 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -16580,7 +16580,7 @@
 			)
 		)
 		(property "MP" "0805W8F2203T5E"
-			(at 167.64 107.95 0)
+			(at 223.52 267.97 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -16590,7 +16590,7 @@
 			)
 		)
 		(property "Description_1" "220K Ohm 1/8W Thick Film Resistor 0805 Chip - Surface Mount"
-			(at 167.64 107.95 0)
+			(at 223.52 267.97 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -16600,7 +16600,7 @@
 			)
 		)
 		(property "Availability" "Not in stock"
-			(at 167.64 107.95 0)
+			(at 223.52 267.97 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -16610,7 +16610,7 @@
 			)
 		)
 		(property "MANUFACTURER" "Uni-Royal"
-			(at 167.64 107.95 0)
+			(at 223.52 267.97 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -16775,7 +16775,7 @@
 	)
 	(symbol
 		(lib_id "0805W8F1503T5E:0805W8F1503T5E")
-		(at 167.64 81.28 90)
+		(at 223.52 241.3 90)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -16783,7 +16783,7 @@
 		(dnp no)
 		(uuid "a3187f88-c829-4c92-a17e-d2fc5cd798aa")
 		(property "Reference" "R22"
-			(at 169.926 75.946 90)
+			(at 225.806 235.966 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -16792,7 +16792,7 @@
 			)
 		)
 		(property "Value" "150k"
-			(at 169.926 78.486 90)
+			(at 225.806 238.506 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -16801,7 +16801,7 @@
 			)
 		)
 		(property "Footprint" "0805W8F1503T5E:RESC2012X65N"
-			(at 167.64 81.28 0)
+			(at 223.52 241.3 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -16811,7 +16811,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 167.64 81.28 0)
+			(at 223.52 241.3 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -16820,7 +16820,7 @@
 			)
 		)
 		(property "Description" ""
-			(at 167.64 81.28 0)
+			(at 223.52 241.3 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -16829,7 +16829,7 @@
 			)
 		)
 		(property "MF" "Uni-Royal"
-			(at 167.64 81.28 0)
+			(at 223.52 241.3 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -16839,7 +16839,7 @@
 			)
 		)
 		(property "MAXIMUM_PACKAGE_HEIGHT" "0.65mm"
-			(at 167.64 81.28 0)
+			(at 223.52 241.3 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -16849,7 +16849,7 @@
 			)
 		)
 		(property "Package" "0805-2 ROYAL"
-			(at 167.64 81.28 0)
+			(at 223.52 241.3 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -16859,7 +16859,7 @@
 			)
 		)
 		(property "Price" "None"
-			(at 167.64 81.28 0)
+			(at 223.52 241.3 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -16869,7 +16869,7 @@
 			)
 		)
 		(property "Check_prices" "https://www.snapeda.com/parts/0805W8F1503T5E/Uni-Royal/view-part/?ref=eda"
-			(at 167.64 81.28 0)
+			(at 223.52 241.3 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -16879,7 +16879,7 @@
 			)
 		)
 		(property "STANDARD" "IPC-7351B"
-			(at 167.64 81.28 0)
+			(at 223.52 241.3 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -16889,7 +16889,7 @@
 			)
 		)
 		(property "PARTREV" "V3"
-			(at 167.64 81.28 0)
+			(at 223.52 241.3 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -16899,7 +16899,7 @@
 			)
 		)
 		(property "SnapEDA_Link" "https://www.snapeda.com/parts/0805W8F1503T5E/Uni-Royal/view-part/?ref=snap"
-			(at 167.64 81.28 0)
+			(at 223.52 241.3 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -16909,7 +16909,7 @@
 			)
 		)
 		(property "MP" "0805W8F1503T5E"
-			(at 167.64 81.28 0)
+			(at 223.52 241.3 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -16919,7 +16919,7 @@
 			)
 		)
 		(property "Description_1" "150K Ohm 1/8W Thick Film Resistor 0805 Chip - Surface Mount"
-			(at 167.64 81.28 0)
+			(at 223.52 241.3 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -16929,7 +16929,7 @@
 			)
 		)
 		(property "Availability" "Not in stock"
-			(at 167.64 81.28 0)
+			(at 223.52 241.3 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -16939,7 +16939,7 @@
 			)
 		)
 		(property "MANUFACTURER" "Uni-Royal"
-			(at 167.64 81.28 0)
+			(at 223.52 241.3 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -17171,7 +17171,7 @@
 	)
 	(symbol
 		(lib_id "CL21A226MAQNNNE:CL21A226MAQNNNE")
-		(at 182.88 41.91 270)
+		(at 238.76 201.93 270)
 		(mirror x)
 		(unit 1)
 		(exclude_from_sim no)
@@ -17180,7 +17180,7 @@
 		(dnp no)
 		(uuid "b3a406e6-7f86-4d47-98de-291610d67a1e")
 		(property "Reference" "C3"
-			(at 179.07 34.2899 90)
+			(at 234.95 194.3099 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -17189,7 +17189,7 @@
 			)
 		)
 		(property "Value" "22µ"
-			(at 179.07 36.8299 90)
+			(at 234.95 196.8499 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -17198,7 +17198,7 @@
 			)
 		)
 		(property "Footprint" "CAPC2012X140N"
-			(at 86.69 33.02 0)
+			(at 142.57 193.04 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -17208,7 +17208,7 @@
 			)
 		)
 		(property "Datasheet" "https://datasheet.datasheetarchive.com/originals/distributors/Datasheets-DGA10/2406310.pdf"
-			(at -13.31 33.02 0)
+			(at 42.57 193.04 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -17218,7 +17218,7 @@
 			)
 		)
 		(property "Description" "Samsung"
-			(at 182.88 41.91 0)
+			(at 238.76 201.93 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -17227,7 +17227,7 @@
 			)
 		)
 		(property "Height" "1.4"
-			(at -213.31 33.02 0)
+			(at -157.43 193.04 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -17237,7 +17237,7 @@
 			)
 		)
 		(property "Manufacturer_Name" "SAMSUNG"
-			(at -313.31 33.02 0)
+			(at -257.43 193.04 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -17247,7 +17247,7 @@
 			)
 		)
 		(property "Manufacturer_Part_Number" "CL21A226MAQNNNE"
-			(at -413.31 33.02 0)
+			(at -357.43 193.04 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -17257,7 +17257,7 @@
 			)
 		)
 		(property "Mouser Part Number" "187-CL21A226MAQNNNE"
-			(at -513.31 33.02 0)
+			(at -457.43 193.04 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -17267,7 +17267,7 @@
 			)
 		)
 		(property "Mouser Price/Stock" "https://www.mouser.co.uk/ProductDetail/Samsung-Electro-Mechanics/CL21A226MAQNNNE?qs=yOVawPpwOwn5SPpGykCwnw%3D%3D"
-			(at -613.31 33.02 0)
+			(at -557.43 193.04 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -17277,7 +17277,7 @@
 			)
 		)
 		(property "Arrow Part Number" "CL21A226MAQNNNE"
-			(at -713.31 33.02 0)
+			(at -657.43 193.04 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -17287,7 +17287,7 @@
 			)
 		)
 		(property "Arrow Price/Stock" "https://www.arrow.com/en/products/cl21a226maqnnne/samsung-electro-mechanics"
-			(at -813.31 33.02 0)
+			(at -757.43 193.04 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -18024,7 +18024,7 @@
 	)
 	(symbol
 		(lib_id "Device:L_Small")
-		(at 186.69 43.18 90)
+		(at 242.57 203.2 90)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -18032,7 +18032,7 @@
 		(dnp no)
 		(uuid "d2b682d1-f62d-4f1e-a730-a16e1d6d6bcc")
 		(property "Reference" "L1"
-			(at 187.706 38.354 90)
+			(at 243.586 198.374 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -18040,7 +18040,7 @@
 			)
 		)
 		(property "Value" "2.2µ"
-			(at 187.706 40.894 90)
+			(at 243.586 200.914 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -18048,7 +18048,7 @@
 			)
 		)
 		(property "Footprint" ""
-			(at 186.69 43.18 0)
+			(at 242.57 203.2 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -18057,7 +18057,7 @@
 			)
 		)
 		(property "Datasheet" "~"
-			(at 186.69 43.18 0)
+			(at 242.57 203.2 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -18066,7 +18066,7 @@
 			)
 		)
 		(property "Description" "Inductor, small symbol"
-			(at 186.69 43.18 0)
+			(at 242.57 203.2 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -18091,7 +18091,7 @@
 	)
 	(symbol
 		(lib_id "power:GND")
-		(at 209.55 105.41 0)
+		(at 265.43 265.43 0)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -18100,7 +18100,7 @@
 		(fields_autoplaced yes)
 		(uuid "e28f7087-60cd-423a-8cd9-3b851fc2dc3a")
 		(property "Reference" "#PWR014"
-			(at 209.55 111.76 0)
+			(at 265.43 271.78 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -18109,7 +18109,7 @@
 			)
 		)
 		(property "Value" "GND"
-			(at 209.55 110.49 0)
+			(at 265.43 270.51 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -18117,7 +18117,7 @@
 			)
 		)
 		(property "Footprint" ""
-			(at 209.55 105.41 0)
+			(at 265.43 265.43 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -18126,7 +18126,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 209.55 105.41 0)
+			(at 265.43 265.43 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -18135,7 +18135,7 @@
 			)
 		)
 		(property "Description" "Power symbol creates a global label with name \"GND\" , ground"
-			(at 209.55 105.41 0)
+			(at 265.43 265.43 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -18157,7 +18157,7 @@
 	)
 	(symbol
 		(lib_id "0805W8F4703T5E:0805W8F4703T5E")
-		(at 172.72 46.99 0)
+		(at 228.6 207.01 0)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -18165,7 +18165,7 @@
 		(dnp no)
 		(uuid "e389b2fc-03f8-448f-9b19-b36003b9a007")
 		(property "Reference" "R18"
-			(at 169.926 40.894 0)
+			(at 225.806 200.914 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -18173,7 +18173,7 @@
 			)
 		)
 		(property "Value" "470k"
-			(at 169.926 43.434 0)
+			(at 225.806 203.454 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -18181,7 +18181,7 @@
 			)
 		)
 		(property "Footprint" "0805W8F4703T5E:RESC2012X65N"
-			(at 172.72 46.99 0)
+			(at 228.6 207.01 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -18191,7 +18191,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 172.72 46.99 0)
+			(at 228.6 207.01 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -18200,7 +18200,7 @@
 			)
 		)
 		(property "Description" ""
-			(at 172.72 46.99 0)
+			(at 228.6 207.01 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -18209,7 +18209,7 @@
 			)
 		)
 		(property "MF" "Uni-Royal"
-			(at 172.72 46.99 0)
+			(at 228.6 207.01 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -18219,7 +18219,7 @@
 			)
 		)
 		(property "MAXIMUM_PACKAGE_HEIGHT" "0.65mm"
-			(at 172.72 46.99 0)
+			(at 228.6 207.01 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -18229,7 +18229,7 @@
 			)
 		)
 		(property "Package" "None"
-			(at 172.72 46.99 0)
+			(at 228.6 207.01 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -18239,7 +18239,7 @@
 			)
 		)
 		(property "Price" "None"
-			(at 172.72 46.99 0)
+			(at 228.6 207.01 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -18249,7 +18249,7 @@
 			)
 		)
 		(property "Check_prices" "https://www.snapeda.com/parts/0805W8F4703T5E/Uni-Royal/view-part/?ref=eda"
-			(at 172.72 46.99 0)
+			(at 228.6 207.01 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -18259,7 +18259,7 @@
 			)
 		)
 		(property "STANDARD" "IPC-7351B"
-			(at 172.72 46.99 0)
+			(at 228.6 207.01 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -18269,7 +18269,7 @@
 			)
 		)
 		(property "PARTREV" "V3"
-			(at 172.72 46.99 0)
+			(at 228.6 207.01 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -18279,7 +18279,7 @@
 			)
 		)
 		(property "SnapEDA_Link" "https://www.snapeda.com/parts/0805W8F4703T5E/Uni-Royal/view-part/?ref=snap"
-			(at 172.72 46.99 0)
+			(at 228.6 207.01 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -18289,7 +18289,7 @@
 			)
 		)
 		(property "MP" "0805W8F4703T5E"
-			(at 172.72 46.99 0)
+			(at 228.6 207.01 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -18299,7 +18299,7 @@
 			)
 		)
 		(property "Description_1" "470K Ohm 1/8W Thick Film Resistor 0805 Chip - Surface Mount"
-			(at 172.72 46.99 0)
+			(at 228.6 207.01 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -18309,7 +18309,7 @@
 			)
 		)
 		(property "Availability" "Not in stock"
-			(at 172.72 46.99 0)
+			(at 228.6 207.01 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -18319,7 +18319,7 @@
 			)
 		)
 		(property "MANUFACTURER" "Uni-Royal"
-			(at 172.72 46.99 0)
+			(at 228.6 207.01 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -18345,7 +18345,7 @@
 	)
 	(symbol
 		(lib_id "power:GND")
-		(at 189.23 73.66 0)
+		(at 245.11 233.68 0)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -18353,7 +18353,7 @@
 		(dnp no)
 		(uuid "e45aadd8-efd2-40ed-bb18-6697f3955b4e")
 		(property "Reference" "#PWR016"
-			(at 189.23 80.01 0)
+			(at 245.11 240.03 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -18362,7 +18362,7 @@
 			)
 		)
 		(property "Value" "GND"
-			(at 189.23 77.724 0)
+			(at 245.11 237.744 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -18370,7 +18370,7 @@
 			)
 		)
 		(property "Footprint" ""
-			(at 189.23 73.66 0)
+			(at 245.11 233.68 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -18379,7 +18379,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 189.23 73.66 0)
+			(at 245.11 233.68 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -18388,7 +18388,7 @@
 			)
 		)
 		(property "Description" "Power symbol creates a global label with name \"GND\" , ground"
-			(at 189.23 73.66 0)
+			(at 245.11 233.68 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -18410,7 +18410,7 @@
 	)
 	(symbol
 		(lib_id "Device:L_Small")
-		(at 186.69 87.63 90)
+		(at 242.57 247.65 90)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -18418,7 +18418,7 @@
 		(dnp no)
 		(uuid "e5bb0f4e-16f1-4189-992b-ac7d5a02d8b3")
 		(property "Reference" "L3"
-			(at 187.706 82.804 90)
+			(at 243.586 242.824 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -18426,7 +18426,7 @@
 			)
 		)
 		(property "Value" "2.2µ"
-			(at 187.706 85.344 90)
+			(at 243.586 245.364 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -18434,7 +18434,7 @@
 			)
 		)
 		(property "Footprint" ""
-			(at 186.69 87.63 0)
+			(at 242.57 247.65 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -18443,7 +18443,7 @@
 			)
 		)
 		(property "Datasheet" "~"
-			(at 186.69 87.63 0)
+			(at 242.57 247.65 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -18452,7 +18452,7 @@
 			)
 		)
 		(property "Description" "Inductor, small symbol"
-			(at 186.69 87.63 0)
+			(at 242.57 247.65 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -18477,7 +18477,7 @@
 	)
 	(symbol
 		(lib_id "XL1509-5_0E1:XL1509-5.0E1")
-		(at 69.85 54.61 0)
+		(at 125.73 176.53 0)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -18486,7 +18486,7 @@
 		(fields_autoplaced yes)
 		(uuid "e7653fc4-f584-4c18-b596-50ea05f6e49d")
 		(property "Reference" "IC6"
-			(at 87.63 46.99 0)
+			(at 143.51 168.91 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -18494,7 +18494,7 @@
 			)
 		)
 		(property "Value" "XL1509-5.0E1"
-			(at 87.63 49.53 0)
+			(at 143.51 171.45 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -18502,7 +18502,7 @@
 			)
 		)
 		(property "Footprint" "SOIC127P600X175-8N"
-			(at 101.6 149.53 0)
+			(at 157.48 271.45 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -18512,7 +18512,7 @@
 			)
 		)
 		(property "Datasheet" "https://datasheet.lcsc.com/szlcsc/XLSEMI-XL1509-5-0E1_C61063.pdf"
-			(at 101.6 249.53 0)
+			(at 157.48 371.45 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -18522,7 +18522,7 @@
 			)
 		)
 		(property "Description" "2A 150KHz 40V Buck DC to DC Converter."
-			(at 69.85 54.61 0)
+			(at 125.73 176.53 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -18531,7 +18531,7 @@
 			)
 		)
 		(property "Height" "1.75"
-			(at 101.6 449.53 0)
+			(at 157.48 571.45 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -18541,7 +18541,7 @@
 			)
 		)
 		(property "Manufacturer_Name" "XLSEMI"
-			(at 101.6 549.53 0)
+			(at 157.48 671.45 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -18551,7 +18551,7 @@
 			)
 		)
 		(property "Manufacturer_Part_Number" "XL1509-5.0E1"
-			(at 101.6 649.53 0)
+			(at 157.48 771.45 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -18561,7 +18561,7 @@
 			)
 		)
 		(property "Mouser Part Number" ""
-			(at 101.6 749.53 0)
+			(at 157.48 871.45 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -18571,7 +18571,7 @@
 			)
 		)
 		(property "Mouser Price/Stock" ""
-			(at 101.6 849.53 0)
+			(at 157.48 971.45 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -18581,7 +18581,7 @@
 			)
 		)
 		(property "Arrow Part Number" ""
-			(at 101.6 949.53 0)
+			(at 157.48 1071.45 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -18591,7 +18591,7 @@
 			)
 		)
 		(property "Arrow Price/Stock" ""
-			(at 101.6 1049.53 0)
+			(at 157.48 1171.45 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -18635,7 +18635,7 @@
 	)
 	(symbol
 		(lib_id "Device:C_Small")
-		(at 182.88 93.98 0)
+		(at 238.76 254 0)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -18643,7 +18643,7 @@
 		(dnp no)
 		(uuid "f15aefdc-ba9e-4cfd-98ba-51542df121a7")
 		(property "Reference" "C8"
-			(at 185.42 92.7162 0)
+			(at 241.3 252.7362 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -18652,7 +18652,7 @@
 			)
 		)
 		(property "Value" "10p"
-			(at 185.42 95.2562 0)
+			(at 241.3 255.2762 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -18661,7 +18661,7 @@
 			)
 		)
 		(property "Footprint" ""
-			(at 182.88 93.98 0)
+			(at 238.76 254 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -18670,7 +18670,7 @@
 			)
 		)
 		(property "Datasheet" "~"
-			(at 182.88 93.98 0)
+			(at 238.76 254 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -18679,7 +18679,7 @@
 			)
 		)
 		(property "Description" "Unpolarized capacitor, small symbol"
-			(at 182.88 93.98 0)
+			(at 238.76 254 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -18704,7 +18704,7 @@
 	)
 	(symbol
 		(lib_id "power:GND")
-		(at 189.23 29.21 0)
+		(at 245.11 189.23 0)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -18712,7 +18712,7 @@
 		(dnp no)
 		(uuid "f3e96924-eb16-4b75-99aa-276cd9dc0792")
 		(property "Reference" "#PWR011"
-			(at 189.23 35.56 0)
+			(at 245.11 195.58 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -18721,7 +18721,7 @@
 			)
 		)
 		(property "Value" "GND"
-			(at 189.23 33.274 0)
+			(at 245.11 193.294 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -18729,7 +18729,7 @@
 			)
 		)
 		(property "Footprint" ""
-			(at 189.23 29.21 0)
+			(at 245.11 189.23 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -18738,7 +18738,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 189.23 29.21 0)
+			(at 245.11 189.23 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -18747,7 +18747,7 @@
 			)
 		)
 		(property "Description" "Power symbol creates a global label with name \"GND\" , ground"
-			(at 189.23 29.21 0)
+			(at 245.11 189.23 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -18944,10 +18944,10 @@
 			)
 		)
 		(pin "2"
-			(uuid "ee7ea165-829e-42c8-b9b7-e6ade3179329")
+			(uuid "ee7ea165-829e-42c8-b9b7-e6ade317932a")
 		)
 		(pin "1"
-			(uuid "c8ab2d56-d6ca-4d20-9d96-3a228b98ae08")
+			(uuid "c8ab2d56-d6ca-4d20-9d96-3a228b98ae09")
 		)
 		(instances
 			(project ""
@@ -19133,10 +19133,10 @@
 			)
 		)
 		(pin "1"
-			(uuid "e54e8529-43c8-4d93-99af-dbf4b03f81a8")
+			(uuid "e54e8529-43c8-4d93-99af-dbf4b03f81a9")
 		)
 		(pin "2"
-			(uuid "40864c13-7ba3-45ad-9fe0-0eb1d0f2c6de")
+			(uuid "40864c13-7ba3-45ad-9fe0-0eb1d0f2c6df")
 		)
 		(instances
 			(project ""
