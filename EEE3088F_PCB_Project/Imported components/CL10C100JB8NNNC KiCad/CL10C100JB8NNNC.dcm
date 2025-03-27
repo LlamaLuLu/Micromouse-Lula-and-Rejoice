@@ -1,0 +1,9 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP CL10C100JB8NNNC
+D CAP CER 10PF 50V C0G/NP0 0603
+K
+F https://datasheet.datasheetarchive.com/originals/distributors/Datasheets_SAMA/dff79b939d782be5ffd026557e0de3f5.pdf
+$ENDCMP
+#
+#End Doc Library
