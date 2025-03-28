@@ -21640,7 +21640,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "KT-0603R:LED0603-RD"
 			(at 198.12 105.41 0)
 			(effects
 				(font
@@ -22390,7 +22390,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "R0402:R0402"
 			(at 236.22 123.19 0)
 			(effects
 				(font
@@ -23237,7 +23237,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "TestPoint:TestPoint_2Pads_Pitch2.54mm_Drill0.8mm"
 			(at 339.09 203.2 0)
 			(effects
 				(font
@@ -24500,7 +24500,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "R0402:R0402"
 			(at 281.94 86.36 0)
 			(effects
 				(font
@@ -25570,7 +25570,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "KT-0805G:LED0805-R-RD"
 			(at 190.5 86.36 0)
 			(effects
 				(font
@@ -26443,7 +26443,7 @@
 				)
 			)
 		)
-		(property "Footprint" "IND_FXL0420_CMT"
+		(property "Footprint" "FXL0420-1R2-M KiCADv6:IND_FXL0420_CMT"
 			(at 360.68 107.95 0)
 			(effects
 				(font
@@ -27555,7 +27555,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "0603WAF7502T5E:R0603"
 			(at 99.06 135.89 0)
 			(effects
 				(font
@@ -27957,7 +27957,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "TestPoint:TestPoint_2Pads_Pitch2.54mm_Drill0.8mm"
 			(at 337.82 246.38 0)
 			(effects
 				(font
@@ -28670,7 +28670,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "R0402:R0402"
 			(at 185.42 67.31 0)
 			(effects
 				(font
@@ -28962,7 +28962,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "FHW0805UF2R2JST:L0805"
 			(at 264.16 74.93 0)
 			(effects
 				(font
@@ -29066,7 +29066,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "R0402:R0402"
 			(at 236.22 109.22 0)
 			(effects
 				(font
