@@ -15053,14 +15053,6 @@
 		(uuid "04f12a93-79b9-4585-b47d-888c83bab8c5")
 	)
 	(no_connect
-		(at 339.09 191.77)
-		(uuid "71c61d10-0b12-4bbc-a44c-7915260cce85")
-	)
-	(no_connect
-		(at 337.82 234.95)
-		(uuid "7b6a72dc-c724-4200-b111-8338fe922977")
-	)
-	(no_connect
 		(at 36.83 245.11)
 		(uuid "a1547232-2808-4e25-a8c6-04abbe86778f")
 	)
@@ -15732,6 +15724,16 @@
 	)
 	(wire
 		(pts
+			(xy 339.09 191.77) (xy 339.09 198.12)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "364f6795-a1be-445d-bfcc-c47e4070f57e")
+	)
+	(wire
+		(pts
 			(xy 374.65 22.86) (xy 374.65 31.75)
 		)
 		(stroke
@@ -15739,6 +15741,16 @@
 			(type default)
 		)
 		(uuid "38c06261-7379-43e1-8aaa-069b56fb9a44")
+	)
+	(wire
+		(pts
+			(xy 337.82 234.95) (xy 337.82 241.3)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "392ca21d-b10f-41d5-a4ed-1987c5aa013d")
 	)
 	(wire
 		(pts
@@ -18802,7 +18814,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" "TestPoint:TestPoint_2Pads_Pitch2.54mm_Drill0.8mm"
+		(property "Footprint" ""
 			(at 256.54 88.9 0)
 			(effects
 				(font
@@ -18868,7 +18880,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "TestPoint:TestPoint_2Pads_Pitch2.54mm_Drill0.8mm"
+		(property "Footprint" ""
 			(at 353.06 250.19 0)
 			(effects
 				(font
@@ -19137,7 +19149,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "TestPoint:TestPoint_2Pads_Pitch2.54mm_Drill0.8mm"
+		(property "Footprint" ""
 			(at 85.09 114.3 0)
 			(effects
 				(font
@@ -19583,7 +19595,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "TestPoint:TestPoint_2Pads_Pitch2.54mm_Drill0.8mm"
+		(property "Footprint" ""
 			(at 254 261.62 0)
 			(effects
 				(font
@@ -19791,7 +19803,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" "TestPoint:TestPoint_2Pads_Pitch2.54mm_Drill0.8mm"
+		(property "Footprint" ""
 			(at 278.13 270.51 0)
 			(effects
 				(font
@@ -20191,7 +20203,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" "CL31B105KBHNNNE:CL31B105KBHNNNE"
+		(property "Footprint" ""
 			(at 76.2 132.08 0)
 			(effects
 				(font
@@ -20492,7 +20504,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "TestPoint:TestPoint_2Pads_Pitch2.54mm_Drill0.8mm"
+		(property "Footprint" ""
 			(at 99.06 107.95 0)
 			(effects
 				(font
@@ -21803,7 +21815,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" "TestPoint:TestPoint_2Pads_Pitch2.54mm_Drill0.8mm"
+		(property "Footprint" ""
 			(at 229.87 242.57 0)
 			(effects
 				(font
@@ -22125,7 +22137,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "TestPoint:TestPoint_2Pads_Pitch2.54mm_Drill0.8mm"
+		(property "Footprint" ""
 			(at 368.3 29.21 0)
 			(effects
 				(font
@@ -22396,7 +22408,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "TestPoint:TestPoint_2Pads_Pitch2.54mm_Drill0.8mm"
+		(property "Footprint" ""
 			(at 135.89 109.22 0)
 			(effects
 				(font
@@ -24171,6 +24183,73 @@
 	)
 	(symbol
 		(lib_id "Connector:TestPoint")
+		(at 339.09 198.12 270)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(uuid "592925d6-021b-44a6-afe1-c2a115c0c7a2")
+		(property "Reference" "TP1"
+			(at 344.17 196.8499 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Value" "TestPoint"
+			(at 344.17 199.3899 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Footprint" "TestPoint:TestPoint_2Pads_Pitch2.54mm_Drill0.8mm"
+			(at 339.09 203.2 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" "~"
+			(at 339.09 203.2 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" "test point"
+			(at 339.09 198.12 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "1"
+			(uuid "65d135b4-f436-462a-9c03-009fbc2ef1f9")
+		)
+		(instances
+			(project ""
+				(path "/f23689db-9b6c-49fb-9c64-c652802710b2"
+					(reference "TP1")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "Connector:TestPoint")
 		(at 382.27 105.41 180)
 		(unit 1)
 		(exclude_from_sim no)
@@ -24197,7 +24276,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" "TestPoint:TestPoint_2Pads_Pitch2.54mm_Drill0.8mm"
+		(property "Footprint" ""
 			(at 377.19 105.41 0)
 			(effects
 				(font
@@ -24470,7 +24549,7 @@
 				)
 			)
 		)
-		(property "Footprint" "TestPoint:TestPoint_2Pads_Pitch2.54mm_Drill0.8mm"
+		(property "Footprint" ""
 			(at 203.2 66.04 0)
 			(effects
 				(font
@@ -24537,7 +24616,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "TestPoint:TestPoint_2Pads_Pitch2.54mm_Drill0.8mm"
+		(property "Footprint" ""
 			(at 83.82 93.98 0)
 			(effects
 				(font
@@ -24604,7 +24683,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "TestPoint:TestPoint_2Pads_Pitch2.54mm_Drill0.8mm"
+		(property "Footprint" ""
 			(at 223.52 106.68 0)
 			(effects
 				(font
@@ -24668,7 +24747,7 @@
 				)
 			)
 		)
-		(property "Footprint" "TestPoint:TestPoint_2Pads_Pitch2.54mm_Drill0.8mm"
+		(property "Footprint" ""
 			(at 173.99 227.33 0)
 			(effects
 				(font
@@ -25061,7 +25140,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "TestPoint:TestPoint_2Pads_Pitch2.54mm_Drill0.8mm"
+		(property "Footprint" ""
 			(at 311.15 209.55 0)
 			(effects
 				(font
@@ -25127,7 +25206,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "TestPoint:TestPoint_2Pads_Pitch2.54mm_Drill0.8mm"
+		(property "Footprint" ""
 			(at 335.28 170.18 0)
 			(effects
 				(font
@@ -25338,7 +25417,7 @@
 				)
 			)
 		)
-		(property "Footprint" "TestPoint:TestPoint_2Pads_Pitch2.54mm_Drill0.8mm"
+		(property "Footprint" ""
 			(at 321.31 118.11 0)
 			(effects
 				(font
@@ -25404,7 +25483,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "TestPoint:TestPoint_2Pads_Pitch2.54mm_Drill0.8mm"
+		(property "Footprint" ""
 			(at 313.69 203.2 0)
 			(effects
 				(font
@@ -25471,7 +25550,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "TestPoint:TestPoint_2Pads_Pitch2.54mm_Drill0.8mm"
+		(property "Footprint" ""
 			(at 349.25 113.03 0)
 			(effects
 				(font
@@ -26052,7 +26131,7 @@
 				)
 			)
 		)
-		(property "Footprint" "TestPoint:TestPoint_2Pads_Pitch2.54mm_Drill0.8mm"
+		(property "Footprint" ""
 			(at 334.01 198.12 0)
 			(effects
 				(font
@@ -26979,7 +27058,7 @@
 				)
 			)
 		)
-		(property "Footprint" "TestPoint:TestPoint_2Pads_Pitch2.54mm_Drill0.8mm"
+		(property "Footprint" ""
 			(at 374.65 17.78 0)
 			(effects
 				(font
@@ -27177,7 +27256,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "TestPoint:TestPoint_2Pads_Pitch2.54mm_Drill0.8mm"
+		(property "Footprint" ""
 			(at 321.31 245.11 0)
 			(effects
 				(font
@@ -27347,7 +27426,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "TestPoint:TestPoint_2Pads_Pitch2.54mm_Drill0.8mm"
+		(property "Footprint" ""
 			(at 386.08 124.46 0)
 			(effects
 				(font
@@ -27413,7 +27492,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" "TestPoint:TestPoint_2Pads_Pitch2.54mm_Drill0.8mm"
+		(property "Footprint" ""
 			(at 229.87 273.05 0)
 			(effects
 				(font
@@ -27903,7 +27982,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" "TestPoint:TestPoint_2Pads_Pitch2.54mm_Drill0.8mm"
+		(property "Footprint" ""
 			(at 278.13 240.03 0)
 			(effects
 				(font
@@ -27969,7 +28048,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "TestPoint:TestPoint_2Pads_Pitch2.54mm_Drill0.8mm"
+		(property "Footprint" ""
 			(at 134.62 119.38 0)
 			(effects
 				(font
@@ -28174,7 +28253,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "TestPoint:TestPoint_2Pads_Pitch2.54mm_Drill0.8mm"
+		(property "Footprint" ""
 			(at 170.18 246.38 0)
 			(effects
 				(font
@@ -28307,7 +28386,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "TestPoint:TestPoint_2Pads_Pitch2.54mm_Drill0.8mm"
+		(property "Footprint" ""
 			(at 128.27 135.89 0)
 			(effects
 				(font
@@ -28373,7 +28452,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "TestPoint:TestPoint_2Pads_Pitch2.54mm_Drill0.8mm"
+		(property "Footprint" ""
 			(at 337.82 214.63 0)
 			(effects
 				(font
@@ -28713,7 +28792,7 @@
 				)
 			)
 		)
-		(property "Footprint" "HUSB237-AA001-DN06R:HUSB237-AA001-DN06R"
+		(property "Footprint" ""
 			(at 111.76 121.92 0)
 			(effects
 				(font
@@ -29025,7 +29104,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "TYPE-C16PIN KiCADv6:CONN16_C16PIN_SHN"
+		(property "Footprint" "CONN16_C16PIN_SHN"
 			(at 59.69 81.28 0)
 			(effects
 				(font
@@ -29360,7 +29439,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "TestPoint:TestPoint_2Pads_Pitch2.54mm_Drill0.8mm"
+		(property "Footprint" ""
 			(at 187.96 241.3 0)
 			(effects
 				(font
@@ -29862,7 +29941,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" "TestPoint:TestPoint_2Pads_Pitch2.54mm_Drill0.8mm"
+		(property "Footprint" ""
 			(at 57.15 133.35 0)
 			(effects
 				(font
@@ -29929,7 +30008,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "IRLML6344TRPBF:IRLML6344TRPBF_INF"
+		(property "Footprint" ""
 			(at 215.9 118.11 0)
 			(effects
 				(font
@@ -30244,7 +30323,7 @@
 				)
 			)
 		)
-		(property "Footprint" "SL6600 KiCad:SOP8_4X5P1-1P27_SOI"
+		(property "Footprint" "SOP8_4X5P1-1P27_SOI"
 			(at 213.36 81.28 0)
 			(effects
 				(font
@@ -30333,7 +30412,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "TestPoint:TestPoint_2Pads_Pitch2.54mm_Drill0.8mm"
+		(property "Footprint" ""
 			(at 392.43 46.99 0)
 			(effects
 				(font
@@ -30399,7 +30478,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "1MS1T1B1M1QES-5 footprint:SW-TH_1MS1T1B1M1QES-5"
+		(property "Footprint" ""
 			(at 113.03 50.8 0)
 			(effects
 				(font
@@ -30507,7 +30586,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "TestPoint:TestPoint_2Pads_Pitch2.54mm_Drill0.8mm"
+		(property "Footprint" ""
 			(at 345.44 143.51 0)
 			(effects
 				(font
@@ -30541,6 +30620,73 @@
 			(project "EEE3088F_PCB_Project"
 				(path "/f23689db-9b6c-49fb-9c64-c652802710b2"
 					(reference "TP20")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "Connector:TestPoint")
+		(at 337.82 241.3 270)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(uuid "c9e273a4-b3ec-40bc-a0fb-948d4ae4ef53")
+		(property "Reference" "TP2"
+			(at 342.9 240.0299 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Value" "TestPoint"
+			(at 342.9 242.5699 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Footprint" "TestPoint:TestPoint_2Pads_Pitch2.54mm_Drill0.8mm"
+			(at 337.82 246.38 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" "~"
+			(at 337.82 246.38 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" "test point"
+			(at 337.82 241.3 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "1"
+			(uuid "65d135b4-f436-462a-9c03-009fbc2ef1fa")
+		)
+		(instances
+			(project ""
+				(path "/f23689db-9b6c-49fb-9c64-c652802710b2"
+					(reference "TP2")
 					(unit 1)
 				)
 			)
@@ -30730,7 +30876,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "TestPoint:TestPoint_2Pads_Pitch2.54mm_Drill0.8mm"
+		(property "Footprint" ""
 			(at 254 231.14 0)
 			(effects
 				(font
@@ -31285,7 +31431,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "TestPoint:TestPoint_2Pads_Pitch2.54mm_Drill0.8mm"
+		(property "Footprint" ""
 			(at 91.44 121.92 0)
 			(effects
 				(font
@@ -31747,7 +31893,7 @@
 				)
 			)
 		)
-		(property "Footprint" "TestPoint:TestPoint_2Pads_Pitch2.54mm_Drill0.8mm"
+		(property "Footprint" ""
 			(at 201.93 261.62 0)
 			(effects
 				(font
@@ -31813,7 +31959,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "TestPoint:TestPoint_2Pads_Pitch2.54mm_Drill0.8mm"
+		(property "Footprint" ""
 			(at 311.15 250.19 0)
 			(effects
 				(font
@@ -31879,7 +32025,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "TestPoint:TestPoint_2Pads_Pitch2.54mm_Drill0.8mm"
+		(property "Footprint" ""
 			(at 219.71 262.89 0)
 			(effects
 				(font
