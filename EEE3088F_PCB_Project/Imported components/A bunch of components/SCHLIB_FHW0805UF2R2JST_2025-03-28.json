@@ -1,0 +1,42 @@
+{
+  "head": {
+    "docType": "2",
+    "editorVersion": "6.5.46",
+    "c_para": {
+      "pre": "L?",
+      "name": "FHW0805UF2R2JST",
+      "package": "L0805",
+      "nameAlias": "Value",
+      "Supplier": "LCSC",
+      "Manufacturer Part": "FHW0805UF2R2JST",
+      "Manufacturer": "FH(风华)",
+      "Value": "2.2uH",
+      "Supplier Part": "C41651",
+      "JLCPCB Part Class": "Extended Part"
+    },
+    "x": 0,
+    "y": 0,
+    "puuid": "bcc8ca20dcc84ccfa139b07aa569efaf",
+    "uuid": "da8c98a852147304bd97a17dbe72d63b",
+    "utime": 1708482048,
+    "importFlag": 0,
+    "c_spiceCmd": null,
+    "hasIdFlag": true
+  },
+  "canvas": "CA~1000~1000~#FFFFFF~yes~#CCCCCC~5~1000~1000~line~5~pixel~5~0~0",
+  "shape": [
+    "P~show~0~2~20~0~0~gge2~0^^20~0^^M 20 0 h -3~#800^^0~13~0~0~2~end~~~#800^^0~21~-4~0~2~start~~~#800^^0~20~0^^0~M 17 -3 L 14 0 L 17 3",
+    "P~show~0~1~-20~0~180~gge9~0^^-20~0^^M -20 0 h 3~#800^^0~-13~0~0~1~start~~~#800^^0~-21~-4~0~1~end~~~#800^^0~-20~0^^0~M -17 3 L -14 0 L -17 -3",
+    "A~M -16.88 -0.07 A 4 3.9 0 1 1 -8.92 -0.06~~#880000~1~0~none~gge18~0",
+    "A~M -8.4 -0.07 A 4 3.9 0 1 1 -0.44 -0.07~~#880000~1~0~none~gge19~0",
+    "A~M 0.07 -0.07 A 4 3.9 0 1 1 8.03 -0.07~~#880000~1~0~none~gge20~0",
+    "A~M 8.7 -0.07 A 4 3.9 0 1 1 16.67 -0.06~~#880000~1~0~none~gge21~0"
+  ],
+  "BBox": {
+    "x": -21,
+    "y": -4.4,
+    "width": 42,
+    "height": 5.4
+  },
+  "colors": {}
+}
