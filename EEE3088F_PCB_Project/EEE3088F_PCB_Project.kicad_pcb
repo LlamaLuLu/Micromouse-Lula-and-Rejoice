@@ -28292,5 +28292,71 @@
 			(justify left bottom mirror)
 		)
 	)
+	(zone
+		(net 0)
+		(net_name "")
+		(layer "F.Cu")
+		(uuid "cec4131a-5d99-477c-a205-069dfb8ddc8e")
+		(name "PCB Area")
+		(hatch edge 0.5)
+		(connect_pads
+			(clearance 0)
+		)
+		(min_thickness 0.25)
+		(filled_areas_thickness no)
+		(keepout
+			(tracks not_allowed)
+			(vias not_allowed)
+			(pads not_allowed)
+			(copperpour allowed)
+			(footprints allowed)
+		)
+		(placement
+			(enabled no)
+			(sheetname "")
+		)
+		(fill
+			(thermal_gap 0.5)
+			(thermal_bridge_width 0.5)
+		)
+		(polygon
+			(pts
+				(xy 103.2 51.9) (xy 182.05 51.95) (xy 182.05 109.45) (xy 103.2 109.55) (xy 103.1 51.8) (xy 102.9 51.7)
+			)
+		)
+	)
+	(zone
+		(net 0)
+		(net_name "")
+		(layer "B.Cu")
+		(uuid "acbd0f11-2f81-4ec7-9cb1-5a7219280e10")
+		(name "PCB Area Back")
+		(hatch edge 0.5)
+		(connect_pads
+			(clearance 0)
+		)
+		(min_thickness 0.25)
+		(filled_areas_thickness no)
+		(keepout
+			(tracks not_allowed)
+			(vias not_allowed)
+			(pads not_allowed)
+			(copperpour allowed)
+			(footprints allowed)
+		)
+		(placement
+			(enabled no)
+			(sheetname "")
+		)
+		(fill
+			(thermal_gap 0.5)
+			(thermal_bridge_width 0.5)
+		)
+		(polygon
+			(pts
+				(xy 103.1 51.7) (xy 182.15 51.8) (xy 182.25 109.45) (xy 103 109.45) (xy 103 51.5) (xy 103.1 51.4)
+			)
+		)
+	)
 	(embedded_fonts no)
 )
