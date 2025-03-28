@@ -16014,6 +16014,16 @@
 	)
 	(wire
 		(pts
+			(xy 26.67 271.78) (xy 38.1 271.78)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "6fabacec-3864-49d2-b3ff-8b3395bfd2b5")
+	)
+	(wire
+		(pts
 			(xy 369.57 163.83) (xy 369.57 173.99)
 		)
 		(stroke
@@ -16291,6 +16301,16 @@
 			(type default)
 		)
 		(uuid "96f6fc5e-1474-4684-b8a7-59bb44242094")
+	)
+	(wire
+		(pts
+			(xy 38.1 274.32) (xy 38.1 276.86)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "974b3d96-9175-47fe-ac4d-f3fefa129c64")
 	)
 	(wire
 		(pts
@@ -17953,7 +17973,7 @@
 		(uuid "9aea8da3-ecc8-4511-b30a-5c437d66448a")
 	)
 	(label "BATTERY"
-		(at 38.1 271.78 180)
+		(at 38.1 276.86 180)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -18254,52 +18274,7 @@
 			(fill
 				(type none)
 			)
-			(uuid 20794fba-4291-42fe-9bdf-dd0d9610e920)
-		)
-	)
-	(rule_area
-		(polyline
-			(pts
-				(xy 232.41 212.09) (xy 232.41 280.67) (xy 296.926 280.67) (xy 296.926 212.09)
-			)
-			(stroke
-				(width 0)
-				(type dash)
-			)
-			(fill
-				(type none)
-			)
-			(uuid 75148cc8-1301-4158-a2ee-2f0104d0a647)
-		)
-	)
-	(rule_area
-		(polyline
-			(pts
-				(xy 16.3194 217.424) (xy 66.4844 217.424) (xy 66.2305 281.686) (xy 16.0655 281.686)
-			)
-			(stroke
-				(width 0)
-				(type dash)
-			)
-			(fill
-				(type none)
-			)
-			(uuid 855ccb92-cad5-44af-a330-44f90f64065a)
-		)
-	)
-	(rule_area
-		(polyline
-			(pts
-				(xy 311.658 154.94) (xy 403.733 155.194) (xy 404.241 15.494) (xy 312.166 15.24)
-			)
-			(stroke
-				(width 0)
-				(type dash)
-			)
-			(fill
-				(type none)
-			)
-			(uuid abcaf266-0249-43bf-8d02-9fc16f0b522c)
+			(uuid 044005fd-0b6e-4c3e-be35-c9d88e667791)
 		)
 	)
 	(rule_area
@@ -18314,7 +18289,52 @@
 			(fill
 				(type none)
 			)
-			(uuid bb8db18d-7438-437e-b877-67cb80b7cfc4)
+			(uuid 1335b73b-2fe3-4480-84d1-60b3822f6fec)
+		)
+	)
+	(rule_area
+		(polyline
+			(pts
+				(xy 232.41 212.09) (xy 232.41 280.67) (xy 296.926 280.67) (xy 296.926 212.09)
+			)
+			(stroke
+				(width 0)
+				(type dash)
+			)
+			(fill
+				(type none)
+			)
+			(uuid 1ecb3c1a-e38e-4c50-92f0-908bf6b70c27)
+		)
+	)
+	(rule_area
+		(polyline
+			(pts
+				(xy 311.658 154.94) (xy 403.733 155.194) (xy 404.241 15.494) (xy 312.166 15.24)
+			)
+			(stroke
+				(width 0)
+				(type dash)
+			)
+			(fill
+				(type none)
+			)
+			(uuid 3d370d65-9a6e-413a-8a22-7f419000a9be)
+		)
+	)
+	(rule_area
+		(polyline
+			(pts
+				(xy 16.3194 217.424) (xy 66.4844 217.424) (xy 66.2305 281.686) (xy 16.0655 281.686)
+			)
+			(stroke
+				(width 0)
+				(type dash)
+			)
+			(fill
+				(type none)
+			)
+			(uuid aa59cef3-aaa7-4e7a-825a-48b549cc90ea)
 		)
 	)
 	(symbol
@@ -25000,7 +25020,7 @@
 				)
 			)
 		)
-		(property "Footprint" "IND_FXL0420_CMT"
+		(property "Footprint" "FXL0420-1R2-M KiCADv6:IND_FXL0420_CMT"
 			(at 334.01 127 0)
 			(effects
 				(font
@@ -25460,7 +25480,7 @@
 	)
 	(symbol
 		(lib_id "power:GND")
-		(at 38.1 274.32 0)
+		(at 26.67 271.78 0)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -25469,7 +25489,7 @@
 		(fields_autoplaced yes)
 		(uuid "8f315333-0878-4d15-89c4-acd21fdba532")
 		(property "Reference" "#PWR014"
-			(at 38.1 280.67 0)
+			(at 26.67 278.13 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -25478,7 +25498,7 @@
 			)
 		)
 		(property "Value" "GND"
-			(at 38.1 279.4 0)
+			(at 26.67 276.86 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -25486,7 +25506,7 @@
 			)
 		)
 		(property "Footprint" ""
-			(at 38.1 274.32 0)
+			(at 26.67 271.78 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -25495,7 +25515,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 38.1 274.32 0)
+			(at 26.67 271.78 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -25504,7 +25524,7 @@
 			)
 		)
 		(property "Description" "Power symbol creates a global label with name \"GND\" , ground"
-			(at 38.1 274.32 0)
+			(at 26.67 271.78 0)
 			(effects
 				(font
 					(size 1.27 1.27)
