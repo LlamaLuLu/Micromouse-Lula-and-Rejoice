@@ -18245,7 +18245,7 @@
 	(rule_area
 		(polyline
 			(pts
-				(xy 163.83 227.33) (xy 163.83 280.67) (xy 229.87 280.67) (xy 229.87 227.33)
+				(xy 309.245 158.75) (xy 403.86 158.75) (xy 403.86 248.92) (xy 309.245 248.92)
 			)
 			(stroke
 				(width 0)
@@ -18254,37 +18254,7 @@
 			(fill
 				(type none)
 			)
-			(uuid 0c4fc6c3-fffb-4e92-ba50-1996afd51e02)
-		)
-	)
-	(rule_area
-		(polyline
-			(pts
-				(xy 16.3194 217.424) (xy 66.4844 217.424) (xy 66.2305 281.686) (xy 16.0655 281.686)
-			)
-			(stroke
-				(width 0)
-				(type dash)
-			)
-			(fill
-				(type none)
-			)
-			(uuid 4babc7c3-6db0-4977-aac7-3501c39703d8)
-		)
-	)
-	(rule_area
-		(polyline
-			(pts
-				(xy 311.658 154.94) (xy 403.733 155.194) (xy 404.241 15.494) (xy 312.166 15.24)
-			)
-			(stroke
-				(width 0)
-				(type dash)
-			)
-			(fill
-				(type none)
-			)
-			(uuid ae87441d-1373-49ac-b0dc-bc780bdc2428)
+			(uuid 20794fba-4291-42fe-9bdf-dd0d9610e920)
 		)
 	)
 	(rule_area
@@ -18299,13 +18269,13 @@
 			(fill
 				(type none)
 			)
-			(uuid c9ed1625-f8d2-40ea-9aa5-f2f11980a5b0)
+			(uuid 75148cc8-1301-4158-a2ee-2f0104d0a647)
 		)
 	)
 	(rule_area
 		(polyline
 			(pts
-				(xy 309.245 158.75) (xy 403.86 158.75) (xy 403.86 248.92) (xy 309.245 248.92)
+				(xy 16.3194 217.424) (xy 66.4844 217.424) (xy 66.2305 281.686) (xy 16.0655 281.686)
 			)
 			(stroke
 				(width 0)
@@ -18314,7 +18284,37 @@
 			(fill
 				(type none)
 			)
-			(uuid d9b44667-b2b2-4d40-837b-0494a102b717)
+			(uuid 855ccb92-cad5-44af-a330-44f90f64065a)
+		)
+	)
+	(rule_area
+		(polyline
+			(pts
+				(xy 311.658 154.94) (xy 403.733 155.194) (xy 404.241 15.494) (xy 312.166 15.24)
+			)
+			(stroke
+				(width 0)
+				(type dash)
+			)
+			(fill
+				(type none)
+			)
+			(uuid abcaf266-0249-43bf-8d02-9fc16f0b522c)
+		)
+	)
+	(rule_area
+		(polyline
+			(pts
+				(xy 163.83 227.33) (xy 163.83 280.67) (xy 229.87 280.67) (xy 229.87 227.33)
+			)
+			(stroke
+				(width 0)
+				(type dash)
+			)
+			(fill
+				(type none)
+			)
+			(uuid bb8db18d-7438-437e-b877-67cb80b7cfc4)
 		)
 	)
 	(symbol
@@ -18927,7 +18927,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" "CAPC3216X180N"
+		(property "Footprint" "CL31A106KBHNNNE KiCad:CAPC3216X180N"
 			(at 481 133.35 0)
 			(effects
 				(font
@@ -19260,7 +19260,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "CAPC3216X180N"
+		(property "Footprint" "CL31A106KBHNNNE KiCad:CAPC3216X180N"
 			(at 120.98 63.5 0)
 			(effects
 				(font
@@ -19505,7 +19505,7 @@
 				)
 			)
 		)
-		(property "Footprint" "RHL(R-PVQFN-N20)_1"
+		(property "Footprint" "TPS61088RHLR KiCad:RHL_R-PVQFN-N20__1"
 			(at 369.57 157.15 0)
 			(effects
 				(font
@@ -20148,7 +20148,7 @@
 				)
 			)
 		)
-		(property "Footprint" "SOP65P640X120-16N"
+		(property "Footprint" "DRV8833PWPR KiCad:SOP65P640X120-16N"
 			(at 364.49 312.09 0)
 			(effects
 				(font
@@ -20331,7 +20331,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" "CAPC3216X180N"
+		(property "Footprint" "CL31A106KBHNNNE KiCad:CAPC3216X180N"
 			(at 478.46 93.98 0)
 			(effects
 				(font
@@ -20474,7 +20474,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "SOT95P280X125-3N"
+		(property "Footprint" "AO3401A KiCad:SOT95P280X125-3N"
 			(at 287.02 128.6 0)
 			(effects
 				(font
@@ -20807,7 +20807,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" "CAPC1608X90N"
+		(property "Footprint" "CL10C100JB8NNNC KiCad:CAPC1608X90N"
 			(at 237.82 134.62 0)
 			(effects
 				(font
@@ -21202,7 +21202,7 @@
 				)
 			)
 		)
-		(property "Footprint" "CAPC3216X180N"
+		(property "Footprint" "CL31B225KBHNNNE KiCad:CAPC3216X180N"
 			(at 381 317.17 0)
 			(effects
 				(font
@@ -21480,7 +21480,7 @@
 				)
 			)
 		)
-		(property "Footprint" "CAPC3216X180N"
+		(property "Footprint" "CL21A226MAQNNNE KiCad:CAPC2012X140N"
 			(at 386.08 148.26 0)
 			(effects
 				(font
@@ -21856,13 +21856,14 @@
 				)
 			)
 		)
-		(property "Footprint" "SOP65P640X120-16N"
+		(property "Footprint" "DRV8833PWPR KiCad:SOP65P640X120-16N"
 			(at 381 245.618 0)
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
 				(justify left top)
+				(hide yes)
 			)
 		)
 		(property "Datasheet" "http://www.ti.com/lit/gpn/drv8833"
@@ -22038,7 +22039,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "SOT95P280X125-3N"
+		(property "Footprint" "AO3400A KiCad:SOT95P280X125-3N"
 			(at 266.7 366.7 0)
 			(effects
 				(font
@@ -22473,7 +22474,7 @@
 				)
 			)
 		)
-		(property "Footprint" "CAPC2012X75N"
+		(property "Footprint" "CL21B103KBANNNC KiCad:CAPC2012X75N"
 			(at 389.89 137.49 0)
 			(effects
 				(font
@@ -22614,7 +22615,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" "CAPC3216X180N"
+		(property "Footprint" "CL31A106KBHNNNE KiCad:CAPC3216X180N"
 			(at 489.89 218.44 0)
 			(effects
 				(font
@@ -22819,7 +22820,7 @@
 				)
 			)
 		)
-		(property "Footprint" "CAPC3216X180N"
+		(property "Footprint" "CL21A226MAQNNNE KiCad:CAPC2012X140N"
 			(at 386.08 138.1 0)
 			(effects
 				(font
@@ -23349,7 +23350,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" "CAPC3216X100N"
+		(property "Footprint" "CL31B104KBCNNNC KiCad:CAPC3216X100N"
 			(at 373.38 186.36 0)
 			(effects
 				(font
@@ -23676,7 +23677,7 @@
 				)
 			)
 		)
-		(property "Footprint" "CAPC3216X180N"
+		(property "Footprint" "CL21A226MAQNNNE KiCad:CAPC2012X140N"
 			(at 386.08 127.94 0)
 			(effects
 				(font
@@ -23819,7 +23820,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "SOT95P280X125-3N"
+		(property "Footprint" "AO3401A KiCad:SOT95P280X125-3N"
 			(at 287.02 159.08 0)
 			(effects
 				(font
@@ -23962,7 +23963,7 @@
 				)
 			)
 		)
-		(property "Footprint" "CAPC3215X163N"
+		(property "Footprint" "1206B102K202NT KiCad:CAPC3215X163N"
 			(at 346.71 -61.9 0)
 			(effects
 				(font
@@ -24839,7 +24840,7 @@
 				)
 			)
 		)
-		(property "Footprint" "SON50P200X200X80-9N"
+		(property "Footprint" "TPS62067DSGR KiCad:SON50P200X200X80-9N"
 			(at 375.92 219.38 0)
 			(effects
 				(font
@@ -25071,7 +25072,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "IRLML6344TRPBF_INF"
+		(property "Footprint" "IRLML6344TRPBF:IRLML6344TRPBF_INF"
 			(at 220.98 138.43 0)
 			(effects
 				(font
@@ -25146,7 +25147,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" "CAPC3216X100N"
+		(property "Footprint" "CL31B104KBCNNNC KiCad:CAPC3216X100N"
 			(at 89.23 261.62 0)
 			(effects
 				(font
@@ -25653,7 +25654,7 @@
 				)
 			)
 		)
-		(property "Footprint" "CAPC3216X180N"
+		(property "Footprint" "CL31B225KBHNNNE KiCad:CAPC3216X180N"
 			(at 334.01 171.12 0)
 			(effects
 				(font
@@ -25794,7 +25795,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "SOT95P280X125-3N"
+		(property "Footprint" "AO3400A KiCad:SOT95P280X125-3N"
 			(at 266.7 336.22 0)
 			(effects
 				(font
@@ -25937,7 +25938,7 @@
 				)
 			)
 		)
-		(property "Footprint" "CAPC1608X90N"
+		(property "Footprint" "CL10B473KB8NNNC KiCad:CAPC1608X90N"
 			(at 377.19 171.12 0)
 			(effects
 				(font
@@ -26076,7 +26077,7 @@
 				)
 			)
 		)
-		(property "Footprint" "CAPC3216X180N"
+		(property "Footprint" "CL31B225KBHNNNE KiCad:CAPC3216X180N"
 			(at 382.27 273.99 0)
 			(effects
 				(font
@@ -26283,7 +26284,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" "CAPC3216X180N"
+		(property "Footprint" "CL31A106KBHNNNE KiCad:CAPC3216X180N"
 			(at 491.16 175.26 0)
 			(effects
 				(font
@@ -27062,7 +27063,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" "CAPC2012X140N"
+		(property "Footprint" "CL21A226MAQNNNE KiCad:CAPC2012X140N"
 			(at 237.82 116.84 0)
 			(effects
 				(font
@@ -27202,7 +27203,7 @@
 				)
 			)
 		)
-		(property "Footprint" "CAPC2012X75N"
+		(property "Footprint" "CL21B103KBANNNC KiCad:CAPC2012X75N"
 			(at 391.16 94.31 0)
 			(effects
 				(font
@@ -27640,7 +27641,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" "CAPC3216X100N"
+		(property "Footprint" "CL31B104KBCNNNC KiCad:CAPC3216X100N"
 			(at 264.49 93.98 0)
 			(effects
 				(font
@@ -28000,13 +28001,14 @@
 				)
 			)
 		)
-		(property "Footprint" "SOP65P280X145-8N"
+		(property "Footprint" "INA219AIDCNR KiCad:SOP65P280X145-8N"
 			(at 165.862 277.876 0)
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
 				(justify left top)
+				(hide yes)
 			)
 		)
 		(property "Datasheet" "https://componentsearchengine.com/Datasheets/2/INA219AIDCNR.pdf"
