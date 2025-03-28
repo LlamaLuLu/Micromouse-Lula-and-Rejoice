@@ -151,6 +151,7 @@
 	(net 69 "unconnected-(IC7-VOUT_2-Pad15)")
 	(net 70 "unconnected-(IC7-SW_4-Pad7)")
 	(net 71 "unconnected-(IC7-SW_3-Pad6)")
+<<<<<<< HEAD
 	(net 72 "Net-(U2-LX)")
 	(net 73 "Net-(LED1-K)")
 	(net 74 "Net-(LED1-A)")
@@ -168,6 +169,8 @@
 	(net 86 "Net-(J2-SBU2)")
 	(net 87 "Net-(J2-SBU1)")
 	(net 88 "Net-(Q3-S)")
+=======
+>>>>>>> parent of 925ab55 (v1.3.1)
 	(footprint "TPS62067DSGR KiCad:SON50P200X200X80-9N"
 		(layer "F.Cu")
 		(uuid "064031ec-4489-4f7c-9309-914bcc2d9483")
@@ -1434,7 +1437,11 @@
 	(footprint "CL31B225KBHNNNE KiCad:CAPC3216X180N"
 		(layer "F.Cu")
 		(uuid "0fbeffc7-e3c5-42f2-8cb1-410c169e8085")
+<<<<<<< HEAD
 		(at 172.29 84.1)
+=======
+		(at 169.82 79.5 -90)
+>>>>>>> parent of 925ab55 (v1.3.1)
 		(descr "CL31B225KBHNNNE")
 		(tags "Capacitor")
 		(property "Reference" "C14"
@@ -2944,6 +2951,7 @@
 		)
 		(embedded_fonts no)
 	)
+<<<<<<< HEAD
 	(footprint "0603WAF7502T5E:R0603"
 		(layer "F.Cu")
 		(uuid "1ef638e1-1084-4826-88d6-49bca79c0403")
@@ -3420,12 +3428,18 @@
 		(layer "F.Cu")
 		(uuid "1f21fba0-e8eb-406c-acb1-e6dd6bc5cc25")
 		(at 125.185999 78.6692)
+=======
+	(footprint "IRLML6344TRPBF:IRLML6344TRPBF_INF"
+		(layer "F.Cu")
+		(uuid "1f21fba0-e8eb-406c-acb1-e6dd6bc5cc25")
+		(at 77.249999 82.3848)
+>>>>>>> parent of 925ab55 (v1.3.1)
 		(tags "IRLML6344TRPBF ")
 		(property "Reference" "U3"
 			(at 0 0 0)
 			(unlocked yes)
 			(layer "F.SilkS")
-			(uuid "01765b21-04d1-43d8-9b8f-a5c0e73af26d")
+			(uuid "f2742338-dcaf-408f-a5f9-bc892765a6a3")
 			(effects
 				(font
 					(size 1 1)
@@ -3437,7 +3451,7 @@
 			(at -21.098999 -10.690999 90)
 			(unlocked yes)
 			(layer "F.Fab")
-			(uuid "e35d961e-5cc1-42b9-90e5-b1aeadfabf96")
+			(uuid "2e85592c-c2ad-4115-9b36-935ff0ba25e8")
 			(effects
 				(font
 					(size 1 1)
@@ -3449,7 +3463,7 @@
 			(at 0 0 0)
 			(layer "F.Fab")
 			(hide yes)
-			(uuid "d6277fde-71c8-4bb5-a0ca-97d0938b8f43")
+			(uuid "663803bb-7145-41e2-82ea-0d4ab11dcf65")
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -3461,7 +3475,7 @@
 			(at 0 0 0)
 			(layer "F.Fab")
 			(hide yes)
-			(uuid "54f3962d-33fc-4ec9-8648-49aa3c16bcfa")
+			(uuid "8f0fa145-6648-4aa0-9bf7-377d9bee2081")
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -3871,7 +3885,11 @@
 	(footprint "CL31A106KBHNNNE KiCad:CAPC3216X180N"
 		(layer "F.Cu")
 		(uuid "1f61551b-763d-4387-9a5f-10ffc3bf0c8f")
+<<<<<<< HEAD
 		(at 172.24 80.55 180)
+=======
+		(at 172.22 79.51 90)
+>>>>>>> parent of 925ab55 (v1.3.1)
 		(descr "CL31 (1206)")
 		(tags "Capacitor")
 		(property "Reference" "C10"
@@ -4152,6 +4170,7 @@
 			)
 		)
 	)
+<<<<<<< HEAD
 	(footprint "TestPoint:TestPoint_Pad_2.0x2.0mm"
 		(layer "F.Cu")
 		(uuid "1fd6b0a4-d0e9-43d8-8134-5743cbbf6312")
@@ -5841,6 +5860,8 @@
 		)
 		(embedded_fonts no)
 	)
+=======
+>>>>>>> parent of 925ab55 (v1.3.1)
 	(footprint "CL31A106KBHNNNE KiCad:CAPC3216X180N"
 		(layer "F.Cu")
 		(uuid "3369bbef-1405-4187-9ac7-5118466f5850")
@@ -6129,6 +6150,7 @@
 			)
 		)
 	)
+<<<<<<< HEAD
 	(footprint "R0402:R0402"
 		(layer "F.Cu")
 		(uuid "3560b207-6f20-4240-9480-90856fafdc46")
@@ -6547,6 +6569,12 @@
 		(layer "F.Cu")
 		(uuid "366b2e93-b1ca-482a-951c-d7d00275261f")
 		(at 172.075 98.628 90)
+=======
+	(footprint "1206W4F400LT5E:RESC3115X65N"
+		(layer "F.Cu")
+		(uuid "366b2e93-b1ca-482a-951c-d7d00275261f")
+		(at 158.06 81)
+>>>>>>> parent of 925ab55 (v1.3.1)
 		(property "Reference" "R9"
 			(at 0.925 -1.885 90)
 			(layer "F.SilkS")
@@ -7215,6 +7243,7 @@
 		)
 		(embedded_fonts no)
 	)
+<<<<<<< HEAD
 	(footprint "R0402:R0402"
 		(layer "F.Cu")
 		(uuid "3d2d1d90-b5fd-4453-87a3-df27ce24d718")
@@ -7633,6 +7662,8 @@
 			)
 		)
 	)
+=======
+>>>>>>> parent of 925ab55 (v1.3.1)
 	(footprint "0805W8F1503T5E:RESC2012X65N"
 		(layer "F.Cu")
 		(uuid "47a281b6-17f2-40e6-9f4e-099b15207b28")
@@ -9421,7 +9452,11 @@
 	(footprint "1206W4F400LT5E:RESC3115X65N"
 		(layer "F.Cu")
 		(uuid "59fd781b-98d9-47c0-96bf-8f244a9f60b1")
+<<<<<<< HEAD
 		(at 168.175 98.538 90)
+=======
+		(at 158.06 78.5)
+>>>>>>> parent of 925ab55 (v1.3.1)
 		(property "Reference" "R8"
 			(at 0.925 -1.885 90)
 			(layer "F.SilkS")
@@ -9752,6 +9787,7 @@
 		)
 		(embedded_fonts no)
 	)
+<<<<<<< HEAD
 	(footprint "TestPoint:TestPoint_Pad_2.0x2.0mm"
 		(layer "F.Cu")
 <<<<<<< HEAD
@@ -10794,12 +10830,18 @@
 =======
 		(at 113.6495 54.1499)
 >>>>>>> parent of d643ac7 (Revert "V1.4")
+=======
+	(footprint "CL31A106KBHNNNE KiCad:CAPC3216X180N"
+		(layer "F.Cu")
+		(uuid "620943eb-e53b-486b-8716-42d901b9fc91")
+		(at 69.359999 81.8696)
+>>>>>>> parent of 925ab55 (v1.3.1)
 		(descr "CL31 (1206)")
 		(tags "Capacitor")
 		(property "Reference" "C24"
 			(at 0 0 0)
 			(layer "F.SilkS")
-			(uuid "f931fae3-3885-4c26-bd55-d659434c14ec")
+			(uuid "9aa4c3e5-f0a0-4bdc-b05d-8ce56097719a")
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -10811,7 +10853,7 @@
 			(at 0 0 0)
 			(layer "F.SilkS")
 			(hide yes)
-			(uuid "a9948abe-2839-4390-ac5a-a34636f7da8e")
+			(uuid "8e9802e2-33f5-41c4-8694-99f3b264c981")
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -10823,7 +10865,7 @@
 			(at 0 0 0)
 			(layer "F.Fab")
 			(hide yes)
-			(uuid "28fcef9f-fb3d-4fa2-8f4c-5e6326e00054")
+			(uuid "7b1a3b40-efbf-4209-93f4-7f1abec63f23")
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -10835,7 +10877,7 @@
 			(at 0 0 0)
 			(layer "F.Fab")
 			(hide yes)
-			(uuid "e99741fa-a0a8-414e-bea1-bdc7735494cb")
+			(uuid "55860c67-e820-4ee3-aea4-b7900626426a")
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -12839,6 +12881,7 @@
 		)
 		(embedded_fonts no)
 	)
+<<<<<<< HEAD
 	(footprint "TestPoint:TestPoint_Pad_2.0x2.0mm"
 		(layer "F.Cu")
 		(uuid "6c9f821f-630d-415b-996d-8edb01f2daba")
@@ -13408,6 +13451,8 @@
 			)
 		)
 	)
+=======
+>>>>>>> parent of 925ab55 (v1.3.1)
 	(footprint "CL31A106KBHNNNE KiCad:CAPC3216X180N"
 		(layer "F.Cu")
 		(uuid "72f53bb1-1639-4d1d-ab46-5e97c1e2580a")
@@ -14550,6 +14595,7 @@
 		)
 		(embedded_fonts no)
 	)
+<<<<<<< HEAD
 	(footprint "R0402:R0402"
 		(layer "F.Cu")
 		(uuid "7a78ba0b-261d-4c35-afc0-f4e3799c1802")
@@ -15624,6 +15670,8 @@
 			)
 		)
 	)
+=======
+>>>>>>> parent of 925ab55 (v1.3.1)
 	(footprint "CL21B103KBANNNC KiCad:CAPC2012X75N"
 		(layer "F.Cu")
 		(uuid "7d489088-30dc-4377-83a1-7ee82351b40e")
@@ -16725,6 +16773,7 @@
 		)
 		(embedded_fonts no)
 	)
+<<<<<<< HEAD
 	(footprint "TestPoint:TestPoint_Pad_2.0x2.0mm"
 		(layer "F.Cu")
 		(uuid "8abeb796-23d2-43e3-bbf8-38a0a131127f")
@@ -17497,6 +17546,8 @@
 			)
 		)
 	)
+=======
+>>>>>>> parent of 925ab55 (v1.3.1)
 	(footprint "CL31B225KBHNNNE KiCad:CAPC3216X180N"
 		(layer "F.Cu")
 		(uuid "91e40820-c14e-4aaf-9091-4e7e397d61b1")
@@ -18363,7 +18414,11 @@
 	(footprint "DRV8833PWPR KiCad:SOP65P640X120-16N"
 		(layer "F.Cu")
 		(uuid "93c3084f-8791-497d-844a-ade0aa984126")
+<<<<<<< HEAD
 		(at 170.925 91.088 90)
+=======
+		(at 164.52 80.3)
+>>>>>>> parent of 925ab55 (v1.3.1)
 		(descr "ADC128S052CIMTX/NOPB-1")
 		(tags "Integrated Circuit")
 		(property "Reference" "IC2"
@@ -19504,6 +19559,7 @@
 			)
 		)
 	)
+<<<<<<< HEAD
 	(footprint "TYPE-C16PIN KiCADv6:CONN16_C16PIN_SHN"
 		(layer "F.Cu")
 		(uuid "a151359a-f187-4630-8454-fa4e3d9522a8")
@@ -20764,6 +20820,8 @@
 		)
 		(embedded_fonts no)
 	)
+=======
+>>>>>>> parent of 925ab55 (v1.3.1)
 	(footprint "0805W8F3302T5E:RESC2012X65N"
 		(layer "F.Cu")
 		(uuid "a42afa65-df8f-4fd4-9f74-2d54b5f2e4ff")
@@ -23055,6 +23113,7 @@
 		)
 		(embedded_fonts no)
 	)
+<<<<<<< HEAD
 	(footprint "TestPoint:TestPoint_Pad_2.0x2.0mm"
 		(layer "F.Cu")
 		(uuid "b80a7689-6bd1-4c91-9db0-9cfdd0615e2f")
@@ -23811,6 +23870,8 @@
 			)
 		)
 	)
+=======
+>>>>>>> parent of 925ab55 (v1.3.1)
 	(footprint "AO3401A KiCad:SOT95P280X125-3N"
 		(layer "F.Cu")
 		(uuid "bbae5079-44e7-43dd-98df-3748a77054a9")
@@ -26057,7 +26118,11 @@
 	(footprint "CL21B103KBANNNC KiCad:CAPC2012X75N"
 		(layer "F.Cu")
 		(uuid "cd6fd477-488a-44db-864f-cc48d0b3033f")
+<<<<<<< HEAD
 		(at 177.14 84.55 90)
+=======
+		(at 170.12 82.7)
+>>>>>>> parent of 925ab55 (v1.3.1)
 		(descr "0805-nwHigher25")
 		(tags "Capacitor")
 		(property "Reference" "C6"
@@ -26964,7 +27029,11 @@
 			)
 		)
 		(property "Value" "4k7"
+<<<<<<< HEAD
 			(at -9.045 23.09 180)
+=======
+			(at 5.37 1.865 90)
+>>>>>>> parent of 925ab55 (v1.3.1)
 			(layer "F.Fab")
 			(uuid "fced5f71-b29c-4e15-9aed-2ed8ac288f84")
 			(effects
@@ -28246,6 +28315,7 @@
 		)
 		(embedded_fonts no)
 	)
+<<<<<<< HEAD
 	(footprint "KT-0805G:LED0805-R-RD"
 		(layer "F.Cu")
 		(uuid "ea1e321d-c082-43d5-bc52-25a006fd9336")
@@ -28924,6 +28994,8 @@
 		)
 		(embedded_fonts no)
 	)
+=======
+>>>>>>> parent of 925ab55 (v1.3.1)
 	(footprint "DRV8833PWPR KiCad:SOP65P640X120-16N"
 		(layer "F.Cu")
 		(uuid "ed97f672-397d-47b7-828c-c38574f6db90")
@@ -28937,7 +29009,7 @@
 		(property "Reference" "IC1"
 			(at 0 0 90)
 			(layer "F.SilkS")
-			(uuid "d64525a5-4e04-4da7-8cc9-d95ef5c30b37")
+			(uuid "376e4f87-abc9-4b39-8efc-4ea26fb5bd8f")
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -28949,7 +29021,7 @@
 			(at 0 0 90)
 			(layer "F.SilkS")
 			(hide yes)
-			(uuid "ba99bf18-e2fe-46a8-9f79-dfbbd384ddf5")
+			(uuid "298f5d9a-1cdd-4ca5-91e3-00367658f091")
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -28961,7 +29033,7 @@
 			(at 0 0 90)
 			(layer "F.Fab")
 			(hide yes)
-			(uuid "85be628f-3b03-4832-8a8f-dff47b6022f5")
+			(uuid "2d0393eb-7376-428c-adfd-ae572dffd6be")
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -28973,7 +29045,7 @@
 			(at 0 0 90)
 			(layer "F.Fab")
 			(hide yes)
-			(uuid "146f0b5b-b86c-4d89-966c-7de6b4f98455")
+			(uuid "6fb64900-1911-4a1e-8401-1d4a9aaa0013")
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -29553,10 +29625,14 @@
 		(layer "F.Cu")
 		(uuid "f130c59e-1b4b-4547-a305-c83a9d116d79")
 <<<<<<< HEAD
+<<<<<<< HEAD
 		(at 129.85 56.95)
 =======
 		(at 148.55 47.15)
 >>>>>>> parent of d643ac7 (Revert "V1.4")
+=======
+		(at 137.5 55.05)
+>>>>>>> parent of 925ab55 (v1.3.1)
 		(descr "JST PH series connector, S2B-PH-K (http://www.jst-mfg.com/product/pdf/eng/ePH.pdf), generated with kicad-footprint-generator")
 		(tags "connector JST PH top entry")
 		(property "Reference" "J3"
@@ -31834,7 +31910,11 @@
 			)
 		)
 		(property "Value" "4k7"
+<<<<<<< HEAD
 			(at -4.749 15.39 180)
+=======
+			(at 5.945 2.423 90)
+>>>>>>> parent of 925ab55 (v1.3.1)
 			(layer "F.Fab")
 			(uuid "b37dd098-0d65-40c3-aef5-af82f1a2e999")
 			(effects
