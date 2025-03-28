@@ -14683,6 +14683,12 @@
 		(uuid "0c1b0fb4-3b80-4182-b4ff-101fbcc06b5f")
 	)
 	(junction
+		(at 318.77 186.69)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "12b69944-d898-4522-910e-3eddde7f62c2")
+	)
+	(junction
 		(at 392.43 41.91)
 		(diameter 0)
 		(color 0 0 0 0)
@@ -14809,6 +14815,12 @@
 		(uuid "7350bd5f-f51d-4462-8157-560f59c79b1c")
 	)
 	(junction
+		(at 317.5 229.87)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "74312adf-836e-4eb1-a74d-8ffab7cffd64")
+	)
+	(junction
 		(at 365.76 54.61)
 		(diameter 0)
 		(color 0 0 0 0)
@@ -14825,6 +14837,12 @@
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "7cb4ef0f-a901-4f55-b0da-c71b4e3038f4")
+	)
+	(junction
+		(at 102.87 41.91)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "80293da1-6e5e-4a33-b679-d17fd4387bf0")
 	)
 	(junction
 		(at 386.08 177.8)
@@ -14911,12 +14929,6 @@
 		(uuid "b0c2e43d-034e-4aba-986b-75ce7c3b815c")
 	)
 	(junction
-		(at 317.5 229.87)
-		(diameter 0)
-		(color 0 0 0 0)
-		(uuid "b145b32f-b494-429e-9637-828061d77ae4")
-	)
-	(junction
 		(at 374.65 52.07)
 		(diameter 0)
 		(color 0 0 0 0)
@@ -14927,12 +14939,6 @@
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "bc520449-f865-4f12-a01c-4b9136c1d1d5")
-	)
-	(junction
-		(at 318.77 186.69)
-		(diameter 0)
-		(color 0 0 0 0)
-		(uuid "be7395c2-fa20-4935-8b62-9883c38e5b4e")
 	)
 	(junction
 		(at 62.23 121.92)
@@ -15053,6 +15059,18 @@
 		(uuid "04f12a93-79b9-4585-b47d-888c83bab8c5")
 	)
 	(no_connect
+		(at 339.09 191.77)
+		(uuid "6d6787b4-1adc-4c1c-9ea5-a7edb2a581ce")
+	)
+	(no_connect
+		(at 59.69 96.52)
+		(uuid "7fb01894-d702-45da-a003-b532f228f0a6")
+	)
+	(no_connect
+		(at 59.69 93.98)
+		(uuid "8ed5de4b-0073-4dfe-8a70-7df9da0bc2ba")
+	)
+	(no_connect
 		(at 36.83 245.11)
 		(uuid "a1547232-2808-4e25-a8c6-04abbe86778f")
 	)
@@ -15061,8 +15079,20 @@
 		(uuid "b49ba10d-995f-4fd0-be3a-7957f42112c2")
 	)
 	(no_connect
+		(at 59.69 114.3)
+		(uuid "b948476e-78f5-4546-b810-1fa7f9d95c43")
+	)
+	(no_connect
 		(at 355.6 54.61)
 		(uuid "c1d3de12-697f-43f2-8b2b-dde4e7752848")
+	)
+	(no_connect
+		(at 59.69 99.06)
+		(uuid "cb9d1a57-0ce8-4a16-82cf-4b6ee82e2d32")
+	)
+	(no_connect
+		(at 337.82 234.95)
+		(uuid "cc888ac6-e950-4b67-b939-27f2b7884d21")
 	)
 	(no_connect
 		(at 358.14 54.61)
@@ -15724,16 +15754,6 @@
 	)
 	(wire
 		(pts
-			(xy 339.09 191.77) (xy 339.09 198.12)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "364f6795-a1be-445d-bfcc-c47e4070f57e")
-	)
-	(wire
-		(pts
 			(xy 374.65 22.86) (xy 374.65 31.75)
 		)
 		(stroke
@@ -15741,16 +15761,6 @@
 			(type default)
 		)
 		(uuid "38c06261-7379-43e1-8aaa-069b56fb9a44")
-	)
-	(wire
-		(pts
-			(xy 337.82 234.95) (xy 337.82 241.3)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "392ca21d-b10f-41d5-a4ed-1987c5aa013d")
 	)
 	(wire
 		(pts
@@ -16764,16 +16774,6 @@
 	)
 	(wire
 		(pts
-			(xy 59.69 93.98) (xy 78.74 93.98)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "9da6b2db-732f-4e5d-8663-0b7426f4841c")
-	)
-	(wire
-		(pts
 			(xy 386.08 74.93) (xy 386.08 86.36)
 		)
 		(stroke
@@ -16824,13 +16824,23 @@
 	)
 	(wire
 		(pts
-			(xy 102.87 48.26) (xy 102.87 40.64)
+			(xy 102.87 48.26) (xy 102.87 41.91)
 		)
 		(stroke
 			(width 0)
 			(type default)
 		)
 		(uuid "a2a5f37d-1dc1-4f0a-86f6-166c3b5bbe51")
+	)
+	(wire
+		(pts
+			(xy 102.87 41.91) (xy 102.87 40.64)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "a4b9d200-1aa1-4645-aed0-f2df74a8d057")
 	)
 	(wire
 		(pts
@@ -17501,16 +17511,6 @@
 			(type default)
 		)
 		(uuid "d957758e-6030-4866-a629-19b7eaf0bd36")
-	)
-	(wire
-		(pts
-			(xy 59.69 114.3) (xy 80.01 114.3)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "d9fd5a10-ffce-45e9-bdee-f38187a9e66e")
 	)
 	(wire
 		(pts
@@ -18715,36 +18715,6 @@
 	(rule_area
 		(polyline
 			(pts
-				(xy 16.3194 217.424) (xy 66.4844 217.424) (xy 66.2305 281.686) (xy 16.0655 281.686)
-			)
-			(stroke
-				(width 0)
-				(type dash)
-			)
-			(fill
-				(type none)
-			)
-			(uuid 00c721c9-34b8-440c-8d82-4497e94e78a4)
-		)
-	)
-	(rule_area
-		(polyline
-			(pts
-				(xy 232.41 212.09) (xy 232.41 280.67) (xy 296.926 280.67) (xy 296.926 212.09)
-			)
-			(stroke
-				(width 0)
-				(type dash)
-			)
-			(fill
-				(type none)
-			)
-			(uuid 806f2aa6-5cf7-4b28-b31e-dfff25cacaec)
-		)
-	)
-	(rule_area
-		(polyline
-			(pts
 				(xy 311.658 154.94) (xy 403.733 155.194) (xy 404.241 15.494) (xy 312.166 15.24)
 			)
 			(stroke
@@ -18754,7 +18724,7 @@
 			(fill
 				(type none)
 			)
-			(uuid 9eaf4d79-3025-4276-a49d-30f38171b07f)
+			(uuid 3e68d48d-d74c-4b8c-b823-eed87d0bf4fe)
 		)
 	)
 	(rule_area
@@ -18769,7 +18739,7 @@
 			(fill
 				(type none)
 			)
-			(uuid be67ef65-f3d5-4fc7-a59e-6a4ae6f06540)
+			(uuid aec07f24-aa89-4a58-88f4-1042ee54996b)
 		)
 	)
 	(rule_area
@@ -18784,7 +18754,37 @@
 			(fill
 				(type none)
 			)
-			(uuid de920378-3f69-4f46-bacd-4ada350ffafb)
+			(uuid d4be75a8-e811-477d-bb7d-697320fa7d74)
+		)
+	)
+	(rule_area
+		(polyline
+			(pts
+				(xy 232.41 212.09) (xy 232.41 280.67) (xy 296.926 280.67) (xy 296.926 212.09)
+			)
+			(stroke
+				(width 0)
+				(type dash)
+			)
+			(fill
+				(type none)
+			)
+			(uuid e39538c9-b00f-43be-ad87-f43c1a94a759)
+		)
+	)
+	(rule_area
+		(polyline
+			(pts
+				(xy 16.3194 217.424) (xy 66.4844 217.424) (xy 66.2305 281.686) (xy 16.0655 281.686)
+			)
+			(stroke
+				(width 0)
+				(type dash)
+			)
+			(fill
+				(type none)
+			)
+			(uuid f9b5bb1e-b3ca-45cb-89f3-dd5aaec5e7f9)
 		)
 	)
 	(symbol
@@ -18814,7 +18814,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "TestPoint:TestPoint_Pad_D1.5mm"
 			(at 256.54 88.9 0)
 			(effects
 				(font
@@ -18880,7 +18880,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "TestPoint:TestPoint_Pad_D1.5mm"
 			(at 353.06 250.19 0)
 			(effects
 				(font
@@ -19116,73 +19116,6 @@
 			(project "EEE3088F_PCB_Project"
 				(path "/f23689db-9b6c-49fb-9c64-c652802710b2"
 					(reference "#PWR024")
-					(unit 1)
-				)
-			)
-		)
-	)
-	(symbol
-		(lib_id "Connector:TestPoint")
-		(at 80.01 114.3 0)
-		(unit 1)
-		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
-		(dnp no)
-		(fields_autoplaced yes)
-		(uuid "0891b41f-a9e3-4be3-a1b3-34f93e2458ac")
-		(property "Reference" "TP9"
-			(at 82.55 109.7279 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left)
-			)
-		)
-		(property "Value" "TP SBU2"
-			(at 82.55 112.2679 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left)
-			)
-		)
-		(property "Footprint" ""
-			(at 85.09 114.3 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Datasheet" "~"
-			(at 85.09 114.3 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Description" "test point"
-			(at 80.01 114.3 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(pin "1"
-			(uuid "c5b4106d-a3c1-46c0-b963-14ce58c7c492")
-		)
-		(instances
-			(project "EEE3088F_PCB_Project"
-				(path "/f23689db-9b6c-49fb-9c64-c652802710b2"
-					(reference "TP9")
 					(unit 1)
 				)
 			)
@@ -19595,7 +19528,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "TestPoint:TestPoint_Pad_D1.5mm"
 			(at 254 261.62 0)
 			(effects
 				(font
@@ -19803,7 +19736,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "TestPoint:TestPoint_Pad_D1.5mm"
 			(at 278.13 270.51 0)
 			(effects
 				(font
@@ -20203,7 +20136,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "CL31B105KBHNNNE:C1206"
 			(at 76.2 132.08 0)
 			(effects
 				(font
@@ -20504,7 +20437,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "TestPoint:TestPoint_Pad_D1.5mm"
 			(at 99.06 107.95 0)
 			(effects
 				(font
@@ -21815,7 +21748,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "TestPoint:TestPoint_Pad_D1.5mm"
 			(at 229.87 242.57 0)
 			(effects
 				(font
@@ -22137,7 +22070,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "TestPoint:TestPoint_Pad_D1.5mm"
 			(at 368.3 29.21 0)
 			(effects
 				(font
@@ -22408,7 +22341,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "TestPoint:TestPoint_Pad_D1.5mm"
 			(at 135.89 109.22 0)
 			(effects
 				(font
@@ -24183,73 +24116,6 @@
 	)
 	(symbol
 		(lib_id "Connector:TestPoint")
-		(at 339.09 198.12 270)
-		(unit 1)
-		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
-		(dnp no)
-		(fields_autoplaced yes)
-		(uuid "592925d6-021b-44a6-afe1-c2a115c0c7a2")
-		(property "Reference" "TP1"
-			(at 344.17 196.8499 90)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left)
-			)
-		)
-		(property "Value" "TestPoint"
-			(at 344.17 199.3899 90)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left)
-			)
-		)
-		(property "Footprint" "TestPoint:TestPoint_2Pads_Pitch2.54mm_Drill0.8mm"
-			(at 339.09 203.2 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Datasheet" "~"
-			(at 339.09 203.2 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Description" "test point"
-			(at 339.09 198.12 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(pin "1"
-			(uuid "65d135b4-f436-462a-9c03-009fbc2ef1f9")
-		)
-		(instances
-			(project ""
-				(path "/f23689db-9b6c-49fb-9c64-c652802710b2"
-					(reference "TP1")
-					(unit 1)
-				)
-			)
-		)
-	)
-	(symbol
-		(lib_id "Connector:TestPoint")
 		(at 382.27 105.41 180)
 		(unit 1)
 		(exclude_from_sim no)
@@ -24276,7 +24142,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "TestPoint:TestPoint_Pad_D1.5mm"
 			(at 377.19 105.41 0)
 			(effects
 				(font
@@ -24549,7 +24415,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "TestPoint:TestPoint_Pad_D1.5mm"
 			(at 203.2 66.04 0)
 			(effects
 				(font
@@ -24590,73 +24456,6 @@
 	)
 	(symbol
 		(lib_id "Connector:TestPoint")
-		(at 78.74 93.98 0)
-		(unit 1)
-		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
-		(dnp no)
-		(fields_autoplaced yes)
-		(uuid "65455067-e540-4243-a1b5-a8616d75c0ae")
-		(property "Reference" "TP8"
-			(at 81.28 89.4079 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left)
-			)
-		)
-		(property "Value" "TP SBU1"
-			(at 81.28 91.9479 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left)
-			)
-		)
-		(property "Footprint" ""
-			(at 83.82 93.98 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Datasheet" "~"
-			(at 83.82 93.98 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Description" "test point"
-			(at 78.74 93.98 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(pin "1"
-			(uuid "c91d0d0b-690c-4c34-b439-649c5ded93c4")
-		)
-		(instances
-			(project "EEE3088F_PCB_Project"
-				(path "/f23689db-9b6c-49fb-9c64-c652802710b2"
-					(reference "TP8")
-					(unit 1)
-				)
-			)
-		)
-	)
-	(symbol
-		(lib_id "Connector:TestPoint")
 		(at 218.44 106.68 0)
 		(unit 1)
 		(exclude_from_sim no)
@@ -24683,7 +24482,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "TestPoint:TestPoint_Pad_D1.5mm"
 			(at 223.52 106.68 0)
 			(effects
 				(font
@@ -24747,7 +24546,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "TestPoint:TestPoint_Pad_D1.5mm"
 			(at 173.99 227.33 0)
 			(effects
 				(font
@@ -25140,7 +24939,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "TestPoint:TestPoint_Pad_D1.5mm"
 			(at 311.15 209.55 0)
 			(effects
 				(font
@@ -25206,7 +25005,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "TestPoint:TestPoint_Pad_D1.5mm"
 			(at 335.28 170.18 0)
 			(effects
 				(font
@@ -25417,7 +25216,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "TestPoint:TestPoint_Pad_D1.5mm"
 			(at 321.31 118.11 0)
 			(effects
 				(font
@@ -25483,7 +25282,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "TestPoint:TestPoint_Pad_D1.5mm"
 			(at 313.69 203.2 0)
 			(effects
 				(font
@@ -25550,7 +25349,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "TestPoint:TestPoint_Pad_D1.5mm"
 			(at 349.25 113.03 0)
 			(effects
 				(font
@@ -25731,7 +25530,7 @@
 	)
 	(symbol
 		(lib_id "1206W4F400LT5E:1206W4F400LT5E")
-		(at 327.66 229.87 0)
+		(at 328.93 186.69 0)
 		(mirror x)
 		(unit 1)
 		(exclude_from_sim no)
@@ -25740,7 +25539,7 @@
 		(dnp no)
 		(uuid "77c2dbc5-df14-4a13-b789-aab9db702c6d")
 		(property "Reference" "R9"
-			(at 327.66 236.22 0)
+			(at 328.93 193.04 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -25748,7 +25547,7 @@
 			)
 		)
 		(property "Value" "400m"
-			(at 327.66 233.68 0)
+			(at 328.93 190.5 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -25756,7 +25555,7 @@
 			)
 		)
 		(property "Footprint" "1206W4F400LT5E:RESC3115X65N"
-			(at 327.66 229.87 0)
+			(at 328.93 186.69 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -25766,7 +25565,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 327.66 229.87 0)
+			(at 328.93 186.69 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -25775,7 +25574,7 @@
 			)
 		)
 		(property "Description" ""
-			(at 327.66 229.87 0)
+			(at 328.93 186.69 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -25784,7 +25583,7 @@
 			)
 		)
 		(property "MF" "Uni-Royal"
-			(at 327.66 229.87 0)
+			(at 328.93 186.69 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -25794,7 +25593,7 @@
 			)
 		)
 		(property "MAXIMUM_PACKAGE_HEIGHT" "0.65mm"
-			(at 327.66 229.87 0)
+			(at 328.93 186.69 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -25804,7 +25603,7 @@
 			)
 		)
 		(property "Package" "1206-2 ROYAL"
-			(at 327.66 229.87 0)
+			(at 328.93 186.69 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -25814,7 +25613,7 @@
 			)
 		)
 		(property "Price" "None"
-			(at 327.66 229.87 0)
+			(at 328.93 186.69 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -25824,7 +25623,7 @@
 			)
 		)
 		(property "Check_prices" "https://www.snapeda.com/parts/1206W4F400LT5E/Uni-Royal/view-part/?ref=eda"
-			(at 327.66 229.87 0)
+			(at 328.93 186.69 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -25834,7 +25633,7 @@
 			)
 		)
 		(property "STANDARD" "IPC-7351B"
-			(at 327.66 229.87 0)
+			(at 328.93 186.69 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -25844,7 +25643,7 @@
 			)
 		)
 		(property "PARTREV" "V3"
-			(at 327.66 229.87 0)
+			(at 328.93 186.69 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -25854,7 +25653,7 @@
 			)
 		)
 		(property "SnapEDA_Link" "https://www.snapeda.com/parts/1206W4F400LT5E/Uni-Royal/view-part/?ref=snap"
-			(at 327.66 229.87 0)
+			(at 328.93 186.69 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -25864,7 +25663,7 @@
 			)
 		)
 		(property "MP" "1206W4F400LT5E"
-			(at 327.66 229.87 0)
+			(at 328.93 186.69 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -25874,7 +25673,7 @@
 			)
 		)
 		(property "Description_1" "400m Ohm 1/4W Thick Film Resistor 1206 Chip - Surface Mount"
-			(at 327.66 229.87 0)
+			(at 328.93 186.69 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -25884,7 +25683,7 @@
 			)
 		)
 		(property "Availability" "Not in stock"
-			(at 327.66 229.87 0)
+			(at 328.93 186.69 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -25894,7 +25693,7 @@
 			)
 		)
 		(property "MANUFACTURER" "Uni-Royal"
-			(at 327.66 229.87 0)
+			(at 328.93 186.69 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -26108,6 +25907,73 @@
 	)
 	(symbol
 		(lib_id "Connector:TestPoint")
+		(at 102.87 41.91 270)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(uuid "7a2b3f3f-9653-47f4-888f-6917ab0425ea")
+		(property "Reference" "TP8"
+			(at 107.95 40.6399 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Value" "TP SWITCH OUT"
+			(at 107.95 43.1799 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Footprint" "TestPoint:TestPoint_Pad_D1.5mm"
+			(at 102.87 46.99 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" "~"
+			(at 102.87 46.99 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" "test point"
+			(at 102.87 41.91 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "1"
+			(uuid "9c637e77-1153-4caf-bfb4-9a3d27a988bb")
+		)
+		(instances
+			(project ""
+				(path "/f23689db-9b6c-49fb-9c64-c652802710b2"
+					(reference "TP8")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "Connector:TestPoint")
 		(at 334.01 203.2 90)
 		(unit 1)
 		(exclude_from_sim no)
@@ -26131,7 +25997,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "TestPoint:TestPoint_Pad_D1.5mm"
 			(at 334.01 198.12 0)
 			(effects
 				(font
@@ -26276,7 +26142,7 @@
 	)
 	(symbol
 		(lib_id "1206W4F100KT5E:1206W4F100KT5E")
-		(at 328.93 186.69 0)
+		(at 317.5 219.71 90)
 		(mirror x)
 		(unit 1)
 		(exclude_from_sim no)
@@ -26285,7 +26151,7 @@
 		(dnp no)
 		(uuid "7caddae2-f4ee-44c9-a572-59bd20b4c5d3")
 		(property "Reference" "R6"
-			(at 328.93 193.04 0)
+			(at 313.69 217.678 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -26293,7 +26159,7 @@
 			)
 		)
 		(property "Value" "1"
-			(at 328.93 190.5 0)
+			(at 313.436 219.964 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -26301,7 +26167,7 @@
 			)
 		)
 		(property "Footprint" "1206W4F100KT5E:RESC3115X65N"
-			(at 328.93 186.69 0)
+			(at 317.5 219.71 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -26311,7 +26177,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 328.93 186.69 0)
+			(at 317.5 219.71 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -26320,7 +26186,7 @@
 			)
 		)
 		(property "Description" ""
-			(at 328.93 186.69 0)
+			(at 317.5 219.71 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -26329,7 +26195,7 @@
 			)
 		)
 		(property "MF" "Uni-Royal"
-			(at 328.93 186.69 0)
+			(at 317.5 219.71 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -26339,7 +26205,7 @@
 			)
 		)
 		(property "MAXIMUM_PACKAGE_HEIGHT" "0.65mm"
-			(at 328.93 186.69 0)
+			(at 317.5 219.71 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -26349,7 +26215,7 @@
 			)
 		)
 		(property "Package" "None"
-			(at 328.93 186.69 0)
+			(at 317.5 219.71 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -26359,7 +26225,7 @@
 			)
 		)
 		(property "Price" "None"
-			(at 328.93 186.69 0)
+			(at 317.5 219.71 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -26369,7 +26235,7 @@
 			)
 		)
 		(property "Check_prices" "https://www.snapeda.com/parts/1206W4F100KT5E/Uni-Royal/view-part/?ref=eda"
-			(at 328.93 186.69 0)
+			(at 317.5 219.71 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -26379,7 +26245,7 @@
 			)
 		)
 		(property "STANDARD" "IPC-7351B"
-			(at 328.93 186.69 0)
+			(at 317.5 219.71 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -26389,7 +26255,7 @@
 			)
 		)
 		(property "PARTREV" "V3"
-			(at 328.93 186.69 0)
+			(at 317.5 219.71 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -26399,7 +26265,7 @@
 			)
 		)
 		(property "SnapEDA_Link" "https://www.snapeda.com/parts/1206W4F100KT5E/Uni-Royal/view-part/?ref=snap"
-			(at 328.93 186.69 0)
+			(at 317.5 219.71 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -26409,7 +26275,7 @@
 			)
 		)
 		(property "MP" "1206W4F100KT5E"
-			(at 328.93 186.69 0)
+			(at 317.5 219.71 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -26419,7 +26285,7 @@
 			)
 		)
 		(property "Description_1" "1 Ohm 1/4W Thick Film Resistor 1206 Chip - Surface Mount"
-			(at 328.93 186.69 0)
+			(at 317.5 219.71 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -26429,7 +26295,7 @@
 			)
 		)
 		(property "Availability" "Not in stock"
-			(at 328.93 186.69 0)
+			(at 317.5 219.71 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -26439,7 +26305,7 @@
 			)
 		)
 		(property "MANUFACTURER" "Uni-Royal"
-			(at 328.93 186.69 0)
+			(at 317.5 219.71 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -27058,7 +26924,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "TestPoint:TestPoint_Pad_D1.5mm"
 			(at 374.65 17.78 0)
 			(effects
 				(font
@@ -27256,7 +27122,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "TestPoint:TestPoint_Pad_D1.5mm"
 			(at 321.31 245.11 0)
 			(effects
 				(font
@@ -27426,7 +27292,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "TestPoint:TestPoint_Pad_D1.5mm"
 			(at 386.08 124.46 0)
 			(effects
 				(font
@@ -27492,7 +27358,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "TestPoint:TestPoint_Pad_D1.5mm"
 			(at 229.87 273.05 0)
 			(effects
 				(font
@@ -27982,7 +27848,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "TestPoint:TestPoint_Pad_D1.5mm"
 			(at 278.13 240.03 0)
 			(effects
 				(font
@@ -28048,7 +27914,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "TestPoint:TestPoint_Pad_D1.5mm"
 			(at 134.62 119.38 0)
 			(effects
 				(font
@@ -28253,7 +28119,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "TestPoint:TestPoint_Pad_D1.5mm"
 			(at 170.18 246.38 0)
 			(effects
 				(font
@@ -28386,7 +28252,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "TestPoint:TestPoint_Pad_D1.5mm"
 			(at 128.27 135.89 0)
 			(effects
 				(font
@@ -28452,7 +28318,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "TestPoint:TestPoint_Pad_D1.5mm"
 			(at 337.82 214.63 0)
 			(effects
 				(font
@@ -28792,7 +28658,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "HUSB237-AA001-DN06R:TDFN-6_L2.0-W2.0-P0.65-TL-EP"
 			(at 111.76 121.92 0)
 			(effects
 				(font
@@ -29104,7 +28970,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "CONN16_C16PIN_SHN"
+		(property "Footprint" "TYPE-C16PIN KiCADv6:CONN16_C16PIN_SHN"
 			(at 59.69 81.28 0)
 			(effects
 				(font
@@ -29439,7 +29305,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "TestPoint:TestPoint_Pad_D1.5mm"
 			(at 187.96 241.3 0)
 			(effects
 				(font
@@ -29620,7 +29486,7 @@
 	)
 	(symbol
 		(lib_id "1206W4F400LT5E:1206W4F400LT5E")
-		(at 317.5 219.71 90)
+		(at 327.66 229.87 0)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -29628,7 +29494,7 @@
 		(dnp no)
 		(uuid "b61e0cb5-94b6-4b67-b503-a78c042e50b9")
 		(property "Reference" "R8"
-			(at 315.214 219.71 90)
+			(at 327.152 233.172 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -29637,7 +29503,7 @@
 			)
 		)
 		(property "Value" "400m"
-			(at 315.214 222.25 90)
+			(at 326.39 235.204 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -29646,7 +29512,7 @@
 			)
 		)
 		(property "Footprint" "1206W4F400LT5E:RESC3115X65N"
-			(at 317.5 219.71 0)
+			(at 327.66 229.87 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -29656,7 +29522,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 317.5 219.71 0)
+			(at 327.66 229.87 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -29665,7 +29531,7 @@
 			)
 		)
 		(property "Description" ""
-			(at 317.5 219.71 0)
+			(at 327.66 229.87 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -29674,7 +29540,7 @@
 			)
 		)
 		(property "MF" "Uni-Royal"
-			(at 317.5 219.71 0)
+			(at 327.66 229.87 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -29684,7 +29550,7 @@
 			)
 		)
 		(property "MAXIMUM_PACKAGE_HEIGHT" "0.65mm"
-			(at 317.5 219.71 0)
+			(at 327.66 229.87 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -29694,7 +29560,7 @@
 			)
 		)
 		(property "Package" "1206-2 ROYAL"
-			(at 317.5 219.71 0)
+			(at 327.66 229.87 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -29704,7 +29570,7 @@
 			)
 		)
 		(property "Price" "None"
-			(at 317.5 219.71 0)
+			(at 327.66 229.87 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -29714,7 +29580,7 @@
 			)
 		)
 		(property "Check_prices" "https://www.snapeda.com/parts/1206W4F400LT5E/Uni-Royal/view-part/?ref=eda"
-			(at 317.5 219.71 0)
+			(at 327.66 229.87 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -29724,7 +29590,7 @@
 			)
 		)
 		(property "STANDARD" "IPC-7351B"
-			(at 317.5 219.71 0)
+			(at 327.66 229.87 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -29734,7 +29600,7 @@
 			)
 		)
 		(property "PARTREV" "V3"
-			(at 317.5 219.71 0)
+			(at 327.66 229.87 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -29744,7 +29610,7 @@
 			)
 		)
 		(property "SnapEDA_Link" "https://www.snapeda.com/parts/1206W4F400LT5E/Uni-Royal/view-part/?ref=snap"
-			(at 317.5 219.71 0)
+			(at 327.66 229.87 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -29754,7 +29620,7 @@
 			)
 		)
 		(property "MP" "1206W4F400LT5E"
-			(at 317.5 219.71 0)
+			(at 327.66 229.87 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -29764,7 +29630,7 @@
 			)
 		)
 		(property "Description_1" "400m Ohm 1/4W Thick Film Resistor 1206 Chip - Surface Mount"
-			(at 317.5 219.71 0)
+			(at 327.66 229.87 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -29774,7 +29640,7 @@
 			)
 		)
 		(property "Availability" "Not in stock"
-			(at 317.5 219.71 0)
+			(at 327.66 229.87 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -29784,7 +29650,7 @@
 			)
 		)
 		(property "MANUFACTURER" "Uni-Royal"
-			(at 317.5 219.71 0)
+			(at 327.66 229.87 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -29941,7 +29807,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "TestPoint:TestPoint_Pad_D1.5mm"
 			(at 57.15 133.35 0)
 			(effects
 				(font
@@ -30008,7 +29874,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "IRLML6344TRPBF:IRLML6344TRPBF_INF"
 			(at 215.9 118.11 0)
 			(effects
 				(font
@@ -30323,7 +30189,7 @@
 				)
 			)
 		)
-		(property "Footprint" "SOP8_4X5P1-1P27_SOI"
+		(property "Footprint" "SL6600 KiCad:SOP8_4X5P1-1P27_SOI"
 			(at 213.36 81.28 0)
 			(effects
 				(font
@@ -30412,7 +30278,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "TestPoint:TestPoint_Pad_D1.5mm"
 			(at 392.43 46.99 0)
 			(effects
 				(font
@@ -30478,7 +30344,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "1MS1T1B1M1QES-5:SW-TH_1MS1T1B1M1QES-5"
 			(at 113.03 50.8 0)
 			(effects
 				(font
@@ -30586,7 +30452,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "TestPoint:TestPoint_Pad_D1.5mm"
 			(at 345.44 143.51 0)
 			(effects
 				(font
@@ -30620,73 +30486,6 @@
 			(project "EEE3088F_PCB_Project"
 				(path "/f23689db-9b6c-49fb-9c64-c652802710b2"
 					(reference "TP20")
-					(unit 1)
-				)
-			)
-		)
-	)
-	(symbol
-		(lib_id "Connector:TestPoint")
-		(at 337.82 241.3 270)
-		(unit 1)
-		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
-		(dnp no)
-		(fields_autoplaced yes)
-		(uuid "c9e273a4-b3ec-40bc-a0fb-948d4ae4ef53")
-		(property "Reference" "TP2"
-			(at 342.9 240.0299 90)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left)
-			)
-		)
-		(property "Value" "TestPoint"
-			(at 342.9 242.5699 90)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left)
-			)
-		)
-		(property "Footprint" "TestPoint:TestPoint_2Pads_Pitch2.54mm_Drill0.8mm"
-			(at 337.82 246.38 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Datasheet" "~"
-			(at 337.82 246.38 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Description" "test point"
-			(at 337.82 241.3 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(pin "1"
-			(uuid "65d135b4-f436-462a-9c03-009fbc2ef1fa")
-		)
-		(instances
-			(project ""
-				(path "/f23689db-9b6c-49fb-9c64-c652802710b2"
-					(reference "TP2")
 					(unit 1)
 				)
 			)
@@ -30876,7 +30675,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "TestPoint:TestPoint_Pad_D1.5mm"
 			(at 254 231.14 0)
 			(effects
 				(font
@@ -31431,7 +31230,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "TestPoint:TestPoint_Pad_D1.5mm"
 			(at 91.44 121.92 0)
 			(effects
 				(font
@@ -31893,7 +31692,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "TestPoint:TestPoint_Pad_D1.5mm"
 			(at 201.93 261.62 0)
 			(effects
 				(font
@@ -31959,7 +31758,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "TestPoint:TestPoint_Pad_D1.5mm"
 			(at 311.15 250.19 0)
 			(effects
 				(font
@@ -32025,7 +31824,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "TestPoint:TestPoint_Pad_D1.5mm"
 			(at 219.71 262.89 0)
 			(effects
 				(font
