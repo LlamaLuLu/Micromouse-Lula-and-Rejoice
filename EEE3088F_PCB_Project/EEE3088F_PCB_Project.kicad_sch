@@ -15104,7 +15104,7 @@
 	)
 	(wire
 		(pts
-			(xy 207.01 88.9) (xy 207.01 101.6)
+			(xy 207.01 88.9) (xy 207.01 105.41)
 		)
 		(stroke
 			(width 0)
@@ -15244,7 +15244,7 @@
 	)
 	(wire
 		(pts
-			(xy 199.39 86.36) (xy 213.36 86.36)
+			(xy 195.58 86.36) (xy 213.36 86.36)
 		)
 		(stroke
 			(width 0)
@@ -15534,7 +15534,7 @@
 	)
 	(wire
 		(pts
-			(xy 185.42 101.6) (xy 185.42 86.36)
+			(xy 185.42 105.41) (xy 185.42 86.36)
 		)
 		(stroke
 			(width 0)
@@ -16534,7 +16534,7 @@
 	)
 	(wire
 		(pts
-			(xy 207.01 101.6) (xy 200.66 101.6)
+			(xy 207.01 105.41) (xy 203.2 105.41)
 		)
 		(stroke
 			(width 0)
@@ -16651,16 +16651,6 @@
 			(type default)
 		)
 		(uuid "9838a9fe-3f02-4474-a1dd-7e66ae3ec16a")
-	)
-	(wire
-		(pts
-			(xy 189.23 86.36) (xy 185.42 86.36)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "986b3c03-d1c3-4df6-93ee-dac74ecaf5f1")
 	)
 	(wire
 		(pts
@@ -17604,7 +17594,7 @@
 	)
 	(wire
 		(pts
-			(xy 190.5 101.6) (xy 185.42 101.6)
+			(xy 193.04 105.41) (xy 185.42 105.41)
 		)
 		(stroke
 			(width 0)
@@ -18715,21 +18705,6 @@
 	(rule_area
 		(polyline
 			(pts
-				(xy 16.3194 217.424) (xy 66.4844 217.424) (xy 66.2305 281.686) (xy 16.0655 281.686)
-			)
-			(stroke
-				(width 0)
-				(type dash)
-			)
-			(fill
-				(type none)
-			)
-			(uuid 00c721c9-34b8-440c-8d82-4497e94e78a4)
-		)
-	)
-	(rule_area
-		(polyline
-			(pts
 				(xy 232.41 212.09) (xy 232.41 280.67) (xy 296.926 280.67) (xy 296.926 212.09)
 			)
 			(stroke
@@ -18739,7 +18714,22 @@
 			(fill
 				(type none)
 			)
-			(uuid 806f2aa6-5cf7-4b28-b31e-dfff25cacaec)
+			(uuid 240c6f08-32e2-40ea-97e1-c567aaab07f8)
+		)
+	)
+	(rule_area
+		(polyline
+			(pts
+				(xy 16.3194 217.424) (xy 66.4844 217.424) (xy 66.2305 281.686) (xy 16.0655 281.686)
+			)
+			(stroke
+				(width 0)
+				(type dash)
+			)
+			(fill
+				(type none)
+			)
+			(uuid 3b0f51ba-c11a-486d-bb22-e0fc05096bd5)
 		)
 	)
 	(rule_area
@@ -18754,7 +18744,7 @@
 			(fill
 				(type none)
 			)
-			(uuid 9eaf4d79-3025-4276-a49d-30f38171b07f)
+			(uuid c21912e0-bdfa-40ca-8910-49dafc1a18fa)
 		)
 	)
 	(rule_area
@@ -18769,7 +18759,7 @@
 			(fill
 				(type none)
 			)
-			(uuid be67ef65-f3d5-4fc7-a59e-6a4ae6f06540)
+			(uuid d9a4c99f-a75e-4deb-9c2d-204e322500aa)
 		)
 	)
 	(rule_area
@@ -18784,7 +18774,7 @@
 			(fill
 				(type none)
 			)
-			(uuid de920378-3f69-4f46-bacd-4ada350ffafb)
+			(uuid e7897246-d0e9-4883-b5d4-a02d718d5ff6)
 		)
 	)
 	(symbol
@@ -22588,7 +22578,7 @@
 	)
 	(symbol
 		(lib_id "KT-0603R:KT-0603R")
-		(at 195.58 101.6 0)
+		(at 198.12 105.41 0)
 		(mirror y)
 		(unit 1)
 		(exclude_from_sim no)
@@ -22597,7 +22587,7 @@
 		(dnp no)
 		(uuid "432bd157-7fda-44b4-836f-cb4c994c6176")
 		(property "Reference" "LED2"
-			(at 196.85 92.71 0)
+			(at 199.39 96.52 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -22605,7 +22595,7 @@
 			)
 		)
 		(property "Value" "KT-0603R"
-			(at 196.85 95.25 0)
+			(at 199.39 99.06 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -22613,7 +22603,7 @@
 			)
 		)
 		(property "Footprint" "KT-0603R:LED0603-RD"
-			(at 195.58 101.6 0)
+			(at 198.12 105.41 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -22622,7 +22612,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 195.58 101.6 0)
+			(at 198.12 105.41 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -22631,7 +22621,7 @@
 			)
 		)
 		(property "Description" ""
-			(at 195.58 101.6 0)
+			(at 198.12 105.41 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -22640,7 +22630,7 @@
 			)
 		)
 		(property "Manufacturer Part" "KT-0603R"
-			(at 195.58 101.6 0)
+			(at 198.12 105.41 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -22649,7 +22639,7 @@
 			)
 		)
 		(property "Manufacturer" "KENTO"
-			(at 195.58 101.6 0)
+			(at 198.12 105.41 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -22658,7 +22648,7 @@
 			)
 		)
 		(property "Supplier Part" "C2286"
-			(at 195.58 101.6 0)
+			(at 198.12 105.41 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -22667,7 +22657,7 @@
 			)
 		)
 		(property "Supplier" "LCSC"
-			(at 195.58 101.6 0)
+			(at 198.12 105.41 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -27086,7 +27076,7 @@
 			)
 		)
 		(pin "1"
-			(uuid "36dc887d-fa1f-4fb3-a506-773a4aff6f69")
+			(uuid "36dc887d-fa1f-4fb3-a506-773a4aff6f68")
 		)
 		(instances
 			(project ""
@@ -27297,7 +27287,7 @@
 	)
 	(symbol
 		(lib_id "KT-0805G:0805G (Green)")
-		(at 194.31 86.36 0)
+		(at 190.5 86.36 0)
 		(mirror y)
 		(unit 1)
 		(exclude_from_sim no)
@@ -27306,7 +27296,7 @@
 		(dnp no)
 		(uuid "8fefc05a-9130-4fba-8aef-c33e10ee82b8")
 		(property "Reference" "LED1"
-			(at 195.707 77.47 0)
+			(at 191.897 77.47 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -27314,7 +27304,7 @@
 			)
 		)
 		(property "Value" "0805G (Green)"
-			(at 195.707 80.01 0)
+			(at 191.897 80.01 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -27322,7 +27312,7 @@
 			)
 		)
 		(property "Footprint" "KT-0805G:LED0805-R-RD"
-			(at 194.31 86.36 0)
+			(at 190.5 86.36 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -27331,7 +27321,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 194.31 86.36 0)
+			(at 190.5 86.36 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -27340,7 +27330,7 @@
 			)
 		)
 		(property "Description" ""
-			(at 194.31 86.36 0)
+			(at 190.5 86.36 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -27349,7 +27339,7 @@
 			)
 		)
 		(property "Manufacturer Part" "KT-0805G"
-			(at 194.31 86.36 0)
+			(at 190.5 86.36 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -27358,7 +27348,7 @@
 			)
 		)
 		(property "Manufacturer" "KENTO"
-			(at 194.31 86.36 0)
+			(at 190.5 86.36 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -27367,7 +27357,7 @@
 			)
 		)
 		(property "Supplier Part" "C2297"
-			(at 194.31 86.36 0)
+			(at 190.5 86.36 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -27376,7 +27366,7 @@
 			)
 		)
 		(property "Supplier" "LCSC"
-			(at 194.31 86.36 0)
+			(at 190.5 86.36 0)
 			(effects
 				(font
 					(size 1.27 1.27)
