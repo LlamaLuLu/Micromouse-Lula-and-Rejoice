@@ -1,0 +1,41 @@
+{
+  "head": {
+    "docType": "2",
+    "editorVersion": "6.5.46",
+    "x": 400,
+    "y": 300,
+    "c_para": {
+      "pre": "SW?",
+      "name": "1MS1T1B1M1QES-5",
+      "package": "SW-TH_1MS1T1B1M1QES-5",
+      "Contributor": "LCSC",
+      "Supplier": "LCSC",
+      "Supplier Part": "C496154",
+      "Manufacturer": "Dailywell(德利威)",
+      "Manufacturer Part": "1MS1T1B1M1QES-5",
+      "JLCPCB Part Class": "Extended Part"
+    },
+    "uuid": "36373137a6a148f5bd295943780eda7c",
+    "puuid": "19cb8c700b944b5490a4f478547f0c49",
+    "importFlag": 0,
+    "c_spiceCmd": null,
+    "hasIdFlag": true,
+    "utime": 1705545948
+  },
+  "canvas": "CA~1000~1000~#FFFFFF~yes~#CCCCCC~10~1000~1000~line~10~pixel~5~400~300",
+  "shape": [
+    "R~380~290~2~2~40~20~#880000~1~0~none~gge3~0~",
+    "E~385~305~1.5~1.5~#880000~1~0~#880000~gge4~0",
+    "P~show~0~1~390~320~270~gge5~0^^390~320^^M 390 320 v -10~#880000^^1~394~306.3~270~1~start~~~#0000FF^^1~389~310.5~270~1~end~~~#0000FF^^0~390~313^^0~M 393 310 L 390 307 L 387 310",
+    "P~show~0~2~400~320~270~gge12~0^^400~320^^M 400 320 v -10~#880000^^1~404~306.3~270~2~start~~~#0000FF^^1~399~310.5~270~2~end~~~#0000FF^^0~400~313^^0~M 403 310 L 400 307 L 397 310",
+    "P~show~0~3~410~320~270~gge19~0^^410~320^^M 410 320 v -10~#880000^^1~414~306.3~270~3~start~~~#0000FF^^1~409~310.5~270~3~end~~~#0000FF^^0~410~313^^0~M 413 310 L 410 307 L 407 310",
+    "R~390~275~~~10~15~#880000~1~0~none~gge26~0~"
+  ],
+  "BBox": {
+    "x": 379.6,
+    "y": 275,
+    "width": 40.4,
+    "height": 46
+  },
+  "colors": {}
+}
