@@ -14677,6 +14677,12 @@
 		(uuid "06e09306-f316-408f-a4ab-af96faa15d4c")
 	)
 	(junction
+		(at 255.27 267.97)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "0c1b0fb4-3b80-4182-b4ff-101fbcc06b5f")
+	)
+	(junction
 		(at 392.43 41.91)
 		(diameter 0)
 		(color 0 0 0 0)
@@ -14695,6 +14701,12 @@
 		(uuid "1a11a4d1-3d21-4938-b2fc-05da3bc5707e")
 	)
 	(junction
+		(at 255.27 237.49)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "1e7daaed-f985-40e5-aa59-98d62c8abd6e")
+	)
+	(junction
 		(at 205.74 71.12)
 		(diameter 0)
 		(color 0 0 0 0)
@@ -14705,6 +14717,12 @@
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "25f51eeb-da4c-42f9-b6e5-e8d5055dd05c")
+	)
+	(junction
+		(at 374.65 22.86)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "2ee07e11-77b4-4d3d-af14-5f2dbcf5ab0f")
 	)
 	(junction
 		(at 62.23 124.46)
@@ -14839,6 +14857,12 @@
 		(uuid "8fb26ddc-b53e-44c7-9e76-28cedb809b4e")
 	)
 	(junction
+		(at 381 124.46)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "9028cca5-4a0f-4069-be32-9fdfb307a9e7")
+	)
+	(junction
 		(at 218.44 109.22)
 		(diameter 0)
 		(color 0 0 0 0)
@@ -14855,6 +14879,18 @@
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "926da5e5-65f3-467d-a571-bbd74b217dc9")
+	)
+	(junction
+		(at 182.88 232.41)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "9def71f8-0413-47d9-9404-8213a5fd9376")
+	)
+	(junction
+		(at 381 129.54)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "9fa2bef7-f802-49af-a443-e069f54ab353")
 	)
 	(junction
 		(at 86.36 121.92)
@@ -14885,6 +14921,12 @@
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "b44731e8-0afb-417c-b780-de83b52daf55")
+	)
+	(junction
+		(at 344.17 138.43)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "bc520449-f865-4f12-a01c-4b9136c1d1d5")
 	)
 	(junction
 		(at 318.77 186.69)
@@ -14989,6 +15031,12 @@
 		(uuid "f39da266-47b1-4eb6-a793-03d5b14b0605")
 	)
 	(junction
+		(at 334.01 128.27)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "f6a9b21e-a659-4d6a-8887-449211d0d3b0")
+	)
+	(junction
 		(at 382.27 102.87)
 		(diameter 0)
 		(color 0 0 0 0)
@@ -15046,6 +15094,16 @@
 	)
 	(wire
 		(pts
+			(xy 381 129.54) (xy 381 127)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "03475979-ffec-47e3-b8b6-f443b603e4f8")
+	)
+	(wire
+		(pts
 			(xy 207.01 88.9) (xy 207.01 105.41)
 		)
 		(stroke
@@ -15073,6 +15131,16 @@
 			(type default)
 		)
 		(uuid "04b8fdaf-4151-4385-b64e-f949d8d3effb")
+	)
+	(wire
+		(pts
+			(xy 364.49 144.78) (xy 364.49 146.05)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "0666fb77-e59b-48ff-bdcb-ce13f3ba0495")
 	)
 	(wire
 		(pts
@@ -15106,7 +15174,7 @@
 	)
 	(wire
 		(pts
-			(xy 336.55 189.23) (xy 336.55 203.2)
+			(xy 334.01 189.23) (xy 334.01 203.2)
 		)
 		(stroke
 			(width 0)
@@ -15196,13 +15264,23 @@
 	)
 	(wire
 		(pts
-			(xy 344.17 132.08) (xy 344.17 144.78)
+			(xy 344.17 132.08) (xy 344.17 138.43)
 		)
 		(stroke
 			(width 0)
 			(type default)
 		)
 		(uuid "15fc77de-4999-4b35-898c-c204d40e9432")
+	)
+	(wire
+		(pts
+			(xy 201.93 266.7) (xy 210.82 266.7)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "176f2be4-e9de-4b15-9f01-2c9c026df712")
 	)
 	(wire
 		(pts
@@ -15213,6 +15291,16 @@
 			(type default)
 		)
 		(uuid "192b4c7b-c229-4f69-88f3-5fc036c24b5a")
+	)
+	(wire
+		(pts
+			(xy 311.15 227.33) (xy 311.15 245.11)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "19383138-7ac9-424b-b5a5-7c7e94db05d9")
 	)
 	(wire
 		(pts
@@ -15256,7 +15344,7 @@
 	)
 	(wire
 		(pts
-			(xy 337.82 219.71) (xy 328.93 219.71)
+			(xy 325.12 219.71) (xy 337.82 219.71)
 		)
 		(stroke
 			(width 0)
@@ -15426,6 +15514,16 @@
 	)
 	(wire
 		(pts
+			(xy 255.27 231.14) (xy 255.27 237.49)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "293a210c-e5bb-4552-bb83-ebf6c3a40ae4")
+	)
+	(wire
+		(pts
 			(xy 185.42 62.23) (xy 185.42 58.42)
 		)
 		(stroke
@@ -15446,13 +15544,43 @@
 	)
 	(wire
 		(pts
-			(xy 381 132.08) (xy 381 127)
+			(xy 321.31 224.79) (xy 321.31 240.03)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "2b5f848e-bdc6-4230-865d-037eff786d58")
+	)
+	(wire
+		(pts
+			(xy 331.47 128.27) (xy 334.01 128.27)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "2c359aef-c64f-4f77-9efb-f4db0e9a7628")
+	)
+	(wire
+		(pts
+			(xy 381 132.08) (xy 381 129.54)
 		)
 		(stroke
 			(width 0)
 			(type default)
 		)
 		(uuid "2e0cdf7a-04cc-42e9-ad07-4f26a0a34b1b")
+	)
+	(wire
+		(pts
+			(xy 353.06 247.65) (xy 336.55 247.65)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "2e827c98-00e0-46f6-ab59-381a877c0162")
 	)
 	(wire
 		(pts
@@ -15513,6 +15641,16 @@
 			(type default)
 		)
 		(uuid "3147ccc9-affc-4363-89e0-9be66ccf0be2")
+	)
+	(wire
+		(pts
+			(xy 165.1 246.38) (xy 165.1 248.92)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "3164f6fb-b5dc-43a2-872c-f52bd53305cd")
 	)
 	(wire
 		(pts
@@ -15596,6 +15734,16 @@
 	)
 	(wire
 		(pts
+			(xy 374.65 22.86) (xy 374.65 31.75)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "38c06261-7379-43e1-8aaa-069b56fb9a44")
+	)
+	(wire
+		(pts
 			(xy 337.82 234.95) (xy 337.82 241.3)
 		)
 		(stroke
@@ -15603,6 +15751,16 @@
 			(type default)
 		)
 		(uuid "392ca21d-b10f-41d5-a4ed-1987c5aa013d")
+	)
+	(wire
+		(pts
+			(xy 353.06 245.11) (xy 353.06 247.65)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "3aa570cf-c604-481e-9724-4fcb698586e4")
 	)
 	(wire
 		(pts
@@ -15643,6 +15801,26 @@
 			(type default)
 		)
 		(uuid "419263c6-a260-4f33-be5e-be1ba89b5af6")
+	)
+	(wire
+		(pts
+			(xy 325.12 219.71) (xy 325.12 209.55)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "41956961-9fac-465b-a9f8-0c4ee0029290")
+	)
+	(wire
+		(pts
+			(xy 173.99 232.41) (xy 182.88 232.41)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "437ae9a0-7fb5-4503-95df-cbf2336b7703")
 	)
 	(wire
 		(pts
@@ -15696,6 +15874,16 @@
 	)
 	(wire
 		(pts
+			(xy 182.88 248.92) (xy 165.1 248.92)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "4c7cf2bc-e8ee-4176-bd66-7ad2dea6dedf")
+	)
+	(wire
+		(pts
 			(xy 203.2 71.12) (xy 205.74 71.12)
 		)
 		(stroke
@@ -15703,6 +15891,26 @@
 			(type default)
 		)
 		(uuid "4d9575b5-a28b-43e8-aa7c-ea59a0359cea")
+	)
+	(wire
+		(pts
+			(xy 345.44 138.43) (xy 344.17 138.43)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "4e3a99f2-1d3e-44a9-be09-9e0faf0ee232")
+	)
+	(wire
+		(pts
+			(xy 313.69 184.15) (xy 313.69 198.12)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "4ebe4a8b-0bc9-46e8-84a4-b954f2c71cf8")
 	)
 	(wire
 		(pts
@@ -16056,6 +16264,26 @@
 	)
 	(wire
 		(pts
+			(xy 381 129.54) (xy 384.81 129.54)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "70a1467a-9317-42aa-8d56-cd391a110519")
+	)
+	(wire
+		(pts
+			(xy 339.09 184.15) (xy 313.69 184.15)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "70f0b07e-692b-43d7-a19b-d477125c3428")
+	)
+	(wire
+		(pts
 			(xy 59.69 91.44) (xy 64.77 91.44)
 		)
 		(stroke
@@ -16093,6 +16321,16 @@
 			(type default)
 		)
 		(uuid "738b11b5-2b59-4a1f-b30b-293d92e8dc28")
+	)
+	(wire
+		(pts
+			(xy 248.92 231.14) (xy 255.27 231.14)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "73a5f62c-54cb-46c2-a727-41d8da6d8a78")
 	)
 	(wire
 		(pts
@@ -16136,23 +16374,13 @@
 	)
 	(wire
 		(pts
-			(xy 335.28 232.41) (xy 335.28 246.38)
+			(xy 336.55 232.41) (xy 336.55 247.65)
 		)
 		(stroke
 			(width 0)
 			(type default)
 		)
 		(uuid "79a2b3a3-77f8-4a51-8b93-a8904e7b2716")
-	)
-	(wire
-		(pts
-			(xy 328.93 213.36) (xy 328.93 219.71)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "7b3d4750-3e95-4340-bd56-98b69abdf2eb")
 	)
 	(wire
 		(pts
@@ -16163,6 +16391,16 @@
 			(type default)
 		)
 		(uuid "7b7ce82b-fa1f-4de7-903e-b794a2eecedd")
+	)
+	(wire
+		(pts
+			(xy 334.01 128.27) (xy 334.01 130.81)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "7b7fc284-6a72-405c-8754-38a0841ff4ed")
 	)
 	(wire
 		(pts
@@ -16186,7 +16424,7 @@
 	)
 	(wire
 		(pts
-			(xy 374.65 21.59) (xy 374.65 31.75)
+			(xy 374.65 21.59) (xy 374.65 22.86)
 		)
 		(stroke
 			(width 0)
@@ -16203,6 +16441,16 @@
 			(type default)
 		)
 		(uuid "812336c8-0616-4687-b6f4-3a58dbe33b8b")
+	)
+	(wire
+		(pts
+			(xy 255.27 261.62) (xy 255.27 267.97)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "81395465-b88e-40d3-a331-70a163d127ff")
 	)
 	(wire
 		(pts
@@ -16233,6 +16481,16 @@
 			(type default)
 		)
 		(uuid "8396fe5c-1837-4966-82e3-527941f46d14")
+	)
+	(wire
+		(pts
+			(xy 337.82 227.33) (xy 311.15 227.33)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "83a9aae9-6097-4adb-938d-45afc91cac20")
 	)
 	(wire
 		(pts
@@ -16283,6 +16541,16 @@
 			(type default)
 		)
 		(uuid "888edb96-1c37-4571-9065-c13724862282")
+	)
+	(wire
+		(pts
+			(xy 321.31 123.19) (xy 331.47 123.19)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "8bd4b3e9-5f00-4983-966d-62e48716096e")
 	)
 	(wire
 		(pts
@@ -16416,6 +16684,16 @@
 	)
 	(wire
 		(pts
+			(xy 248.92 261.62) (xy 255.27 261.62)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "9a1a9b50-fd5b-4d05-952f-6c2ba4c0b665")
+	)
+	(wire
+		(pts
 			(xy 107.95 50.8) (xy 101.6 50.8)
 		)
 		(stroke
@@ -16433,6 +16711,16 @@
 			(type default)
 		)
 		(uuid "9a57d32a-57b8-4953-9bc0-05cf018e943f")
+	)
+	(wire
+		(pts
+			(xy 339.09 181.61) (xy 311.15 181.61)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "9a94d635-c572-497e-89fd-165c756fc8f4")
 	)
 	(wire
 		(pts
@@ -16556,17 +16844,7 @@
 	)
 	(wire
 		(pts
-			(xy 210.82 257.81) (xy 210.82 264.16)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "a7286106-a056-4772-a63c-c94405facb47")
-	)
-	(wire
-		(pts
-			(xy 337.82 232.41) (xy 335.28 232.41)
+			(xy 336.55 232.41) (xy 337.82 232.41)
 		)
 		(stroke
 			(width 0)
@@ -16956,6 +17234,16 @@
 	)
 	(wire
 		(pts
+			(xy 331.47 123.19) (xy 331.47 128.27)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "c2b69fb2-b2a5-4275-b094-0aa7523ef6f1")
+	)
+	(wire
+		(pts
 			(xy 62.23 121.92) (xy 62.23 124.46)
 		)
 		(stroke
@@ -17016,13 +17304,23 @@
 	)
 	(wire
 		(pts
-			(xy 379.73 129.54) (xy 384.81 129.54)
+			(xy 379.73 129.54) (xy 381 129.54)
 		)
 		(stroke
 			(width 0)
 			(type default)
 		)
 		(uuid "c870f2da-259c-4cef-9825-0aeb126cd641")
+	)
+	(wire
+		(pts
+			(xy 210.82 266.7) (xy 210.82 257.81)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "c95ce07a-8c0d-4551-a83b-d339c45b44f5")
 	)
 	(wire
 		(pts
@@ -17096,7 +17394,7 @@
 	)
 	(wire
 		(pts
-			(xy 339.09 189.23) (xy 336.55 189.23)
+			(xy 334.01 189.23) (xy 339.09 189.23)
 		)
 		(stroke
 			(width 0)
@@ -17306,13 +17604,23 @@
 	)
 	(wire
 		(pts
-			(xy 334.01 127) (xy 334.01 130.81)
+			(xy 334.01 127) (xy 334.01 128.27)
 		)
 		(stroke
 			(width 0)
 			(type default)
 		)
 		(uuid "eb5f8e18-485d-4a63-a022-444563585e40")
+	)
+	(wire
+		(pts
+			(xy 325.12 209.55) (xy 337.82 209.55)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "ebd59f0b-33fb-44cb-8dc4-523f5e9953b0")
 	)
 	(wire
 		(pts
@@ -17333,6 +17641,16 @@
 			(type default)
 		)
 		(uuid "ee105b4c-8f3c-4f3f-a655-aedd79a1f08c")
+	)
+	(wire
+		(pts
+			(xy 337.82 224.79) (xy 321.31 224.79)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "ef1d2889-5936-46eb-8345-e174a5d40e7d")
 	)
 	(wire
 		(pts
@@ -17426,6 +17744,16 @@
 	)
 	(wire
 		(pts
+			(xy 344.17 138.43) (xy 344.17 144.78)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "f881266f-b2ad-4b04-b89d-8a083c6ea26b")
+	)
+	(wire
+		(pts
 			(xy 363.22 90.17) (xy 369.57 90.17)
 		)
 		(stroke
@@ -17473,6 +17801,16 @@
 			(type default)
 		)
 		(uuid "fd2e8533-88a5-4bd9-bdc9-b8bf957431d1")
+	)
+	(wire
+		(pts
+			(xy 311.15 181.61) (xy 311.15 204.47)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "fe7f9ecd-d526-4d6b-9a77-4899350a2e5d")
 	)
 	(wire
 		(pts
@@ -18045,7 +18383,7 @@
 		(uuid "96889505-ab80-4acc-9639-a9edbb1d607c")
 	)
 	(label "MOTOR2_A_OUT"
-		(at 336.55 203.2 0)
+		(at 334.01 203.2 0)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -18135,7 +18473,7 @@
 		(uuid "a8b1db1d-36b1-4d23-9d5a-e4ab4abfff3b")
 	)
 	(label "MOTOR3_A_OUT"
-		(at 328.93 213.36 0)
+		(at 325.12 213.36 0)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -18265,7 +18603,7 @@
 		(uuid "dd754c9f-86e8-47c3-afd0-55342a0a4dba")
 	)
 	(label "MOTOR4_A_OUT"
-		(at 335.28 246.38 0)
+		(at 336.55 246.38 0)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -18376,7 +18714,7 @@
 			(fill
 				(type none)
 			)
-			(uuid 1da6f1fc-ae94-4ce0-8ec2-692276e57215)
+			(uuid 240c6f08-32e2-40ea-97e1-c567aaab07f8)
 		)
 	)
 	(rule_area
@@ -18391,7 +18729,7 @@
 			(fill
 				(type none)
 			)
-			(uuid 39973c27-5c62-49d6-9ed4-0f94c812d7a0)
+			(uuid 3b0f51ba-c11a-486d-bb22-e0fc05096bd5)
 		)
 	)
 	(rule_area
@@ -18406,7 +18744,7 @@
 			(fill
 				(type none)
 			)
-			(uuid 57a041b4-53c1-4011-821c-3e319c143fe3)
+			(uuid c21912e0-bdfa-40ca-8910-49dafc1a18fa)
 		)
 	)
 	(rule_area
@@ -18421,13 +18759,13 @@
 			(fill
 				(type none)
 			)
-			(uuid c2b61967-dbc1-4a52-a8fa-8da7bb51f408)
+			(uuid d9a4c99f-a75e-4deb-9c2d-204e322500aa)
 		)
 	)
 	(rule_area
 		(polyline
 			(pts
-				(xy 163.83 227.33) (xy 163.83 280.67) (xy 229.87 280.67) (xy 229.87 227.33)
+				(xy 164.338 228.092) (xy 164.338 281.432) (xy 230.378 281.432) (xy 230.378 228.092)
 			)
 			(stroke
 				(width 0)
@@ -18436,7 +18774,7 @@
 			(fill
 				(type none)
 			)
-			(uuid e6bfaf37-40cb-4a2c-8d1b-4579b9184377)
+			(uuid e7897246-d0e9-4883-b5d4-a02d718d5ff6)
 		)
 	)
 	(symbol
@@ -18500,6 +18838,72 @@
 			(project ""
 				(path "/f23689db-9b6c-49fb-9c64-c652802710b2"
 					(reference "TP11")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "Connector:TestPoint")
+		(at 353.06 245.11 270)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(uuid "036620ad-5c02-44ba-864e-072cbe81b5db")
+		(property "Reference" "TP39"
+			(at 358.648 245.11 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Value" "TP VM4A OUT"
+			(at 354.33 247.142 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Footprint" ""
+			(at 353.06 250.19 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" "~"
+			(at 353.06 250.19 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" "test point"
+			(at 353.06 245.11 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "1"
+			(uuid "e98fb1a5-4f5b-4c09-9eb0-181467af1558")
+		)
+		(instances
+			(project "EEE3088F_PCB_Project"
+				(path "/f23689db-9b6c-49fb-9c64-c652802710b2"
+					(reference "TP39")
 					(unit 1)
 				)
 			)
@@ -19155,6 +19559,72 @@
 		)
 	)
 	(symbol
+		(lib_id "Connector:TestPoint")
+		(at 248.92 261.62 0)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(uuid "0e33c1d9-7908-413e-9229-561e6ebbd834")
+		(property "Reference" "TP26"
+			(at 251.46 257.0479 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Value" "TP VGS 2"
+			(at 250.444 259.588 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Footprint" ""
+			(at 254 261.62 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" "~"
+			(at 254 261.62 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" "test point"
+			(at 248.92 261.62 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "1"
+			(uuid "c8be9ac0-6e39-47f0-bbed-786361c3af5e")
+		)
+		(instances
+			(project "EEE3088F_PCB_Project"
+				(path "/f23689db-9b6c-49fb-9c64-c652802710b2"
+					(reference "TP26")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
 		(lib_id "CL31A106KBHNNNE:CL31A106KBHNNNE")
 		(at 384.81 142.24 90)
 		(unit 1)
@@ -19291,6 +19761,72 @@
 			(project ""
 				(path "/f23689db-9b6c-49fb-9c64-c652802710b2"
 					(reference "C11")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "Connector:TestPoint")
+		(at 283.21 270.51 180)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(uuid "1297cadc-2abd-4312-87ea-f92a6babd407")
+		(property "Reference" "TP28"
+			(at 284.734 273.304 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+		)
+		(property "Value" "TP LOAD 2"
+			(at 284.48 275.59 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+		)
+		(property "Footprint" ""
+			(at 278.13 270.51 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" "~"
+			(at 278.13 270.51 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" "test point"
+			(at 283.21 270.51 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "1"
+			(uuid "0f8862a9-b6f5-462e-96a2-c6340db0c541")
+		)
+		(instances
+			(project "EEE3088F_PCB_Project"
+				(path "/f23689db-9b6c-49fb-9c64-c652802710b2"
+					(reference "TP28")
 					(unit 1)
 				)
 			)
@@ -21243,6 +21779,72 @@
 		)
 	)
 	(symbol
+		(lib_id "Connector:TestPoint")
+		(at 234.95 242.57 180)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(uuid "2a3bae28-ea9e-4873-b3f8-e94924e68cf4")
+		(property "Reference" "TP23"
+			(at 236.22 246.38 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+		)
+		(property "Value" "TP CRT 1"
+			(at 234.188 248.412 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+		)
+		(property "Footprint" ""
+			(at 229.87 242.57 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" "~"
+			(at 229.87 242.57 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" "test point"
+			(at 234.95 242.57 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "1"
+			(uuid "012f874d-7f94-4bbb-b679-d73be431eede")
+		)
+		(instances
+			(project ""
+				(path "/f23689db-9b6c-49fb-9c64-c652802710b2"
+					(reference "TP23")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
 		(lib_id "power:GND")
 		(at 318.77 189.23 0)
 		(unit 1)
@@ -21493,6 +22095,72 @@
 			(project ""
 				(path "/f23689db-9b6c-49fb-9c64-c652802710b2"
 					(reference "R14")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "Connector:TestPoint")
+		(at 363.22 29.21 0)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(uuid "341e2b96-1ab2-4661-956d-fa4618afdb63")
+		(property "Reference" "TP19"
+			(at 361.696 24.13 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Value" "TP FB 5V"
+			(at 360.172 27.432 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Footprint" ""
+			(at 368.3 29.21 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" "~"
+			(at 368.3 29.21 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" "test point"
+			(at 363.22 29.21 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "1"
+			(uuid "5b2df5f9-4ae5-431b-b2a7-505d67cd76e0")
+		)
+		(instances
+			(project "EEE3088F_PCB_Project"
+				(path "/f23689db-9b6c-49fb-9c64-c652802710b2"
+					(reference "TP19")
 					(unit 1)
 				)
 			)
@@ -23325,7 +23993,7 @@
 		(dnp no)
 		(uuid "581f85a7-ed77-4a95-931c-05a21c334f7a")
 		(property "Reference" "R13"
-			(at 371.348 26.924 90)
+			(at 370.332 32.512 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -23333,7 +24001,7 @@
 			)
 		)
 		(property "Value" "150k"
-			(at 371.094 29.718 90)
+			(at 365.506 34.036 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -23565,6 +24233,73 @@
 			(project ""
 				(path "/f23689db-9b6c-49fb-9c64-c652802710b2"
 					(reference "TP1")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "Connector:TestPoint")
+		(at 382.27 105.41 180)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(uuid "5e4ad44f-50a1-435d-8d00-1df0390611fc")
+		(property "Reference" "TP16"
+			(at 384.81 107.4419 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+		)
+		(property "Value" "TP VIN 5V"
+			(at 384.81 109.9819 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+		)
+		(property "Footprint" ""
+			(at 377.19 105.41 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" "~"
+			(at 377.19 105.41 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" "test point"
+			(at 382.27 105.41 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "1"
+			(uuid "57990e6e-b2ae-4421-a62b-1a7e1c4edee0")
+		)
+		(instances
+			(project ""
+				(path "/f23689db-9b6c-49fb-9c64-c652802710b2"
+					(reference "TP16")
 					(unit 1)
 				)
 			)
@@ -23978,6 +24713,70 @@
 		)
 	)
 	(symbol
+		(lib_id "Connector:TestPoint")
+		(at 173.99 232.41 90)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(uuid "67427f3d-03b8-442c-8da2-9e5d86ea1f6d")
+		(property "Reference" "TP30"
+			(at 171.45 230.124 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Value" "TP VSHUNT"
+			(at 170.942 234.95 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Footprint" ""
+			(at 173.99 227.33 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" "~"
+			(at 173.99 227.33 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" "test point"
+			(at 173.99 232.41 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "1"
+			(uuid "7c326834-b3ac-4d98-a36e-1a0aa8f9e9d4")
+		)
+		(instances
+			(project "EEE3088F_PCB_Project"
+				(path "/f23689db-9b6c-49fb-9c64-c652802710b2"
+					(reference "TP30")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
 		(lib_id "0805W8F1503T5E:0805W8F1503T5E")
 		(at 354.33 144.78 0)
 		(unit 1)
@@ -24305,6 +25104,138 @@
 		)
 	)
 	(symbol
+		(lib_id "Connector:TestPoint")
+		(at 311.15 204.47 270)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(uuid "6fa65b2e-41cf-417c-99ad-cd98caf45c63")
+		(property "Reference" "TP36"
+			(at 316.23 204.978 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Value" "TP VM1B OUT"
+			(at 311.658 207.264 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Footprint" ""
+			(at 311.15 209.55 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" "~"
+			(at 311.15 209.55 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" "test point"
+			(at 311.15 204.47 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "1"
+			(uuid "23f34810-7f78-44cd-bfb3-8730a4d62d3e")
+		)
+		(instances
+			(project "EEE3088F_PCB_Project"
+				(path "/f23689db-9b6c-49fb-9c64-c652802710b2"
+					(reference "TP36")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "Connector:TestPoint")
+		(at 330.2 170.18 0)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(uuid "7023665b-d1b9-4bde-9d13-5d7fd204b457")
+		(property "Reference" "TP34"
+			(at 329.184 162.306 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Value" "TP VM1A OUT"
+			(at 326.644 165.1 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Footprint" ""
+			(at 335.28 170.18 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" "~"
+			(at 335.28 170.18 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" "test point"
+			(at 330.2 170.18 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "1"
+			(uuid "19633585-ddde-4fec-97e8-7010fa7fb97e")
+		)
+		(instances
+			(project "EEE3088F_PCB_Project"
+				(path "/f23689db-9b6c-49fb-9c64-c652802710b2"
+					(reference "TP34")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
 		(lib_name "AO3401A_1")
 		(lib_id "AO3401A:AO3401A")
 		(at 275.59 257.81 0)
@@ -24445,6 +25376,204 @@
 			(project "EEE3088F_PCB_Project"
 				(path "/f23689db-9b6c-49fb-9c64-c652802710b2"
 					(reference "Q6")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "Connector:TestPoint")
+		(at 321.31 123.19 90)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(uuid "715fa97f-8cd7-4bbf-b232-1d029ff80725")
+		(property "Reference" "TP18"
+			(at 318.008 118.11 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Value" "TP VOUT 3V3"
+			(at 318.008 120.65 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Footprint" ""
+			(at 321.31 118.11 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" "~"
+			(at 321.31 118.11 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" "test point"
+			(at 321.31 123.19 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "1"
+			(uuid "36dc887d-fa1f-4fb3-a506-773a4aff6f68")
+		)
+		(instances
+			(project "EEE3088F_PCB_Project"
+				(path "/f23689db-9b6c-49fb-9c64-c652802710b2"
+					(reference "TP18")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "Connector:TestPoint")
+		(at 313.69 198.12 270)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(uuid "71792d95-c126-45b3-8246-260cd7668ee4")
+		(property "Reference" "TP35"
+			(at 319.278 198.12 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Value" "TP VM2B OUT"
+			(at 314.96 200.406 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Footprint" ""
+			(at 313.69 203.2 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" "~"
+			(at 313.69 203.2 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" "test point"
+			(at 313.69 198.12 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "1"
+			(uuid "2e475f56-8081-4748-a154-67d2a81512e2")
+		)
+		(instances
+			(project "EEE3088F_PCB_Project"
+				(path "/f23689db-9b6c-49fb-9c64-c652802710b2"
+					(reference "TP35")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "Connector:TestPoint")
+		(at 344.17 113.03 0)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(uuid "757ac327-3671-44b7-85af-260de1e5b1d9")
+		(property "Reference" "TP21"
+			(at 346.71 108.4579 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Value" "TP GND 3V3"
+			(at 346.71 110.9979 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Footprint" ""
+			(at 349.25 113.03 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" "~"
+			(at 349.25 113.03 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" "test point"
+			(at 344.17 113.03 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "1"
+			(uuid "5bd1decf-3367-4dc5-a2e0-fc8f481117fe")
+		)
+		(instances
+			(project "EEE3088F_PCB_Project"
+				(path "/f23689db-9b6c-49fb-9c64-c652802710b2"
+					(reference "TP21")
 					(unit 1)
 				)
 			)
@@ -24962,6 +26091,70 @@
 			(project ""
 				(path "/f23689db-9b6c-49fb-9c64-c652802710b2"
 					(reference "R12")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "Connector:TestPoint")
+		(at 334.01 203.2 90)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(uuid "7bf34ebb-d776-4276-a2ac-b59833a567cf")
+		(property "Reference" "TP33"
+			(at 330.708 200.914 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Value" "TP VM2A OUT"
+			(at 331.47 205.74 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Footprint" ""
+			(at 334.01 198.12 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" "~"
+			(at 334.01 198.12 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" "test point"
+			(at 334.01 203.2 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "1"
+			(uuid "6a6483ed-41b5-4ee7-b28b-cd7c11cba3fc")
+		)
+		(instances
+			(project "EEE3088F_PCB_Project"
+				(path "/f23689db-9b6c-49fb-9c64-c652802710b2"
+					(reference "TP33")
 					(unit 1)
 				)
 			)
@@ -25831,8 +27024,72 @@
 		)
 	)
 	(symbol
+		(lib_id "Connector:TestPoint")
+		(at 374.65 22.86 90)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(uuid "8a98716f-38f9-4b39-95ab-d8c4f7246765")
+		(property "Reference" "TP17"
+			(at 368.554 18.288 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Value" "TP VOUT 5V"
+			(at 368.3 20.828 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Footprint" ""
+			(at 374.65 17.78 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" "~"
+			(at 374.65 17.78 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" "test point"
+			(at 374.65 22.86 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "1"
+			(uuid "36dc887d-fa1f-4fb3-a506-773a4aff6f68")
+		)
+		(instances
+			(project ""
+				(path "/f23689db-9b6c-49fb-9c64-c652802710b2"
+					(reference "TP17")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
 		(lib_id "power:GND")
-		(at 364.49 144.78 0)
+		(at 364.49 146.05 0)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -25841,7 +27098,7 @@
 		(fields_autoplaced yes)
 		(uuid "8a99825d-a512-4f84-b739-cdd4e46ffcd1")
 		(property "Reference" "#PWR010"
-			(at 364.49 151.13 0)
+			(at 364.49 152.4 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -25850,7 +27107,7 @@
 			)
 		)
 		(property "Value" "GND"
-			(at 364.49 149.86 0)
+			(at 364.49 151.13 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -25858,7 +27115,7 @@
 			)
 		)
 		(property "Footprint" ""
-			(at 364.49 144.78 0)
+			(at 364.49 146.05 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -25867,7 +27124,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 364.49 144.78 0)
+			(at 364.49 146.05 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -25876,7 +27133,7 @@
 			)
 		)
 		(property "Description" "Power symbol creates a global label with name \"GND\" , ground"
-			(at 364.49 144.78 0)
+			(at 364.49 146.05 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -25957,6 +27214,72 @@
 			(project ""
 				(path "/f23689db-9b6c-49fb-9c64-c652802710b2"
 					(reference "#PWR014")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "Connector:TestPoint")
+		(at 321.31 240.03 270)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(uuid "8f91a16e-62c8-4b19-a986-2d26475b6ce2")
+		(property "Reference" "TP38"
+			(at 326.136 240.284 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Value" "TP VM3B OUT"
+			(at 321.31 242.316 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Footprint" ""
+			(at 321.31 245.11 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" "~"
+			(at 321.31 245.11 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" "test point"
+			(at 321.31 240.03 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "1"
+			(uuid "c09e3d71-813b-4e78-9c4b-df1e4e429284")
+		)
+		(instances
+			(project "EEE3088F_PCB_Project"
+				(path "/f23689db-9b6c-49fb-9c64-c652802710b2"
+					(reference "TP38")
 					(unit 1)
 				)
 			)
@@ -26061,6 +27384,138 @@
 			(project ""
 				(path "/f23689db-9b6c-49fb-9c64-c652802710b2"
 					(reference "LED1")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "Connector:TestPoint")
+		(at 381 124.46 0)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(uuid "901ef112-9d11-40cc-9132-cabd84fba7c4")
+		(property "Reference" "TP15"
+			(at 383.54 119.8879 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Value" "TP VIN 3V3"
+			(at 383.54 122.4279 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Footprint" ""
+			(at 386.08 124.46 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" "~"
+			(at 386.08 124.46 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" "test point"
+			(at 381 124.46 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "1"
+			(uuid "0e3f8112-9060-45a9-a88c-60d3a7191993")
+		)
+		(instances
+			(project ""
+				(path "/f23689db-9b6c-49fb-9c64-c652802710b2"
+					(reference "TP15")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "Connector:TestPoint")
+		(at 234.95 273.05 180)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(uuid "9078a5e8-e982-4322-a34c-5b324414ce49")
+		(property "Reference" "TP24"
+			(at 236.474 276.86 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+		)
+		(property "Value" "TP CRT 2"
+			(at 234.696 278.892 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+		)
+		(property "Footprint" ""
+			(at 229.87 273.05 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" "~"
+			(at 229.87 273.05 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" "test point"
+			(at 234.95 273.05 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "1"
+			(uuid "1a271846-ae6a-4ac8-a849-74350d2afb29")
+		)
+		(instances
+			(project "EEE3088F_PCB_Project"
+				(path "/f23689db-9b6c-49fb-9c64-c652802710b2"
+					(reference "TP24")
 					(unit 1)
 				)
 			)
@@ -26492,6 +27947,72 @@
 	)
 	(symbol
 		(lib_id "Connector:TestPoint")
+		(at 283.21 240.03 180)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(uuid "97006794-a67a-49ed-b014-7a3e05a663bc")
+		(property "Reference" "TP27"
+			(at 285.242 242.824 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+		)
+		(property "Value" "TP LOAD 1"
+			(at 284.48 244.856 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+		)
+		(property "Footprint" ""
+			(at 278.13 240.03 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" "~"
+			(at 278.13 240.03 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" "test point"
+			(at 283.21 240.03 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "1"
+			(uuid "28a77c4c-fb25-400b-b88d-4ae5ac8e2510")
+		)
+		(instances
+			(project "EEE3088F_PCB_Project"
+				(path "/f23689db-9b6c-49fb-9c64-c652802710b2"
+					(reference "TP27")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "Connector:TestPoint")
 		(at 134.62 114.3 270)
 		(unit 1)
 		(exclude_from_sim no)
@@ -26696,6 +28217,72 @@
 		)
 	)
 	(symbol
+		(lib_id "Connector:TestPoint")
+		(at 165.1 246.38 0)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(uuid "9eda9e2d-0f97-4b35-8b52-4215d76769a3")
+		(property "Reference" "TP29"
+			(at 166.116 243.586 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Value" "TP VSHUNT"
+			(at 165.608 246.126 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Footprint" ""
+			(at 170.18 246.38 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" "~"
+			(at 170.18 246.38 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" "test point"
+			(at 165.1 246.38 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "1"
+			(uuid "19ce68f3-5a8b-49bd-9a40-33b75f324d0b")
+		)
+		(instances
+			(project "EEE3088F_PCB_Project"
+				(path "/f23689db-9b6c-49fb-9c64-c652802710b2"
+					(reference "TP29")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
 		(lib_id "power:GND")
 		(at 76.2 138.43 0)
 		(unit 1)
@@ -26823,6 +28410,72 @@
 			(project "EEE3088F_PCB_Project"
 				(path "/f23689db-9b6c-49fb-9c64-c652802710b2"
 					(reference "TP6")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "Connector:TestPoint")
+		(at 337.82 209.55 270)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(uuid "a3e26a5a-d400-4927-abbc-b5a5d274395b")
+		(property "Reference" "TP40"
+			(at 342.392 210.058 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Value" "TP VM3A OUT"
+			(at 338.582 208.026 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Footprint" ""
+			(at 337.82 214.63 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" "~"
+			(at 337.82 214.63 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" "test point"
+			(at 337.82 209.55 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "1"
+			(uuid "5ddaf215-98a6-4697-a237-8d9ae1f7c0a1")
+		)
+		(instances
+			(project "EEE3088F_PCB_Project"
+				(path "/f23689db-9b6c-49fb-9c64-c652802710b2"
+					(reference "TP40")
 					(unit 1)
 				)
 			)
@@ -28723,6 +30376,72 @@
 		)
 	)
 	(symbol
+		(lib_id "Connector:TestPoint")
+		(at 392.43 41.91 270)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(uuid "c3842cfc-a97a-4217-83c5-22ecafaa24e3")
+		(property "Reference" "TP22"
+			(at 397.764 42.672 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Value" "TP GND 5V"
+			(at 393.446 45.212 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Footprint" ""
+			(at 392.43 46.99 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" "~"
+			(at 392.43 46.99 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" "test point"
+			(at 392.43 41.91 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "1"
+			(uuid "f913fd9a-d520-46a5-a2a9-6807a1dc99c2")
+		)
+		(instances
+			(project "EEE3088F_PCB_Project"
+				(path "/f23689db-9b6c-49fb-9c64-c652802710b2"
+					(reference "TP22")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
 		(lib_id "1MS1TIB1M2QES-5:1MS1T1B1M1QES-5")
 		(at 113.03 50.8 270)
 		(unit 1)
@@ -28825,6 +30544,72 @@
 			(project ""
 				(path "/f23689db-9b6c-49fb-9c64-c652802710b2"
 					(reference "SW1")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "Connector:TestPoint")
+		(at 345.44 138.43 270)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(uuid "c60d3858-2877-4b10-bf51-0477837dac74")
+		(property "Reference" "TP20"
+			(at 346.456 135.128 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Value" "TP FB 3V3"
+			(at 344.932 140.716 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Footprint" ""
+			(at 345.44 143.51 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" "~"
+			(at 345.44 143.51 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" "test point"
+			(at 345.44 138.43 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "1"
+			(uuid "c2c5384c-b338-4325-ba56-588806a70e69")
+		)
+		(instances
+			(project "EEE3088F_PCB_Project"
+				(path "/f23689db-9b6c-49fb-9c64-c652802710b2"
+					(reference "TP20")
 					(unit 1)
 				)
 			)
@@ -29049,6 +30834,72 @@
 			(project ""
 				(path "/f23689db-9b6c-49fb-9c64-c652802710b2"
 					(reference "IC5")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "Connector:TestPoint")
+		(at 248.92 231.14 0)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(uuid "cb914c99-8d19-4eed-b3cf-076d5abc1fc3")
+		(property "Reference" "TP25"
+			(at 251.46 226.5679 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Value" "TP VGS 1"
+			(at 250.19 229.362 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Footprint" ""
+			(at 254 231.14 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" "~"
+			(at 254 231.14 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" "test point"
+			(at 248.92 231.14 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "1"
+			(uuid "138510d3-bf3b-4b97-b524-207ce164fac8")
+		)
+		(instances
+			(project "EEE3088F_PCB_Project"
+				(path "/f23689db-9b6c-49fb-9c64-c652802710b2"
+					(reference "TP25")
 					(unit 1)
 				)
 			)
@@ -30002,6 +31853,202 @@
 			(project ""
 				(path "/f23689db-9b6c-49fb-9c64-c652802710b2"
 					(reference "L2")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "Connector:TestPoint")
+		(at 201.93 266.7 90)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(uuid "e9239eb3-b892-4db7-a73d-a6d8b9b5c04e")
+		(property "Reference" "TP32"
+			(at 199.136 269.24 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Value" "TP SDL"
+			(at 198.882 271.272 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Footprint" ""
+			(at 201.93 261.62 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" "~"
+			(at 201.93 261.62 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" "test point"
+			(at 201.93 266.7 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "1"
+			(uuid "fc861afd-5255-4cef-8b51-b9b0de8e92f0")
+		)
+		(instances
+			(project "EEE3088F_PCB_Project"
+				(path "/f23689db-9b6c-49fb-9c64-c652802710b2"
+					(reference "TP32")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "Connector:TestPoint")
+		(at 311.15 245.11 270)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(uuid "eaf84986-ca2d-4556-9896-8e94e1a635af")
+		(property "Reference" "TP37"
+			(at 311.912 243.332 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Value" "TP VM4B OUT"
+			(at 311.15 247.142 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Footprint" ""
+			(at 311.15 250.19 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" "~"
+			(at 311.15 250.19 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" "test point"
+			(at 311.15 245.11 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "1"
+			(uuid "874f92db-137c-4959-a7b9-d96a34e8ea07")
+		)
+		(instances
+			(project "EEE3088F_PCB_Project"
+				(path "/f23689db-9b6c-49fb-9c64-c652802710b2"
+					(reference "TP37")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "Connector:TestPoint")
+		(at 219.71 257.81 270)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(uuid "ef6ff46f-db78-4d47-b9a5-56821d2ad5df")
+		(property "Reference" "TP31"
+			(at 224.536 257.556 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Value" "TP SDA"
+			(at 223.52 259.334 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Footprint" ""
+			(at 219.71 262.89 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" "~"
+			(at 219.71 262.89 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" "test point"
+			(at 219.71 257.81 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "1"
+			(uuid "bc29b01d-fec6-4908-abd7-08980c84953c")
+		)
+		(instances
+			(project "EEE3088F_PCB_Project"
+				(path "/f23689db-9b6c-49fb-9c64-c652802710b2"
+					(reference "TP31")
 					(unit 1)
 				)
 			)
