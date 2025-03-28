@@ -28226,26 +28226,6 @@
 		(layer "Edge.Cuts")
 		(uuid "0cbdefb4-ffd3-4e5e-bf98-2412add61e30")
 	)
-	(gr_line
-		(start 163.725 110.3)
-		(end 181.275 95.55)
-		(stroke
-			(width 0.05)
-			(type default)
-		)
-		(layer "Edge.Cuts")
-		(uuid "1af3b274-971d-4f57-b59e-bdd2e28693a5")
-	)
-	(gr_line
-		(start 163.725 110.3)
-		(end 121.975 110.3)
-		(stroke
-			(width 0.05)
-			(type default)
-		)
-		(layer "Edge.Cuts")
-		(uuid "716855ca-6bbd-4fa6-8b2a-64c2554ab177")
-	)
 	(gr_arc
 		(start 141.925131 122.95)
 		(mid 120.833794 119.608411)
@@ -28269,26 +28249,6 @@
 		(uuid "a35fde55-fccd-4fcd-8b6e-edb7ff55737b")
 	)
 	(gr_line
-		(start 104.025 95.25)
-		(end 103.975 57.35)
-		(stroke
-			(width 0.05)
-			(type default)
-		)
-		(layer "Edge.Cuts")
-		(uuid "b158fe4b-5c97-46d5-bfbe-5925f891ee1c")
-	)
-	(gr_line
-		(start 181.275 57.35)
-		(end 181.275 95.55)
-		(stroke
-			(width 0.05)
-			(type default)
-		)
-		(layer "Edge.Cuts")
-		(uuid "c5b9a1b4-7c2b-435a-9e38-22cf64d9cf46")
-	)
-	(gr_line
 		(start 183.625 110.279265)
 		(end 183.625 50.3)
 		(stroke
@@ -28297,26 +28257,6 @@
 		)
 		(layer "Edge.Cuts")
 		(uuid "ccf03d5e-3b7b-4a39-86e1-4044605371ee")
-	)
-	(gr_line
-		(start 103.975 57.35)
-		(end 181.275 57.35)
-		(stroke
-			(width 0.05)
-			(type default)
-		)
-		(layer "Edge.Cuts")
-		(uuid "ccff6712-0a92-4cf0-a099-9ee9d5f6d377")
-	)
-	(gr_line
-		(start 121.975 110.3)
-		(end 104.025 95.25)
-		(stroke
-			(width 0.05)
-			(type default)
-		)
-		(layer "Edge.Cuts")
-		(uuid "f5679e44-79b9-41dd-a551-66b872e90dbf")
 	)
 	(gr_line
 		(start 101.625 50.3)
@@ -28350,18 +28290,6 @@
 				(thickness 0.1)
 			)
 			(justify left bottom mirror)
-		)
-	)
-	(group ""
-		(uuid "24b3ea42-c131-4b4b-b16c-09cd5464af97")
-		(members "0cbdefb4-ffd3-4e5e-bf98-2412add61e30" "1af3b274-971d-4f57-b59e-bdd2e28693a5"
-			"5291272b-a638-4bb0-a21b-5801448beceb" "68465a2c-e8af-4107-a256-f06b8397cc0f"
-			"716855ca-6bbd-4fa6-8b2a-64c2554ab177" "78a048c7-bac2-455d-a5a4-28093bc1cfd6"
-			"a35fde55-fccd-4fcd-8b6e-edb7ff55737b" "b158fe4b-5c97-46d5-bfbe-5925f891ee1c"
-			"ba3a723a-d800-4526-8410-a57ee09ce8b4" "c57aac70-e84c-4ef6-aaeb-e46ee8fe75e7"
-			"c5b9a1b4-7c2b-435a-9e38-22cf64d9cf46" "ccf03d5e-3b7b-4a39-86e1-4044605371ee"
-			"ccff6712-0a92-4cf0-a099-9ee9d5f6d377" "f5679e44-79b9-41dd-a551-66b872e90dbf"
-			"fa173fef-cddd-4ed4-ac79-aa5434545500"
 		)
 	)
 	(embedded_fonts no)
