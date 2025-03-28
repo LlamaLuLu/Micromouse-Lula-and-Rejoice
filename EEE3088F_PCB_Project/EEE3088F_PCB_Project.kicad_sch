@@ -18610,7 +18610,7 @@
 		)
 		(uuid "031a8bae-875c-4b93-b99f-ece0ce54daba")
 	)
-	(label "V-REG"
+	(label "PWR SWITCH OUT"
 		(at 125.73 63.5 0)
 		(effects
 			(font
@@ -19492,37 +19492,7 @@
 			(fill
 				(type none)
 			)
-			(uuid 2ce1dde1-ed6c-4ecc-9d50-1c0a625f0a13)
-		)
-	)
-	(rule_area
-		(polyline
-			(pts
-				(xy 316.103 155.194) (xy 403.733 155.194) (xy 404.241 15.494) (xy 316.611 15.494)
-			)
-			(stroke
-				(width 0)
-				(type dash)
-			)
-			(fill
-				(type none)
-			)
-			(uuid 3b5fc6aa-6230-4887-a593-fd5707ce4297)
-		)
-	)
-	(rule_area
-		(polyline
-			(pts
-				(xy 309.245 158.75) (xy 403.86 158.75) (xy 403.86 248.92) (xy 309.245 248.92)
-			)
-			(stroke
-				(width 0)
-				(type dash)
-			)
-			(fill
-				(type none)
-			)
-			(uuid 3d194f5d-c3ec-4bfe-bbec-3c003dceab32)
+			(uuid 13f432aa-18a2-46a8-8154-6a4fa2605b4b)
 		)
 	)
 	(rule_area
@@ -19537,7 +19507,7 @@
 			(fill
 				(type none)
 			)
-			(uuid 7ddf932f-d5e6-4a75-8375-4340b387cbcc)
+			(uuid 290241b9-8c80-4a52-9dcd-6fe408803987)
 		)
 	)
 	(rule_area
@@ -19552,7 +19522,37 @@
 			(fill
 				(type none)
 			)
-			(uuid ffae08d9-2bf9-47b1-b5c8-e6a9c115e3fd)
+			(uuid 49155e77-738d-4ff1-b85f-b12c8938153b)
+		)
+	)
+	(rule_area
+		(polyline
+			(pts
+				(xy 309.245 158.75) (xy 403.86 158.75) (xy 403.86 248.92) (xy 309.245 248.92)
+			)
+			(stroke
+				(width 0)
+				(type dash)
+			)
+			(fill
+				(type none)
+			)
+			(uuid c882f57b-cdb9-4657-929d-bead268cf9d9)
+		)
+	)
+	(rule_area
+		(polyline
+			(pts
+				(xy 316.103 155.194) (xy 403.733 155.194) (xy 404.241 15.494) (xy 316.611 15.494)
+			)
+			(stroke
+				(width 0)
+				(type dash)
+			)
+			(fill
+				(type none)
+			)
+			(uuid e690b36e-76de-4cee-9f0d-edf6e05a71a4)
 		)
 	)
 	(symbol
