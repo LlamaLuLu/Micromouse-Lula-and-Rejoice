@@ -1472,7 +1472,7 @@
 	(footprint "TestPoint:TestPoint_Pad_D1.5mm"
 		(layer "F.Cu")
 		(uuid "1910df6f-5706-4a68-aa31-8e78d0292176")
-		(at 126.15 91.5)
+		(at 123.5 89.05)
 		(descr "SMD pad as test Point, diameter 1.5mm")
 		(tags "test point SMD pad")
 		(property "Reference" "TP31"
@@ -6790,7 +6790,7 @@
 	(footprint "1206W4F4701T5E:RESC3115X65N"
 		(layer "F.Cu")
 		(uuid "4c2c8fde-6259-427e-b468-e3d8625fc385")
-		(at 121.95 93.1)
+		(at 119.3 90.65)
 		(property "Reference" "R3"
 			(at 0 0 0)
 			(layer "F.SilkS")
@@ -10302,7 +10302,7 @@
 	(footprint "TestPoint:TestPoint_Pad_D1.5mm"
 		(layer "F.Cu")
 		(uuid "6dbef60a-59ba-451d-943d-ee92007b229d")
-		(at 117.85 101.85)
+		(at 115.2 99.4)
 		(descr "SMD pad as test Point, diameter 1.5mm")
 		(tags "test point SMD pad")
 		(property "Reference" "TP30"
@@ -12771,7 +12771,7 @@
 	(footprint "TestPoint:TestPoint_Pad_D1.5mm"
 		(layer "F.Cu")
 		(uuid "7c7d3721-ff45-4c0d-884e-438c0d67fc9f")
-		(at 112.9 97.45)
+		(at 110.25 95)
 		(descr "SMD pad as test Point, diameter 1.5mm")
 		(tags "test point SMD pad")
 		(property "Reference" "TP12"
@@ -12874,7 +12874,7 @@
 	(footprint "TestPoint:TestPoint_Pad_D1.5mm"
 		(layer "F.Cu")
 		(uuid "7dad7ac8-a631-4eb9-93d7-bd8d5a5501c8")
-		(at 126 101.5)
+		(at 123.35 99.05)
 		(descr "SMD pad as test Point, diameter 1.5mm")
 		(tags "test point SMD pad")
 		(property "Reference" "TP32"
@@ -14889,7 +14889,7 @@
 	(footprint "TestPoint:TestPoint_Pad_D1.5mm"
 		(layer "F.Cu")
 		(uuid "8af07106-be56-4007-a372-7a863852a323")
-		(at 117 91.75)
+		(at 114.35 89.3)
 		(descr "SMD pad as test Point, diameter 1.5mm")
 		(tags "test point SMD pad")
 		(property "Reference" "TP29"
@@ -16353,7 +16353,7 @@
 	(footprint "1206W4F4701T5E:RESC3115X65N"
 		(layer "F.Cu")
 		(uuid "a7676f8c-15c3-437d-ae50-dffad3293791")
-		(at 117.7 96.89 -90)
+		(at 115.05 94.44 -90)
 		(property "Reference" "R20"
 			(at 0.925 -1.885 90)
 			(layer "F.SilkS")
@@ -17406,7 +17406,7 @@
 	(footprint "1206W3F500MT5E:RESC3115X65N"
 		(layer "F.Cu")
 		(uuid "af659e78-6f7f-4165-b3b1-ea3673b409dd")
-		(at 125.85 96.66 90)
+		(at 123.2 94.21 90)
 		(property "Reference" "R19"
 			(at 0.925 -1.885 90)
 			(layer "F.SilkS")
@@ -18505,7 +18505,7 @@
 		(at 142.475 61.45)
 		(descr "Mounting Hole 3.2mm, M3, DIN965")
 		(tags "mounting hole 3.2mm m3 din965")
-		(property "Reference" "H2"
+		(property "Reference" "H3"
 			(at 0 -3.8 0)
 			(layer "F.SilkS")
 			(uuid "6106806a-7bca-4a0f-a5bc-512bbe53fbda")
@@ -25411,7 +25411,7 @@
 	(footprint "INA219AIDCNR KiCad:SOP65P280X145-8N"
 		(layer "F.Cu")
 		(uuid "f543848b-625d-4017-aa14-5fb47671c188")
-		(at 121.85 96.65)
+		(at 119.2 94.2)
 		(descr "INA219AIDCNR")
 		(tags "Integrated Circuit")
 		(property "Reference" "IC5"
@@ -26538,7 +26538,7 @@
 			)
 		)
 		(property "Value" "TP FB 5V"
-			(at -1.55 1.8 0)
+			(at -4.2 -0.65 0)
 			(layer "F.Fab")
 			(uuid "40ce95c4-caaa-47c8-be6b-5b3c79bb13c2")
 			(effects
@@ -27329,7 +27329,7 @@
 	(footprint "CL31B104KBCNNNC KiCad:CAPC3216X100N"
 		(layer "F.Cu")
 		(uuid "fc1db67b-1a6b-44b8-a06c-4876cfec10e7")
-		(at 121.95 100.25 180)
+		(at 119.3 97.8 180)
 		(descr "case code1206")
 		(tags "Capacitor")
 		(property "Reference" "C7"
@@ -28226,6 +28226,16 @@
 		(layer "Edge.Cuts")
 		(uuid "0cbdefb4-ffd3-4e5e-bf98-2412add61e30")
 	)
+	(gr_line
+		(start 163.65 110.4)
+		(end 121.85 110.55)
+		(stroke
+			(width 0.05)
+			(type default)
+		)
+		(layer "Edge.Cuts")
+		(uuid "420a8ae1-57dd-4807-b8f4-bb7c315798e7")
+	)
 	(gr_arc
 		(start 141.925131 122.95)
 		(mid 120.833794 119.608411)
@@ -28257,6 +28267,26 @@
 		)
 		(layer "Edge.Cuts")
 		(uuid "ccf03d5e-3b7b-4a39-86e1-4044605371ee")
+	)
+	(gr_line
+		(start 121.85 110.55)
+		(end 101.65 93.4)
+		(stroke
+			(width 0.05)
+			(type default)
+		)
+		(layer "Edge.Cuts")
+		(uuid "e9126151-91b6-44d0-871e-cebf43902ad3")
+	)
+	(gr_line
+		(start 163.65 110.4)
+		(end 183.629556 93.635162)
+		(stroke
+			(width 0.05)
+			(type solid)
+		)
+		(layer "Edge.Cuts")
+		(uuid "ef426d15-8415-4f8f-914e-8fe7f4bb79bf")
 	)
 	(gr_line
 		(start 101.625 50.3)
