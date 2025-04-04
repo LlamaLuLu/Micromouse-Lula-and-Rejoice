@@ -14680,6 +14680,12 @@
 		(uuid "028b848b-f59d-4f31-9cf0-b9bc51ff7979")
 	)
 	(junction
+		(at 219.71 255.27)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "04bd6d29-7501-4b64-9a88-fb9101d9d5cb")
+	)
+	(junction
 		(at 334.01 54.61)
 		(diameter 0)
 		(color 0 0 0 0)
@@ -15253,6 +15259,16 @@
 	)
 	(wire
 		(pts
+			(xy 229.87 251.46) (xy 229.87 255.27)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "0b8364de-46cc-4012-8110-e30dec717f78")
+	)
+	(wire
+		(pts
 			(xy 251.46 116.84) (xy 259.08 116.84)
 		)
 		(stroke
@@ -15683,16 +15699,6 @@
 	)
 	(wire
 		(pts
-			(xy 165.1 246.38) (xy 165.1 248.92)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "3164f6fb-b5dc-43a2-872c-f52bd53305cd")
-	)
-	(wire
-		(pts
 			(xy 251.46 123.19) (xy 250.19 123.19)
 		)
 		(stroke
@@ -15853,6 +15859,16 @@
 	)
 	(wire
 		(pts
+			(xy 168.91 254) (xy 182.88 254)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "49384ff4-4df8-4151-8c71-170b0df5f076")
+	)
+	(wire
+		(pts
 			(xy 393.7 214.63) (xy 384.81 214.63)
 		)
 		(stroke
@@ -15890,16 +15906,6 @@
 			(type default)
 		)
 		(uuid "4bb73d1a-98a1-4dae-9115-f9405444f492")
-	)
-	(wire
-		(pts
-			(xy 182.88 248.92) (xy 165.1 248.92)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "4c7cf2bc-e8ee-4176-bd66-7ad2dea6dedf")
 	)
 	(wire
 		(pts
@@ -16070,6 +16076,16 @@
 			(type default)
 		)
 		(uuid "553c1f2a-2066-4555-a2d1-cbd93549f574")
+	)
+	(wire
+		(pts
+			(xy 229.87 255.27) (xy 219.71 255.27)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "57d5cc53-7a3f-4979-87a0-73818d7dbdc9")
 	)
 	(wire
 		(pts
@@ -16533,6 +16549,16 @@
 	)
 	(wire
 		(pts
+			(xy 182.88 254) (xy 182.88 252.73)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "86c0104f-b2f6-4f5a-94f4-9a1a8e2dca35")
+	)
+	(wire
+		(pts
 			(xy 62.23 124.46) (xy 64.77 124.46)
 		)
 		(stroke
@@ -16610,6 +16636,16 @@
 			(type default)
 		)
 		(uuid "95639868-6fe1-4963-bd77-e63eb1a746cd")
+	)
+	(wire
+		(pts
+			(xy 168.91 256.54) (xy 168.91 254)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "95773df3-2367-4796-9daa-353d3cef8500")
 	)
 	(wire
 		(pts
@@ -17823,6 +17859,16 @@
 	)
 	(wire
 		(pts
+			(xy 226.06 251.46) (xy 229.87 251.46)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "fd8033d5-0f31-41e0-9702-05a1acab5f12")
+	)
+	(wire
+		(pts
 			(xy 311.15 181.61) (xy 311.15 204.47)
 		)
 		(stroke
@@ -18769,7 +18815,7 @@
 	(rule_area
 		(polyline
 			(pts
-				(xy 164.338 228.092) (xy 164.338 281.432) (xy 230.378 281.432) (xy 230.378 228.092)
+				(xy 156.972 228.092) (xy 156.972 281.432) (xy 230.378 281.432) (xy 230.378 228.092)
 			)
 			(stroke
 				(width 0)
@@ -28463,7 +28509,7 @@
 	)
 	(symbol
 		(lib_id "Connector:TestPoint")
-		(at 165.1 246.38 0)
+		(at 168.91 256.54 180)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -28471,7 +28517,7 @@
 		(dnp no)
 		(uuid "9eda9e2d-0f97-4b35-8b52-4215d76769a3")
 		(property "Reference" "TP29"
-			(at 166.116 243.586 0)
+			(at 167.894 259.334 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -28480,7 +28526,7 @@
 			)
 		)
 		(property "Value" "TP VSHUNT"
-			(at 165.608 246.126 0)
+			(at 168.402 256.794 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -28489,7 +28535,7 @@
 			)
 		)
 		(property "Footprint" "TestPoint:TestPoint_Pad_D1.5mm"
-			(at 170.18 246.38 0)
+			(at 163.83 256.54 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -28498,7 +28544,7 @@
 			)
 		)
 		(property "Datasheet" "~"
-			(at 170.18 246.38 0)
+			(at 163.83 256.54 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -28507,7 +28553,7 @@
 			)
 		)
 		(property "Description" "test point"
-			(at 165.1 246.38 0)
+			(at 168.91 256.54 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -32320,7 +32366,7 @@
 	)
 	(symbol
 		(lib_id "Connector:TestPoint")
-		(at 219.71 257.81 270)
+		(at 226.06 251.46 0)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -32328,7 +32374,7 @@
 		(dnp no)
 		(uuid "ef6ff46f-db78-4d47-b9a5-56821d2ad5df")
 		(property "Reference" "TP31"
-			(at 224.536 257.556 90)
+			(at 224.282 243.84 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -32337,7 +32383,7 @@
 			)
 		)
 		(property "Value" "TP SDA"
-			(at 223.52 259.334 90)
+			(at 223.266 245.872 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -32346,7 +32392,7 @@
 			)
 		)
 		(property "Footprint" "TestPoint:TestPoint_Pad_D1.5mm"
-			(at 219.71 262.89 0)
+			(at 231.14 251.46 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -32355,7 +32401,7 @@
 			)
 		)
 		(property "Datasheet" "~"
-			(at 219.71 262.89 0)
+			(at 231.14 251.46 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -32364,7 +32410,7 @@
 			)
 		)
 		(property "Description" "test point"
-			(at 219.71 257.81 0)
+			(at 226.06 251.46 0)
 			(effects
 				(font
 					(size 1.27 1.27)
