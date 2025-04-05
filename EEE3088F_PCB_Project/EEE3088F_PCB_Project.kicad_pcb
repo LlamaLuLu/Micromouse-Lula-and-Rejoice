@@ -12346,10 +12346,9 @@
 			)
 		)
 		(property ki_fp_filters "Connector*:*_1x??_*")
-		(path "/04fd043b-e02a-4062-9bc7-db489c74b81f")
 		(sheetname "/")
 		(sheetfile "EEE3088F_PCB_Project.kicad_sch")
-		(attr through_hole exclude_from_bom dnp)
+		(attr through_hole exclude_from_pos_files exclude_from_bom dnp)
 		(fp_line
 			(start -2.06 -1.46)
 			(end -2.06 6.36)
@@ -28506,10 +28505,9 @@
 			)
 		)
 		(property ki_fp_filters "Connector*:*_2x??_*")
-		(path "/d09126ed-1846-41e4-9d03-2d4f9c0a6d6a")
 		(sheetname "/")
 		(sheetfile "EEE3088F_PCB_Project.kicad_sch")
-		(attr through_hole exclude_from_bom dnp)
+		(attr through_hole exclude_from_pos_files exclude_from_bom dnp)
 		(fp_line
 			(start -3.87 -39.43)
 			(end 1.33 -39.43)
