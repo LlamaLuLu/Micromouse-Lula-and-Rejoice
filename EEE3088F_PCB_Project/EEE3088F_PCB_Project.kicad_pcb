@@ -2933,6 +2933,19 @@
 				)
 			)
 		)
+		(property "LCSC" "C87357"
+			(at 0 0 0)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "86029a53-8a1e-467f-b814-70fbff20c261")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
 		(path "/1bd901eb-4a1f-48c4-9bda-88e5e48f2db2")
 		(sheetname "/")
 		(sheetfile "EEE3088F_PCB_Project.kicad_sch")
@@ -5331,6 +5344,19 @@
 				)
 			)
 		)
+		(property "LCSC" "C45783"
+			(at 0 0 0)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "bafd2231-ccbe-4703-b736-92438a735de6")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
 		(path "/5453690d-9369-4354-bd3c-38a4b9687290")
 		(sheetname "/")
 		(sheetfile "EEE3088F_PCB_Project.kicad_sch")
@@ -6808,6 +6834,19 @@
 			(layer "F.Fab")
 			(hide yes)
 			(uuid "2c9b858d-f15f-4ef6-9727-de443a8141e8")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "LCSC" "C45783"
+			(at 0 0 0)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "6505d51e-af61-43aa-8e9a-d5d66af1ffc6")
 			(effects
 				(font
 					(size 1 1)
