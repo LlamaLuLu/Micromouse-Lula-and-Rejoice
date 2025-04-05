@@ -220,7 +220,7 @@
 		(path "/036620ad-5c02-44ba-864e-072cbe81b5db")
 		(sheetname "/")
 		(sheetfile "EEE3088F_PCB_Project.kicad_sch")
-		(attr exclude_from_pos_files)
+		(attr exclude_from_pos_files exclude_from_bom)
 		(fp_circle
 			(center 0 0)
 			(end 0 0.95)
@@ -616,7 +616,7 @@
 		(path "/757ac327-3671-44b7-85af-260de1e5b1d9")
 		(sheetname "/")
 		(sheetfile "EEE3088F_PCB_Project.kicad_sch")
-		(attr exclude_from_pos_files)
+		(attr exclude_from_pos_files exclude_from_bom)
 		(fp_circle
 			(center 0 0)
 			(end 0 0.95)
@@ -719,7 +719,7 @@
 		(path "/1dcf9d03-60aa-4bf6-be4c-41053312622b")
 		(sheetname "/")
 		(sheetfile "EEE3088F_PCB_Project.kicad_sch")
-		(attr exclude_from_pos_files)
+		(attr exclude_from_pos_files exclude_from_bom)
 		(fp_circle
 			(center 0 0)
 			(end 0 0.95)
@@ -1115,7 +1115,7 @@
 		(path "/eaf84986-ca2d-4556-9896-8e94e1a635af")
 		(sheetname "/")
 		(sheetfile "EEE3088F_PCB_Project.kicad_sch")
-		(attr exclude_from_pos_files)
+		(attr exclude_from_pos_files exclude_from_bom)
 		(fp_circle
 			(center 0 0)
 			(end 0 0.95)
@@ -1561,7 +1561,7 @@
 		(path "/ef6ff46f-db78-4d47-b9a5-56821d2ad5df")
 		(sheetname "/")
 		(sheetfile "EEE3088F_PCB_Project.kicad_sch")
-		(attr exclude_from_pos_files)
+		(attr exclude_from_pos_files exclude_from_bom)
 		(fp_circle
 			(center 0 0)
 			(end 0 0.95)
@@ -1664,7 +1664,7 @@
 		(path "/cb914c99-8d19-4eed-b3cf-076d5abc1fc3")
 		(sheetname "/")
 		(sheetfile "EEE3088F_PCB_Project.kicad_sch")
-		(attr exclude_from_pos_files)
+		(attr exclude_from_pos_files exclude_from_bom)
 		(fp_circle
 			(center 0 0)
 			(end 0 0.95)
@@ -2142,7 +2142,7 @@
 		(path "/c3842cfc-a97a-4217-83c5-22ecafaa24e3")
 		(sheetname "/")
 		(sheetfile "EEE3088F_PCB_Project.kicad_sch")
-		(attr exclude_from_pos_files)
+		(attr exclude_from_pos_files exclude_from_bom)
 		(fp_circle
 			(center 0 0)
 			(end 0 0.95)
@@ -2245,7 +2245,7 @@
 		(path "/7a2b3f3f-9653-47f4-888f-6917ab0425ea")
 		(sheetname "/")
 		(sheetfile "EEE3088F_PCB_Project.kicad_sch")
-		(attr exclude_from_pos_files)
+		(attr exclude_from_pos_files exclude_from_bom)
 		(fp_circle
 			(center 0 0)
 			(end 0 0.95)
@@ -2348,7 +2348,7 @@
 		(path "/7023665b-d1b9-4bde-9d13-5d7fd204b457")
 		(sheetname "/")
 		(sheetfile "EEE3088F_PCB_Project.kicad_sch")
-		(attr exclude_from_pos_files)
+		(attr exclude_from_pos_files exclude_from_bom)
 		(fp_circle
 			(center 0 0)
 			(end 0 0.95)
@@ -2744,7 +2744,7 @@
 		(path "/2a3bae28-ea9e-4873-b3f8-e94924e68cf4")
 		(sheetname "/")
 		(sheetfile "EEE3088F_PCB_Project.kicad_sch")
-		(attr exclude_from_pos_files)
+		(attr exclude_from_pos_files exclude_from_bom)
 		(fp_circle
 			(center 0 0)
 			(end 0 0.95)
@@ -3625,7 +3625,7 @@
 		(path "/715fa97f-8cd7-4bbf-b232-1d029ff80725")
 		(sheetname "/")
 		(sheetfile "EEE3088F_PCB_Project.kicad_sch")
-		(attr exclude_from_pos_files)
+		(attr exclude_from_pos_files exclude_from_bom)
 		(fp_circle
 			(center 0 0)
 			(end 0 0.95)
@@ -6652,7 +6652,7 @@
 		(path "/8f91a16e-62c8-4b19-a986-2d26475b6ce2")
 		(sheetname "/")
 		(sheetfile "EEE3088F_PCB_Project.kicad_sch")
-		(attr exclude_from_pos_files)
+		(attr exclude_from_pos_files exclude_from_bom)
 		(fp_circle
 			(center 0 0)
 			(end 0 0.95)
@@ -7977,7 +7977,7 @@
 		(path "/6fa65b2e-41cf-417c-99ad-cd98caf45c63")
 		(sheetname "/")
 		(sheetfile "EEE3088F_PCB_Project.kicad_sch")
-		(attr exclude_from_pos_files)
+		(attr exclude_from_pos_files exclude_from_bom)
 		(fp_circle
 			(center 0 0)
 			(end 0 0.95)
@@ -8902,7 +8902,7 @@
 		(path "/1297cadc-2abd-4312-87ea-f92a6babd407")
 		(sheetname "/")
 		(sheetfile "EEE3088F_PCB_Project.kicad_sch")
-		(attr exclude_from_pos_files)
+		(attr exclude_from_pos_files exclude_from_bom)
 		(fp_circle
 			(center 0 0)
 			(end 0 0.95)
@@ -9005,7 +9005,7 @@
 		(path "/3cd6da72-e751-41a8-a593-fe07570ffe33")
 		(sheetname "/")
 		(sheetfile "EEE3088F_PCB_Project.kicad_sch")
-		(attr exclude_from_pos_files)
+		(attr exclude_from_pos_files exclude_from_bom)
 		(fp_circle
 			(center 0 0)
 			(end 0 0.95)
@@ -10165,7 +10165,7 @@
 		(path "/c60d3858-2877-4b10-bf51-0477837dac74")
 		(sheetname "/")
 		(sheetfile "EEE3088F_PCB_Project.kicad_sch")
-		(attr exclude_from_pos_files)
+		(attr exclude_from_pos_files exclude_from_bom)
 		(fp_circle
 			(center 0 0)
 			(end 0 0.95)
@@ -10561,7 +10561,7 @@
 		(path "/9ff615ae-8c94-4d98-97c8-ee0574c1ef51")
 		(sheetname "/")
 		(sheetfile "EEE3088F_PCB_Project.kicad_sch")
-		(attr exclude_from_pos_files)
+		(attr exclude_from_pos_files exclude_from_bom)
 		(fp_circle
 			(center 0 0)
 			(end 0 0.95)
@@ -10664,7 +10664,7 @@
 		(path "/67427f3d-03b8-442c-8da2-9e5d86ea1f6d")
 		(sheetname "/")
 		(sheetfile "EEE3088F_PCB_Project.kicad_sch")
-		(attr exclude_from_pos_files)
+		(attr exclude_from_pos_files exclude_from_bom)
 		(fp_circle
 			(center 0 0)
 			(end 0 0.95)
@@ -13198,7 +13198,7 @@
 		(path "/b3a9b860-d034-4de9-a005-2838366f0174")
 		(sheetname "/")
 		(sheetfile "EEE3088F_PCB_Project.kicad_sch")
-		(attr exclude_from_pos_files)
+		(attr exclude_from_pos_files exclude_from_bom)
 		(fp_circle
 			(center 0 0)
 			(end 0 0.95)
@@ -13301,7 +13301,7 @@
 		(path "/e9239eb3-b892-4db7-a73d-a6d8b9b5c04e")
 		(sheetname "/")
 		(sheetfile "EEE3088F_PCB_Project.kicad_sch")
-		(attr exclude_from_pos_files)
+		(attr exclude_from_pos_files exclude_from_bom)
 		(fp_circle
 			(center 0 0)
 			(end 0 0.95)
@@ -15394,7 +15394,7 @@
 		(path "/9eda9e2d-0f97-4b35-8b52-4215d76769a3")
 		(sheetname "/")
 		(sheetfile "EEE3088F_PCB_Project.kicad_sch")
-		(attr exclude_from_pos_files)
+		(attr exclude_from_pos_files exclude_from_bom)
 		(fp_circle
 			(center 0 0)
 			(end 0 0.95)
@@ -15497,7 +15497,7 @@
 		(path "/0e33c1d9-7908-413e-9229-561e6ebbd834")
 		(sheetname "/")
 		(sheetfile "EEE3088F_PCB_Project.kicad_sch")
-		(attr exclude_from_pos_files)
+		(attr exclude_from_pos_files exclude_from_bom)
 		(fp_circle
 			(center 0 0)
 			(end 0 0.95)
@@ -15943,7 +15943,7 @@
 		(path "/9078a5e8-e982-4322-a34c-5b324414ce49")
 		(sheetname "/")
 		(sheetfile "EEE3088F_PCB_Project.kicad_sch")
-		(attr exclude_from_pos_files)
+		(attr exclude_from_pos_files exclude_from_bom)
 		(fp_circle
 			(center 0 0)
 			(end 0 0.95)
@@ -16398,7 +16398,7 @@
 		(path "/66150eb4-77dc-4f7e-9418-86ba26fc4db4")
 		(sheetname "/")
 		(sheetfile "EEE3088F_PCB_Project.kicad_sch")
-		(attr exclude_from_pos_files)
+		(attr exclude_from_pos_files exclude_from_bom)
 		(fp_circle
 			(center 0 0)
 			(end 0 0.95)
@@ -16501,7 +16501,7 @@
 		(path "/9dd2e7ad-7d10-4690-abcd-2ac8327daae3")
 		(sheetname "/")
 		(sheetfile "EEE3088F_PCB_Project.kicad_sch")
-		(attr exclude_from_pos_files)
+		(attr exclude_from_pos_files exclude_from_bom)
 		(fp_circle
 			(center 0 0)
 			(end 0 0.95)
@@ -17240,7 +17240,7 @@
 		(path "/00fa5774-74cb-4348-893f-f27aa7e7f90c")
 		(sheetname "/")
 		(sheetfile "EEE3088F_PCB_Project.kicad_sch")
-		(attr exclude_from_pos_files)
+		(attr exclude_from_pos_files exclude_from_bom)
 		(fp_circle
 			(center 0 0)
 			(end 0 0.95)
@@ -17873,7 +17873,7 @@
 		(path "/5e4ad44f-50a1-435d-8d00-1df0390611fc")
 		(sheetname "/")
 		(sheetfile "EEE3088F_PCB_Project.kicad_sch")
-		(attr exclude_from_pos_files)
+		(attr exclude_from_pos_files exclude_from_bom)
 		(fp_circle
 			(center 0 0)
 			(end 0 0.95)
@@ -18319,7 +18319,7 @@
 		(path "/8a98716f-38f9-4b39-95ab-d8c4f7246765")
 		(sheetname "/")
 		(sheetfile "EEE3088F_PCB_Project.kicad_sch")
-		(attr exclude_from_pos_files)
+		(attr exclude_from_pos_files exclude_from_bom)
 		(fp_circle
 			(center 0 0)
 			(end 0 0.95)
@@ -18892,7 +18892,7 @@
 		(path "/a3e26a5a-d400-4927-abbc-b5a5d274395b")
 		(sheetname "/")
 		(sheetfile "EEE3088F_PCB_Project.kicad_sch")
-		(attr exclude_from_pos_files)
+		(attr exclude_from_pos_files exclude_from_bom)
 		(fp_circle
 			(center 0 0)
 			(end 0 0.95)
@@ -18995,7 +18995,7 @@
 		(path "/901ef112-9d11-40cc-9132-cabd84fba7c4")
 		(sheetname "/")
 		(sheetfile "EEE3088F_PCB_Project.kicad_sch")
-		(attr exclude_from_pos_files)
+		(attr exclude_from_pos_files exclude_from_bom)
 		(fp_circle
 			(center 0 0)
 			(end 0 0.95)
@@ -21365,7 +21365,7 @@
 		(path "/db01cad2-4b5c-45c1-b6e8-cab3de0cc9ae")
 		(sheetname "/")
 		(sheetfile "EEE3088F_PCB_Project.kicad_sch")
-		(attr exclude_from_pos_files)
+		(attr exclude_from_pos_files exclude_from_bom)
 		(fp_circle
 			(center 0 0)
 			(end 0 0.95)
@@ -22311,7 +22311,7 @@
 		(path "/97006794-a67a-49ed-b014-7a3e05a663bc")
 		(sheetname "/")
 		(sheetfile "EEE3088F_PCB_Project.kicad_sch")
-		(attr exclude_from_pos_files)
+		(attr exclude_from_pos_files exclude_from_bom)
 		(fp_circle
 			(center 0 0)
 			(end 0 0.95)
@@ -23710,7 +23710,7 @@
 		(path "/ba6b8303-7ae5-4bd8-bd75-b7d6a5006551")
 		(sheetname "/")
 		(sheetfile "EEE3088F_PCB_Project.kicad_sch")
-		(attr exclude_from_pos_files)
+		(attr exclude_from_pos_files exclude_from_bom)
 		(fp_circle
 			(center 0 0)
 			(end 0 0.95)
@@ -23813,7 +23813,7 @@
 		(path "/7bf34ebb-d776-4276-a2ac-b59833a567cf")
 		(sheetname "/")
 		(sheetfile "EEE3088F_PCB_Project.kicad_sch")
-		(attr exclude_from_pos_files)
+		(attr exclude_from_pos_files exclude_from_bom)
 		(fp_circle
 			(center 0 0)
 			(end 0 0.95)
@@ -24611,7 +24611,7 @@
 		(path "/64621fd9-60f6-4b56-be58-cf2bc4b0cb77")
 		(sheetname "/")
 		(sheetfile "EEE3088F_PCB_Project.kicad_sch")
-		(attr exclude_from_pos_files)
+		(attr exclude_from_pos_files exclude_from_bom)
 		(fp_circle
 			(center 0 0)
 			(end 0 0.95)
@@ -27380,7 +27380,7 @@
 		(path "/341e2b96-1ab2-4661-956d-fa4618afdb63")
 		(sheetname "/")
 		(sheetfile "EEE3088F_PCB_Project.kicad_sch")
-		(attr exclude_from_pos_files)
+		(attr exclude_from_pos_files exclude_from_bom)
 		(fp_circle
 			(center 0 0)
 			(end 0 0.95)
@@ -28109,7 +28109,7 @@
 		(path "/71792d95-c126-45b3-8246-260cd7668ee4")
 		(sheetname "/")
 		(sheetfile "EEE3088F_PCB_Project.kicad_sch")
-		(attr exclude_from_pos_files)
+		(attr exclude_from_pos_files exclude_from_bom)
 		(fp_circle
 			(center 0 0)
 			(end 0 0.95)
