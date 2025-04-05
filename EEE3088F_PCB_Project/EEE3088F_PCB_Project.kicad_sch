@@ -17947,7 +17947,7 @@
 		)
 		(uuid "0ae84e73-cc88-40db-af18-82c0f0d64c40")
 	)
-	(label "LOAD2"
+	(label "EXT_LOAD2_OUT"
 		(at 283.21 270.51 0)
 		(effects
 			(font
@@ -18217,7 +18217,7 @@
 		)
 		(uuid "5bce014a-03c2-40ff-864b-56a97a588698")
 	)
-	(label "LOAD1"
+	(label "EXT_LOAD1_OUT"
 		(at 283.21 240.03 0)
 		(effects
 			(font
@@ -18785,7 +18785,7 @@
 	(rule_area
 		(polyline
 			(pts
-				(xy 232.41 212.09) (xy 232.41 280.67) (xy 296.926 280.67) (xy 296.926 212.09)
+				(xy 232.41 212.09) (xy 232.41 280.67) (xy 299.212 280.924) (xy 299.212 212.344)
 			)
 			(stroke
 				(width 0)
