@@ -1,7 +1,5 @@
 (fp_lib_table
   (version 7)
-  (lib (name "CL31B105KBHNNNE footprint")(type "KiCad")(uri "${KIPRJMOD}/Imported components/A bunch of components/CL31B105KBHNNNE footprint.pretty")(options "")(descr ""))
-  (lib (name "HUSB237-AA001-DN06R")(type "KiCad")(uri "${KIPRJMOD}/Imported components/A bunch of components/HUSB237-AA001-DN06R.pretty")(options "")(descr ""))
-  (lib (name "1MS1T1B1M1QES-5 footprint")(type "KiCad")(uri "${KIPRJMOD}/Imported components/A bunch of components/1MS1T1B1M1QES-5 footprint.pretty")(options "")(descr ""))
   (lib (name "CL31B105KBHNNNE")(type "KiCad")(uri "${KIPRJMOD}/Imported components/A bunch of components/CL31B105KBHNNNE.pretty")(options "")(descr ""))
+  (lib (name "HUSB237-AA001-DN06R")(type "KiCad")(uri "${KIPRJMOD}/Imported components/A bunch of components/HUSB237-AA001-DN06R.pretty")(options "")(descr ""))
 )
