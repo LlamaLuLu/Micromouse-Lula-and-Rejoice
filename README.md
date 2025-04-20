@@ -96,8 +96,7 @@ _Including:_
   
 ---
 
-## 👨‍💻 Authors
+## 👨‍💻 Authors: Group 66
 
 - **Lulama Lingela** (LNGLUL002)
 - **Rejoice Matema** (MTMREJ003)
-- **Group 66 – EEE3088F 2025**
