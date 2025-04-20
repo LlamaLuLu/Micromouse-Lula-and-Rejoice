@@ -76,7 +76,7 @@
 The final PCB submission is in a zipped folder:
 [Final PCB Files](./EEE3088F_PCB_Project/jlcpcb/production_files/EEE3088F_2025_Project_PCB_Files_Group_66_LNGLUL002_MTMREJ003.zip)
 
-_Including:_
+_ZIP File Includes:_
 1. Zipped **Gerber** files (with silkscreen including group & student numbers)
 2. **BOM `.csv`** file  
 3. **POS/CPL `.csv`** file  
